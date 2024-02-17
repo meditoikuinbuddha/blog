@@ -9,5 +9,6 @@ header:
   actions:
     - label: "Lue lisää"
       url: "/info"
-      entries_layout: grid
+      
+entries_layout: grid
 ---

@@ -1,6 +1,7 @@
 ---
 layout: home
 remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
 
 title: "Buddhan opetuksia suomeksi"
 tagline: "Löydä ilo hiljaisuudesta!"

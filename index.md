@@ -1,6 +1,7 @@
 ---
 layout: home
 remote_theme: mmistakes/minimal-mistakes
+
 title: "Buddhan opetuksia suomeksi"
 tagline: "Löydä ilo hiljaisuudesta!"
 header: 

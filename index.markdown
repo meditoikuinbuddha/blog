@@ -1,5 +1,6 @@
 ---
 layout: home
+
 title: "Buddhan opetuksia suomeksi"
 tagline: "Löydä ilo hiljaisuudesta!"
 header: 
@@ -9,5 +10,6 @@ header:
   actions:
     - label: "Lue lisää"
       url: "/info"
+      
 entries_layout: grid
 ---

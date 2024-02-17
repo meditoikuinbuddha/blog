@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 
 title: "Buddhan opetuksia suomeksi"
 tagline: "Löydä ilo hiljaisuudesta!"

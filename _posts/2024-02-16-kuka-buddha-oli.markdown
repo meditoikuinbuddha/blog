@@ -15,11 +15,7 @@ entries_layout: grid
 author:
   name     : "Kirjoittaja: admin"
   avatar   : "assets/images/dhammacakka.jpg"
-  bio      : "Buddhan opetuksien jäljillä."
-  location : "Suomi"
-  links:
-    - label: "Anna palautetta"
-      url: "meditoikuinbuddha@gmail.com"
+  bio      : "meditoikuinbuddha@gmail.com."
 ---
 <figure>
 <img src="assets/images/firstsermon.jpg" alt="Buddhan opetusura alkaa">

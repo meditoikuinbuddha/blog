@@ -11,7 +11,6 @@ header:
   actions:
     - label: "Lue lisää"
       url: "/info"
-locale: "fi"
 entries_layout: grid
 
 

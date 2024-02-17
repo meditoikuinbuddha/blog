@@ -19,7 +19,6 @@ author:
   location : "Suomi"
   links:
     - label: "Anna palautetta"
-      icon: "assets/images/gmail.png"
       url: "meditoikuinbuddha@gmail.com"
 ---
 <figure>

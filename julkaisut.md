@@ -7,7 +7,7 @@ feature_row:
     alt: "tiivistelmät"
     title: <a href="/meditoikuinbuddha/categories/tiivistelmat/">Tiivistelmät</a>
     excerpt: "Lyhyitä tietopaketteja buddhalaisuudesta."
-  - image_path: /assets/images/mikki.jpg
+  - image_path: /assets/images/munkkimikki.jpg
     alt: "munkkimikki"
     title: <a href="/meditoikuinbuddha/categories/puheenvuorot/">Puheenvuorot</a>
     excerpt: "Kokemuksen ääntä luostareista."

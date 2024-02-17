@@ -9,12 +9,13 @@ sidebar:
   - title: "Seuraa Facebookissa"
     text: <a href="https://www.facebook.com/profile.php?id=61555870603768">Meditoi kuin Buddha</a>
 ---
+Kaikki haluavat meditoida, mutta miten se oikein tapahtuu?
 
-Tämä sivuston tarkoituksena on jakaa Buddhan varhaisimpia opetuksia selkeällä suomen kielellä. Lue aiheesta lyhyt tiivistelmä <a href="/kukabuddhaoli">täältä</a>.
+Buddhan opetuksissa teoria ja käytäntö lyövät kättä. Opetuksien ymmärtäminen antaa pohjan meditoinnille.
 
-Buddhan opetuksissa teoria ja käytäntö lyövät kättä. Opetuksien ymmärtäminen antaa pohjan käytännön harjoitukselle.
+Tällä sivustolla jaamme <a href="/kukabuddhaoli">Buddhan opetuksia</a> selkeällä suomen kielellä.
 
-Päätavoitteemme on oppia meditoimaan kuin Buddha. Tule mukaan!
+Tavoitteemme on siis oppia meditoimaan kuin Buddha. Tule mukaan!
 
 
 

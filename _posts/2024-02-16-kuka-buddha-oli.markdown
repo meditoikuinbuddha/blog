@@ -12,7 +12,7 @@ header:
 entries_layout: grid
 
 author:
-  name: "Your Name"
+  name: "meditoikuinbuddha.fi"
   avatar: "/assets/images/avatar.jpg"
   bio: "Buddhan jäljillä."
   location: "Suomi"

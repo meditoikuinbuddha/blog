@@ -5,7 +5,7 @@ excerpt: "Kokeneen munkin ajatuksia."
 date: 2024-02-18 12:00:00 +0200
 author: "Ajahn Brahm"
 category: Puheenvuoro
-permalink: hankalatihmiset
+permalink: munkkiyksin
 header: 
        teaser: assets/images/bodhinyana.jpg
 

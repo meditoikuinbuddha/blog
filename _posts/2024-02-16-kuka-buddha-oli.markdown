@@ -12,7 +12,7 @@ header:
 entries_layout: grid
 
 author:
-  name     : "Kirjoittaja: meditoikuinbuddha.fi"
+  name     : "Kirjoittaja: Meditoi kuin Buddha"
   avatar   : "assets/images/dhammacakka.jpg"
   bio      : "Buddhan opetuksien jäljillä."
       - label: "Ota yhteyttä"

@@ -11,7 +11,7 @@ feature_row:
     alt: "munkkimikki"
     title: <a href="/meditoikuinbuddha/categories/puheenvuorot/">Puheenvuorot</a>
     excerpt: "Kokemuksen ääntä luostareista."
-  - image_path: /assets/images/reading.jpg
+  - image_path: /assets/images/opetuksetkuva.jpg
     title: <a href="/meditoikuinbuddha/categories/opetukset/">Opetukset</a>
     excerpt: "Buddhan opetuksien tutkimista."
 

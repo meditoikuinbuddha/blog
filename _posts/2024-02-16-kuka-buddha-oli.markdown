@@ -15,6 +15,7 @@ author:
 name: "Meditoi kuin Buddha"
 avatar: "assets/images/dhammacakka.jpg"
 bio: "Buddhan opetuksien jäljillä."
+location: ""
 links: 
     - label: "Ota yhteyttä:"
       icon: "<i class="fas fa-envelope"></i>"

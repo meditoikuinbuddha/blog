@@ -23,7 +23,7 @@ author:
 <figcaption> Ajahn Brahm almukierroksella kotiluostarissaan. Kuva: DNBF.org</figcaption>
 </figure>
 
-Munkkina minulta usein kysytään, miltä tuntuu elää ilman puolisoa tai lapsia. Tunnenko itseäni yksinäiseksi? Joskus olen viettänyt kuukausia hiljaa puhumatta kenellekään. Eikö se käy yksinäiseksi?
+Munkkina minulta usein kysytään, miltä tuntuu elää ilman puolisoa tai lapsia. Tunnenko itseäni yksinäiseksi? Joskus olen viettänyt kuukausia hiljaa puhumatta kenellekään. Alkaako silloin yksinäisyys kalvaa mieltä?
 
 Totta puhuen en koskaan tunne oloani yksinäiseksi. Minulla ei ole minkäänlaista tarvetta viettää aikaa muiden ihmisten kanssa. Pidän ihmisistä, mutta minun ei tarvi olla heidän seurassaan. Miksi? Koska todellisuudessa en ole koskaan yksin. Luonani on aina joku: minä itse. Pidän itsestäni niin paljon, että olen aina parhaan ystäväni seurassa.
 

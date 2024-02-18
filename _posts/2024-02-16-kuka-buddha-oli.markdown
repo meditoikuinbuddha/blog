@@ -7,7 +7,8 @@ category: "tietoisku"
 permalink: kukabuddhaoli
 header: 
        teaser: assets/images/firstsermon.jpg
-entries_layout:"grid"
+
+entries_layout: grid
 
 author_profile: true
 author:

@@ -8,7 +8,9 @@ category: Puheenvuoro
 permalink: hankalatihmiset
 header: 
        teaser: assets/images/bodhinyana.jpg
-       
+
+entries_layout: grid
+
 author:
   name: "Ajahn Brahm"
   avatar: "/assets/images/avatarbrahm.png"

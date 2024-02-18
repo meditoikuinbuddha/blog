@@ -11,6 +11,7 @@ header:
 entries_layout: grid
 
 author_profile: true
+
 author:
 name: "Meditoi kuin Buddha"
 avatar: "assets/images/dhammacakka.jpg"

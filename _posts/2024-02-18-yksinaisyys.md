@@ -50,12 +50,10 @@ Kun kömmin iltamyöhään luolaani, jossa nukun, menen aina parhaan ystäväni 
 
 Yksinäiset ihmiset ovat yksinäisiä, koska eivät pidä itsestään. He pelkäävät itseään. Kun muut ihmiset poistuvat paikalta jäljelle jää outo ja kauhistuttava olento nimeltä "minä". Sitä olentoa ei ole vielä ymmärretty, eikä sen kanssa ole tehty rauhaa. Mutta kun ihminen ymmärtää ja hyväksyy itsensä rauhanomainen yhteiselo ja jopa omasta itsestään pitäminen on mahdollista.
 
-One of the greates insight you can ever have is "I'm okay". To realize there is nothing wrong with you. As you are you are perfect. You don't believe that which is why you keep trying to change yourself.
-
-Siksi yksi syvällisimmistä oivallista onkin: "olen okei". Minussa ei ole mitään vikaa. Olen täydellinen sellaisena kuin olen. Niin kauan kuin tätä tosiasiaa ei hyväksy, koittaa aina muuttaa itseään.
+Siksi yksi syvällisimmistä oivalluksista onkin: "olen okei". Minussa ei ole mitään vikaa. Olen täydellinen sellaisena kuin olen. Niin kauan kuin tätä tosiasiaa ei hyväksy, koittaa aina muuttaa itseään.
 
 Kun ongelma nimeltä "minä" korjaantuu, ei muista ihmisistä ole juuri harmia. "Hankalia" ihmisiä ei enää ole, koska muiden hangaluus on pohjimmiltaan heijastus omasta mielestäsi. Usein on helppo huomata, että muita ihmisiä kritisoivat puhuvat tosiasiassa itsestään.
 
 Itsensä hyväksyminen parantaa haavat ja antaa mahdollisuuden hyväksyä kenet tahansa.
 
-<i>Kirjoittaja on Bodhinyana-luostarin johtaja ja tunnettu meditointimestari. Teksti on käännösote puheesta, jonka voit kuunnella kokonaisuudessaan <a href="https://www.youtube.com/watch?v=jniaUr_7438&t=2105s>täältä.</a> </i>
+<i>Kirjoittaja on Bodhinyana-luostarin johtaja ja tunnettu meditointimestari. Teksti on käännösote puheesta, jonka voit kuunnella kokonaisuudessaan <a href="https://www.youtube.com/watch?v=jniaUr_7438&t=2105s">täältä.</a> </i>

@@ -1,14 +1,26 @@
 ---
 layout:"categories"
 title:"Kuka Buddha oli ja mitä hän opetti? – Erittäin lyhyt tiivistelmä"
-excerpt:<h3>Mistä kaikki alkoi.</h3>
-date:2024-02-16 19:00:00 +0200
+excerpt:"<h3>Mistä kaikki alkoi.</h3>"
+date:"2024-02-16 19:00:00 +0200"
 category: "tietoisku"
 permalink: kukabuddhaoli
 header: 
 teaser:"assets/images/firstsermon.jpg"
-entries_layout:grid
+entries_layout:"grid"
 
+author_profile: true
+author:
+name: "Meditoi kuin Buddha"
+avatar: "assets/images/dhammacakka.jpg"
+bio: "Buddhan opetuksien jäljillä."
+links:
+      - label: "Ota yhteyttä"
+        icon: <i class="fas fa-envelope"></i>"
+        url: "meditoikuinbuddha@gmail.com"
+        - label: "Seuraa Facebookissa"
+        icon: <i class="fab fa-facebook-f"></i>
+        url: "https://www.facebook.com/profile.php?id=61555870603768"
 ---
 <figure>
 <img src="assets/images/firstsermon.jpg" alt="Buddhan opetusura alkaa">

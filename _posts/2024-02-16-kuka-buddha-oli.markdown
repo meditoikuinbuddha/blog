@@ -13,11 +13,11 @@ entries_layout: grid
 
 author:
   name: "Your Name"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person." # Note: Markdown is allowed
-  location: "Somewhere"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "Buddhan jäljillä."
+  location: "Suomi"
   links:
-    - label: "Made Mistakes"
+    - label: "Made mistakes"
       icon: "fas fa-fw fa-link"
       url: "https://mademistakes.com"
     - label: "Twitter"

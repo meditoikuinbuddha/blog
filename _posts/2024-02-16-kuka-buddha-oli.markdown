@@ -10,7 +10,6 @@ permalink: "kukabuddhaoli"
 header: 
   teaser: "assets/images/firstsermon.jpg"
 entries_layout: grid
-
 author:
   name     : "Kirjoittaja: Meditoi kuin Buddha"
   avatar   : "assets/images/dhammacakka.jpg"

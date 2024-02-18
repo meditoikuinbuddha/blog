@@ -7,14 +7,22 @@ author: "Ajahn Brahm"
 category: Puheenvuoro
 permalink: hankalatihmiset
 header: 
-       teaser: assets/images/firstsermon.jpg
+       teaser: assets/images/mutkatie.jpg
 
 author:
   name: "Ajahn Brahm"
   avatar: "/assets/images/avatarbrahm.png"
-  bio: ""
+  bio: "Metsämunkki Australiasta."
   location: "Bodhinyana, Länsi-Australia"
+    links:
+    - label: "Lisää opettajalta"
+      icon: "fas fa-fw fa-link"
+      url: "https://bswa.org/teachings/?teaching_topic=560&teacher=564"
 ---
+<figure>
+<img src="assets/images/mutkatie.jpg" alt="mutkainentie">
+<figcaption> Kuva: Jaromir Kavan/Unsplash</figcaption>
+</figure>
 Miksi ihmiset ovat hankalia? Syy siihen on elämän kanssa kinastelu, omalle elämälle suuttuminen. Usein taustalla on liian rankkaa työntekoa, jolloin stressi pitää purkaa muihin ihmisiin.
 
 Stressaantuminen aiheuttaa negatiivisen kierteen. Maltillinen määrä meditointia on oiva apukeino stressin lievittämiseksi. Vertauskuvaksi sopii vesilasin nostaminen pöydältä. Jos lasia pitää hyppysissään liian kauan, siitä tulee pirun painava. Mutta kun lasin laskee pöydälle edes viideksi minuutiksi sama vesilasillinen tuntuu yhtäkkiä paljon kevyemmältä. 
@@ -27,8 +35,12 @@ Joten miksi meditoida? Yksi hyvä syy on se, että muut ihmiset joutuvat kestäm
 
 Monet ihmiset tulevat meditointikeskuksiin tai luostareihin oppiakseen hyväksymään itsensä ja elämään itsensä kanssa. He eivät halua olla oman elämänsä vaikeimpia ihmisiä.
 
-
 <h2>Ystävällisyys parantaa yksinäisyyden</h2>
+
+<figure>
+<img src="assets/images/bodhinyana.jpg" alt="mutkainentie">
+<figcaption> Ajahn Brahm almukierroksella kotiluostarissaan. Kuva: DNBF.org</figcaption>
+</figure>
 
 Munkkina minulta usein kysytään, miltä tuntuu elää ilman puolisoa tai lapsia. Tunnenko itseäni yksinäiseksi? Joskus olen viettänyt kuukausia hiljaa puhumatta kenellekään. Eikö se käy yksinäiseksi?
 
@@ -46,4 +58,4 @@ Kun ongelma nimeltä "minä" korjaantuu, ei muista ihmisistä ole juuri harmia. 
 
 Itsensä hyväksyminen parantaa haavat ja antaa mahdollisuuden hyväksyä kenet tahansa.
 
-<i>Kirjoittaja on Bodhinyana-luostarin johtaja ja tunnettu meditointimestari. Teksti on käännösote puheesta, jonka voit kuunnella kokonaisuudessaan täältä.</i>
+<i>Kirjoittaja on Bodhinyana-luostarin johtaja ja tunnettu meditointimestari. Teksti on käännösote puheesta, jonka voit kuunnella kokonaisuudessaan <a href="https://www.youtube.com/watch?v=jniaUr_7438&t=2105s>täältä.</a></i>

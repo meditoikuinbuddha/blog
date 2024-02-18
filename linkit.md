@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/images/wiswon.jpg
     title: <a href="https://wiswo.org">Wisdom and Wonders</a>
     excerpt: "Ilmaisia e-kirjoja ja kursseja."
-  - image_path: /assets/images/anukampa.png
+  - image_path: /assets/images/anukampa2.jpg
     alt: "anukampa"
     title: <a href="https://anukampaproject.org/">Anukampa Bhikkhunī Project</a>
     excerpt: "Luostariprojekti Englannissa."

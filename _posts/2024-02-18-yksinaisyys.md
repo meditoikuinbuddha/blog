@@ -36,7 +36,11 @@ Kömpiessäni iltamyöhään sänkyyni menen aina parhaan ystäväni kanssa nukk
 <figcaption> Yksinolo ei tarkoita yksinäisyyttä. Kuva: Benjamin Davies/Unsplash </figcaption>
 </figure>
 
-Yksinäiset ihmiset ovat yksinäisiä, koska eivät pidä itsestään. He pelkäävät itseään. Kun muut ihmiset poistuvat paikalta jäljelle jää outo ja kauhistuttava olento nimeltä "minä". Sitä olentoa ei ole vielä ymmärretty, eikä sen kanssa ole tehty rauhaa. Mutta kun ihminen ymmärtää ja hyväksyy itsensä rauhanomainen yhteiselo ja jopa omasta itsestään pitäminen on mahdollista.
+Yksinäiset ihmiset ovat yksinäisiä, koska eivät pidä itsestään. He pelkäävät itseään. 
+
+Kun muut ihmiset poistuvat paikalta yksinäisen ihmisen seuralaiseksi jää outo ja kauhistuttava olento nimeltä "minä". Sitä olentoa ei ole vielä ymmärretty, eikä sen kanssa ole tehty rauhaa. 
+
+Mutta kun ihminen ymmärtää ja hyväksyy itsensä rauhanomainen yhteiselo ja jopa omasta itsestään pitäminen on mahdollista.
 
 Siksi yksi syvällisimmistä oivalluksista onkin: "olen okei". Minussa ei ole mitään vikaa. Olen täydellinen sellaisena kuin olen. Niin kauan kuin tätä tosiasiaa ei hyväksy, koittaa aina muuttaa itseään.
 

@@ -1,7 +1,13 @@
 ---
 layout: categories
 title: Buddhan vertauskuvat
+excerpt: "<h3>Mistä kaikki alkoi.</h3>"
+date: 2024-02-18 12:00:00 +0200
+author: "admin"
+category: "puheenvuoro"
 permalink: vertauskuvat
+header: 
+       teaser: assets/images/firstsermon.jpg
 
 author:
   name: "Your Name"

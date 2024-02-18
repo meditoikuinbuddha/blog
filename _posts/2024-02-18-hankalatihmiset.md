@@ -37,6 +37,10 @@ Monet ihmiset tulevat meditointikeskuksiin tai luostareihin oppiakseen hyväksym
 
 <h2>Ystävällisyys parantaa yksinäisyyden</h2>
 
+<figure>
+<img src="assets/images/yksin.jpg" alt="yksin">
+<figcaption> Yksinolo ei tarkoita yksinäisyyttä. Kuva: Benjamin Davies/Unsplash </figcaption>
+</figure>
 
 Munkkina minulta usein kysytään, miltä tuntuu elää ilman puolisoa tai lapsia. Tunnenko itseäni yksinäiseksi? Joskus olen viettänyt kuukausia hiljaa puhumatta kenellekään. Eikö se käy yksinäiseksi?
 

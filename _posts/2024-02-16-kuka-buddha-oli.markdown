@@ -18,7 +18,7 @@ author:
   location: "Suomi"
   links:
     - label: "Ota yhteyttä!"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-envelope"
       url: "https://mademistakes.com"
     - label: "Seuraa Facebookissa"
       icon: "fab fa-facebook-f"

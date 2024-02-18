@@ -23,8 +23,8 @@ feature_row:
     title: <a href="https://wiswo.org">Wisdom and Wonders</a>
     excerpt: "Ilmaisia e-kirjoja ja kursseja."
   - image_path: /assets/images/abp.png
-    alt: "bswa"
-    title: <a href="https://bswa.org/online/">Anukampa Bhikkhunī Project</a>
+    alt: "anukampa"
+    title: <a href="https://anukampaproject.org/">Anukampa Bhikkhunī Project</a>
     excerpt: "Luostariprojekti Englannissa."
   - image_path: /assets/images/dnbflogo.png
     title: <a href="https://dnbf.org">The Buddhist Society of Norway</a>

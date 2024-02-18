@@ -11,7 +11,7 @@ feature_row:
     alt: "munkkimikki"
     title: <a href="/meditoikuinbuddha/categories/puheenvuoro/">Puheenvuoro</a>
     excerpt: "Äänessä kokeneet opettajat."
-  - image_path: /assets/images/lukuhetki.jpg
+  - image_path: /assets/images/reading.jpg
     title: <a href="/meditoikuinbuddha/categories/lukuhetki/">Lukuhetki</a>
     excerpt: "Syvenny Buddhan opetuksiin."
 

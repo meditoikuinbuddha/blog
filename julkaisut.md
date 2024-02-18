@@ -5,18 +5,18 @@ permalink: /julkaisut/
 feature_row:
   - image_path: /assets/images/makaavabuddha.jpg
     alt: "tiivistelmät"
-    title: <a href="/meditoikuinbuddha/categories/tiivistelmat/">Tiivistelmät</a>
-    excerpt: "Lyhyitä tietopaketteja buddhalaisuudesta."
+    title: <a href="/meditoikuinbuddha/categories/tiivistelmat/">Tietoisku</a>
+    excerpt: "Ytimekkäitä tietoiskuja buddhalaisuudesta."
   - image_path: /assets/images/munkkimikki.jpg
     alt: "munkkimikki"
-    title: <a href="/meditoikuinbuddha/categories/puheenvuorot/">Puheenvuorot</a>
-    excerpt: "Kokemuksen ääntä luostareista."
+    title: <a href="/meditoikuinbuddha/categories/puheenvuorot/">Puheenvuoro</a>
+    excerpt: "Äänessä kokeneet opettajat."
   - image_path: /assets/images/opetuksetkuva.jpg
-    title: <a href="/meditoikuinbuddha/categories/opetukset/">Opetukset</a>
-    excerpt: "Buddhan opetuksien tutkimista."
+    title: <a href="/meditoikuinbuddha/categories/opetukset/">Lukuhetki</a>
+    excerpt: "Syvenny Buddhan opetuksiin."
 
 ---
 
 {% include feature_row %}
 
-Kuvat: photodarma.net, Jukka Aalho/Unsplash, Aaron Burden/Unsplash
+Kuvat: photodarma.net, wisdomexperience.org

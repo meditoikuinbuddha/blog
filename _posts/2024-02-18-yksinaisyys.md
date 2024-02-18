@@ -25,9 +25,9 @@ author:
 
 Munkkina minulta usein kysytään, miltä tuntuu elää ilman puolisoa tai lapsia. Tunnenko itseni yksinäiseksi? Joskus olen viettänyt kuukausia hiljaa puhumatta kenellekään. Alkaako silloin mieltä kaihertaa?
 
-Totta puhuen en koskaan tunne oloani yksinäiseksi. Minulla ei ole minkäänlaista tarvetta viettää aikaa muiden ihmisten kanssa. Pidän ihmisistä, mutta minun ei tarvi olla heidän seurassaan. Miksi? Koska todellisuudessa en ole koskaan yksin. Luonani on aina joku: minä itse. Pidän itsestäni niin paljon, että olen aina parhaan ystäväni seurassa.
+Rehellinen vastaus kysymyksiin on kieltävä. Minulla ei ole minkäänlaista tarvetta viettää aikaa muiden ihmisten kanssa. Pidän ihmisistä, mutta minun ei tarvi olla heidän seurassaan. Miksi? Koska todellisuudessa en ole koskaan yksin. Luonani on aina joku: minä itse. Pidän itsestäni niin paljon, että olen aina parhaan ystäväni seurassa.
 
-Kun kömmin iltamyöhään luolaani, jossa nukun, menen aina parhaan ystäväni kanssa nukkumaan. Se olen minä itse. Olen tehnyt rauhan itseni kanssa ja hyväksynyt itseni. En ole täydellinen, mutta olen tarpeeksi hyvä, joten en ole koskaan yksin.
+Kömpiessäni iltamyöhään sänkyyni menen aina parhaan ystäväni kanssa nukkumaan. Se olen minä itse. Olen tehnyt rauhan itseni kanssa ja hyväksynyt itseni. En ole täydellinen, mutta olen tarpeeksi hyvä, joten en ole koskaan yksin.
 
 <h2>Ystävällisyys parantaa yksinäisyyden</h2>
 

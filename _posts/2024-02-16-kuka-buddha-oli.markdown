@@ -12,15 +12,15 @@ header:
 entries_layout: grid
 
 author:
-  name     : "Kirjoittaja: Meditoi kuin Buddha"
-  avatar   : "assets/images/dhammacakka.jpg"
-  bio      : "Buddhan opetuksien jäljillä."
-      - label: "Ota yhteyttä"
-      icon: "fas fa-envelope"
-      url: "meditoikuinbuddha@gmail.com"
-    - label: "Seuraa Facebookissa"
-      icon: "fab fa-facebook-f"
-      url: "https://www.facebook.com/profile.php?id=61555870603768"
+name: "Kirjoittaja: Meditoi kuin Buddha"
+avatar: "assets/images/dhammacakka.jpg"
+bio: "Buddhan opetuksien jäljillä."
+- label: "Ota yhteyttä"
+icon: "fas fa-envelope"
+url: "meditoikuinbuddha@gmail.com"
+- label: "Seuraa Facebookissa"
+icon: "fab fa-facebook-f"
+url: "https://www.facebook.com/profile.php?id=61555870603768"
 ---
 <figure>
 <img src="assets/images/firstsermon.jpg" alt="Buddhan opetusura alkaa">

@@ -1,13 +1,13 @@
 ---
 layout: categories
 title: Miten toimia hankalien ihmisten kanssa? – Kaiken nähneen munkin ajatuksia
-excerpt: "Miksi munkki ei ole yksinäinen?"
+excerpt: "Miksi munkki ei ole koskaan yksin?"
 date: 2024-02-18 12:00:00 +0200
 author: "Ajahn Brahm"
 category: Puheenvuoro
 permalink: hankalatihmiset
 header: 
-       teaser: assets/images/mutkatie.jpg
+       teaser: assets/images/bodhinyana.jpg
        
 author:
   name: "Ajahn Brahm"

@@ -15,9 +15,6 @@ author:
   bio: "Luostarinjohtaja ja kokenut metsämunkki."
   location: "Länsi-Australia"
   links:
-    - label: "Lisää opettajalta"
-      icon: "fas fa-fw fa-link"
-      url: ""https://bswa.org/teachings/?teaching_topic=560&teacher=564""
 ---
 <figure>
 <img src="assets/images/mutkatie.jpg" alt="mutkainentie">

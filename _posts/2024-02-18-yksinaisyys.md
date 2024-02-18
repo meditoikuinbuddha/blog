@@ -23,17 +23,11 @@ author:
 <figcaption> Ajahn Brahm almukierroksella kotiluostarissaan. Kuva: DNBF.org</figcaption>
 </figure>
 
-Miksi ihmiset ovat hankalia? Syy siihen on elämän kanssa kinastelu, omalle elämälle suuttuminen. Usein taustalla on liian rankkaa työntekoa, jolloin stressi pitää purkaa muihin ihmisiin.
+Munkkina minulta usein kysytään, miltä tuntuu elää ilman puolisoa tai lapsia. Tunnenko itseäni yksinäiseksi? Joskus olen viettänyt kuukausia hiljaa puhumatta kenellekään. Eikö se käy yksinäiseksi?
 
-Stressaantuminen aiheuttaa negatiivisen kierteen. Maltillinen määrä meditointia on oiva apukeino stressin lievittämiseksi. Vertauskuvaksi sopii vesilasin nostaminen pöydältä. Jos lasia pitää hyppysissään liian kauan, siitä tulee pirun painava. Mutta kun lasin laskee pöydälle edes viideksi minuutiksi sama vesilasillinen tuntuu yhtäkkiä paljon kevyemmältä. 
+Totta puhuen en koskaan tunne oloani yksinäiseksi. Minulla ei ole minkäänlaista tarvetta viettää aikaa muiden ihmisten kanssa. Pidän ihmisistä, mutta minun ei tarvi olla heidän seurassaan. Miksi? Koska todellisuudessa en ole koskaan yksin. Luonani on aina joku: minä itse. Pidän itsestäni niin paljon, että olen aina parhaan ystäväni seurassa.
 
-Työmäärä tai velvollisuudet eivät luo stressiä. Syynä työstressiin on kyvyttömyys laskea velvollisuudet hetkeksi alas, kun taakka käy liian painavaksi. Siihen ei löydy taitoa tai uskallusta, vaikka taakanlasku palauttaisi voimat ja energiat. 
-
-Joskus työmäärä menee sekaisin laadun kanssa. Viiden minuutin luopuminen ei ole hukkaanheitettyä aikaa, vaan sijoitus. Levänneenä saat enemmän aikaan pienemmässä ajassa. Taukojen ottaminen työtä tehdessä näkyy kykynä nauttia läheisten ihmisten seurasta. Syntyy positiivinen kierre, joka korvaa stressin ja kinastelemisen negatiivisen kierteen.
-
-Joten miksi meditoida? Yksi hyvä syy on se, että muut ihmiset joutuvat kestämään sinua. 
-
-Monet ihmiset tulevat meditointikeskuksiin tai luostareihin oppiakseen hyväksymään itsensä ja elämään itsensä kanssa. He eivät halua olla oman elämänsä vaikeimpia ihmisiä.
+Kun kömmin iltamyöhään luolaani, jossa nukun, menen aina parhaan ystäväni kanssa nukkumaan. Se olen minä itse. Olen tehnyt rauhan itseni kanssa ja hyväksynyt itseni. En ole täydellinen, mutta olen tarpeeksi hyvä, joten en ole koskaan yksin.
 
 <h2>Ystävällisyys parantaa yksinäisyyden</h2>
 
@@ -41,12 +35,6 @@ Monet ihmiset tulevat meditointikeskuksiin tai luostareihin oppiakseen hyväksym
 <img src="assets/images/yksin.jpg" alt="yksin">
 <figcaption> Yksinolo ei tarkoita yksinäisyyttä. Kuva: Benjamin Davies/Unsplash </figcaption>
 </figure>
-
-Munkkina minulta usein kysytään, miltä tuntuu elää ilman puolisoa tai lapsia. Tunnenko itseäni yksinäiseksi? Joskus olen viettänyt kuukausia hiljaa puhumatta kenellekään. Eikö se käy yksinäiseksi?
-
-Totta puhuen en koskaan tunne oloani yksinäiseksi. Minulla ei ole minkäänlaista tarvetta viettää aikaa muiden ihmisten kanssa. Pidän ihmisistä, mutta minun ei tarvi olla heidän seurassaan. Miksi? Koska todellisuudessa en ole koskaan yksin. Luonani on aina joku: minä itse. Pidän itsestäni niin paljon, että olen aina parhaan ystäväni seurassa.
-
-Kun kömmin iltamyöhään luolaani, jossa nukun, menen aina parhaan ystäväni kanssa nukkumaan. Se olen minä itse. Olen tehnyt rauhan itseni kanssa ja hyväksynyt itseni. En ole täydellinen, mutta olen tarpeeksi hyvä, joten en ole koskaan yksin.
 
 Yksinäiset ihmiset ovat yksinäisiä, koska eivät pidä itsestään. He pelkäävät itseään. Kun muut ihmiset poistuvat paikalta jäljelle jää outo ja kauhistuttava olento nimeltä "minä". Sitä olentoa ei ole vielä ymmärretty, eikä sen kanssa ole tehty rauhaa. Mutta kun ihminen ymmärtää ja hyväksyy itsensä rauhanomainen yhteiselo ja jopa omasta itsestään pitäminen on mahdollista.
 

@@ -8,16 +8,16 @@ category: Puheenvuoro
 permalink: hankalatihmiset
 header: 
        teaser: assets/images/mutkatie.jpg
-
+       
 author:
   name: "Ajahn Brahm"
   avatar: "/assets/images/avatarbrahm.png"
-  bio: "Metsämunkki Australiasta."
-  location: "Bodhinyana, Länsi-Australia"
-    links:
+  bio: "Luostarinjohtaja ja kokenut metsämunkki."
+  location: "Länsi-Australia"
+  links:
     - label: "Lisää opettajalta"
       icon: "fas fa-fw fa-link"
-      url: "https://bswa.org/teachings/?teaching_topic=560&teacher=564"
+      url: ""https://bswa.org/teachings/?teaching_topic=560&teacher=564""
 ---
 <figure>
 <img src="assets/images/mutkatie.jpg" alt="mutkainentie">

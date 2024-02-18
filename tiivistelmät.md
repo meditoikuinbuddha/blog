@@ -1,7 +1,7 @@
 ---
-title: "Tiivistelmät:"
+title: "Tietoisku:"
 layout: category
-permalink: /categories/tiivistelmat/
-taxonomy: Tiivistelmät
+permalink: /categories/tietoisku/
+taxonomy: Tietoisku
 entries_layout: grid
 ---

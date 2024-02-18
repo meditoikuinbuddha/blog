@@ -1,4 +1,5 @@
 ---
+encoding: UTF-8
 layout: single
 title:  "Kuka Buddha oli ja mitä hän opetti? – Erittäin lyhyt tiivistelmä"
 excerpt: <h3>Mistä kaikki alkoi.</h3>

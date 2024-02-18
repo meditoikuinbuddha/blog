@@ -58,4 +58,4 @@ Kun ongelma nimeltä "minä" korjaantuu, ei muista ihmisistä ole juuri harmia. 
 
 Itsensä hyväksyminen parantaa haavat ja antaa mahdollisuuden hyväksyä kenet tahansa.
 
-<i>Kirjoittaja on Bodhinyana-luostarin johtaja ja tunnettu meditointimestari. Teksti on käännösote puheesta, jonka voit kuunnella kokonaisuudessaan <a href="https://www.youtube.com/watch?v=jniaUr_7438&t=2105s>täältä.</a></i>
+<i>Kirjoittaja on Bodhinyana-luostarin johtaja ja tunnettu meditointimestari. Teksti on käännösote puheesta, jonka voit kuunnella kokonaisuudessaan <a href="https://www.youtube.com/watch?v=jniaUr_7438&t=2105s>täältä.</a> </i>

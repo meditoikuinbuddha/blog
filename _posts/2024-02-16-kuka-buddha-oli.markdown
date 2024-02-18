@@ -20,7 +20,7 @@ author:
   links:
     - label: "Ota yhteyttä:"
       icon: "<i class="fas fa-envelope"></i>"
-      url: "meditoikuinbuddha@gmail.com"
+      url: "https:/meditoikuinbuddha@gmail.com"
     - label: "Seuraa Facebookissa"
       icon: "<i class="fab fa-facebook-f"></i>"
       url: "https://www.facebook.com/profile.php?id=61555870603768"

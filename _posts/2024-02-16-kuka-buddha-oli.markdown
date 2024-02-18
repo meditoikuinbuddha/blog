@@ -17,18 +17,12 @@ author:
   bio: "Buddhan jäljillä."
   location: "Suomi"
   links:
-    - label: "Made mistakes"
+    - label: "Ota yhteyttä!"
       icon: "fas fa-fw fa-link"
       url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+    - label: "Seuraa Facebookissa"
+      icon: "fab fa-facebook-f"
+      url: "https://www.facebook.com/profile.php?id=61555870603768"
 ---
 <figure>
 <img src="assets/images/firstsermon.jpg" alt="Buddhan opetusura alkaa">

@@ -1,7 +1,7 @@
 ---
 layout: categories
-title:  "Kuka Buddha oli ja mitä hän opetti? – Erittäin lyhyt tiivistelmä"
-excerpt: <h3>Mistä kaikki alkoi.</h3>
+title:  "Kuka Buddha oli ja mit hn opetti? – Erittin lyhyt tiivistelm"
+excerpt: <h3>Mist kaikki alkoi.</h3>
 date:   2024-02-16 19:00:00 +0200
 category: Tietoisku
 permalink: "kukabuddhaoli"
@@ -11,9 +11,9 @@ entries_layout: grid
 
 author_profile: true
 author:
-name: "Kirjoittaja: Meditoi kuin Buddha"
+name: "Meditoi kuin Buddha"
 avatar: "assets/images/dhammacakka.jpg"
-bio: "Buddhan opetuksien jäljillä."
+bio: "Buddhan opetuksien jäljill."
 links:
 - label: "Ota yhteyttä"
 icon: <i class="fas fa-envelope"></i>"

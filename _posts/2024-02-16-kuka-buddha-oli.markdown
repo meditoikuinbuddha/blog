@@ -12,16 +12,23 @@ header:
 entries_layout: grid
 
 author:
-  name: "admin"
-  avatar: "assets/images/dhammacakka.jpg"
-  bio: "Buddhan opetuksien jäljillä."
-  location: ""
-    - label: "Ota yhteyttä:"
-      icon: "<i class="fas fa-envelope"></i>"
-      url: "https:/meditoikuinbuddha@gmail.com"
-    - label: "Seuraa Facebookissa"
-      icon: "<i class="fab fa-facebook-f"></i>"
-      url: "https://www.facebook.com/profile.php?id=61555870603768"
+  name: "Your Name"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  location: "Somewhere"
+  links:
+    - label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
 ---
 <figure>
 <img src="assets/images/firstsermon.jpg" alt="Buddhan opetusura alkaa">

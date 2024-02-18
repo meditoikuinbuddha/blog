@@ -19,7 +19,7 @@ author:
   links:
 ---
 <figure>
-<img src="assets/images/bodhinyana.jpg" alt="mutkainentie">
+<img src="assets/images/bodhinyana.jpg" alt="bodhinyana">
 <figcaption> Ajahn Brahm almukierroksella kotiluostarissaan. Kuva: DNBF.org</figcaption>
 </figure>
 

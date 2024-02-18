@@ -1,7 +1,7 @@
 ---
 layout: categories
-title: Miten toimia hankalien ihmisten kanssa? – Kaiken nähneen munkin ajatuksia
-excerpt: "Miksi munkki ei ole koskaan yksin?"
+title: Miksi munkki ei ole koskaan yksinäinen?
+excerpt: "Kokeneen munkin ajatuksia."
 date: 2024-02-18 12:00:00 +0200
 author: "Ajahn Brahm"
 category: Puheenvuoro
@@ -19,9 +19,10 @@ author:
   links:
 ---
 <figure>
-<img src="assets/images/mutkatie.jpg" alt="mutkainentie">
-<figcaption> Kuva: Jaromir Kavan/Unsplash</figcaption>
+<img src="assets/images/bodhinyana.jpg" alt="mutkainentie">
+<figcaption> Ajahn Brahm almukierroksella kotiluostarissaan. Kuva: DNBF.org</figcaption>
 </figure>
+
 Miksi ihmiset ovat hankalia? Syy siihen on elämän kanssa kinastelu, omalle elämälle suuttuminen. Usein taustalla on liian rankkaa työntekoa, jolloin stressi pitää purkaa muihin ihmisiin.
 
 Stressaantuminen aiheuttaa negatiivisen kierteen. Maltillinen määrä meditointia on oiva apukeino stressin lievittämiseksi. Vertauskuvaksi sopii vesilasin nostaminen pöydältä. Jos lasia pitää hyppysissään liian kauan, siitä tulee pirun painava. Mutta kun lasin laskee pöydälle edes viideksi minuutiksi sama vesilasillinen tuntuu yhtäkkiä paljon kevyemmältä. 
@@ -36,10 +37,6 @@ Monet ihmiset tulevat meditointikeskuksiin tai luostareihin oppiakseen hyväksym
 
 <h2>Ystävällisyys parantaa yksinäisyyden</h2>
 
-<figure>
-<img src="assets/images/bodhinyana.jpg" alt="mutkainentie">
-<figcaption> Ajahn Brahm almukierroksella kotiluostarissaan. Kuva: DNBF.org</figcaption>
-</figure>
 
 Munkkina minulta usein kysytään, miltä tuntuu elää ilman puolisoa tai lapsia. Tunnenko itseäni yksinäiseksi? Joskus olen viettänyt kuukausia hiljaa puhumatta kenellekään. Eikö se käy yksinäiseksi?
 

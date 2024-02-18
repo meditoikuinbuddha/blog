@@ -1,7 +1,7 @@
 ---
-title: "Opetukset:"
+title: "Lukuhetki:"
 layout: category
-permalink: /categories/opetukset/
-taxonomy: Opetukset
+permalink: /categories/lukuhetki/
+taxonomy: Lukuhetki
 entries_layout: grid
 ---

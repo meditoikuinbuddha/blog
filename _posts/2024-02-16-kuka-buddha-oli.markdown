@@ -14,10 +14,10 @@ name: "Kirjoittaja: Meditoi kuin Buddha"
 avatar: "assets/images/dhammacakka.jpg"
 bio: "Buddhan opetuksien jäljillä."
 - label: "Ota yhteyttä"
-icon: "fas fa-envelope"
+icon: <i class="fas fa-envelope"></i>"
 url: "meditoikuinbuddha@gmail.com"
 - label: "Seuraa Facebookissa"
-icon: "fab fa-facebook-f"
+icon: <i class="fab fa-facebook-f"></i>
 url: "https://www.facebook.com/profile.php?id=61555870603768"
 ---
 <figure>

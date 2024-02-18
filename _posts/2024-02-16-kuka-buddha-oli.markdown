@@ -17,7 +17,7 @@ author:
   avatar: "assets/images/dhammacakka.jpg"
   bio: "Buddhan opetuksien jäljillä."
   location: ""
-  links: 
+  links:
     - label: "Ota yhteyttä:"
       icon: "<i class="fas fa-envelope"></i>"
       url: "meditoikuinbuddha@gmail.com"

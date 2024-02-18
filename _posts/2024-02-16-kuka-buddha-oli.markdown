@@ -7,7 +7,7 @@ author: "admin"
 category: "Tietoisku"
 permalink: kukabuddhaoli
 header: 
-       teaser: assets/images/firstsermon.jpg
+       teaser: assets/images/firstsermon2.jpg
 
 entries_layout: grid
 

@@ -9,18 +9,6 @@ header:
 teaser:"assets/images/firstsermon.jpg"
 entries_layout:grid
 
-author_profile: true
-author:
-name: "Meditoi kuin Buddha"
-avatar: "assets/images/dhammacakka.jpg"
-bio: "Buddhan opetuksien jäljillä."
-links:
-      - label: "Ota yhteyttä"
-        icon: <i class="fas fa-envelope"></i>"
-        url: "meditoikuinbuddha@gmail.com"
-        - label: "Seuraa Facebookissa"
-        icon: <i class="fab fa-facebook-f"></i>
-        url: "https://www.facebook.com/profile.php?id=61555870603768"
 ---
 <figure>
 <img src="assets/images/firstsermon.jpg" alt="Buddhan opetusura alkaa">

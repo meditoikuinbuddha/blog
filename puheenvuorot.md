@@ -1,7 +1,7 @@
 ---
-title: "Puheenvuorot:"
+title: "Puheenvuoro:"
 layout: category
-permalink: /categories/puheenvuorot/
-taxonomy: Puheenvuorot
+permalink: /categories/puheenvuoro/
+taxonomy: Puheenvuoro
 entries_layout: grid
 ---

@@ -1,7 +1,7 @@
 ---
 layout: categories
 title: Miten toimia hankalien ihmisten kanssa? – Kaiken nähneen munkin ajatuksia
-excerpt: "<h3>Miksi ihmiset ärsyttävät?</h3>"
+excerpt: "Miksi munkki ei ole yksinäinen?"
 date: 2024-02-18 12:00:00 +0200
 author: "Ajahn Brahm"
 category: Puheenvuoro
@@ -12,7 +12,7 @@ header:
 author:
   name: "Ajahn Brahm"
   avatar: "/assets/images/avatarbrahm.png"
-  bio: "Luostarinjohtaja ja kokenut metsämunkki."
+  bio: "Kokenut metsämunkki."
   location: "Länsi-Australia"
   links:
 ---

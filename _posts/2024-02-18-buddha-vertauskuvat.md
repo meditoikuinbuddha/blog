@@ -12,18 +12,8 @@ header:
 author:
   name: "Ajahn Brahm"
   avatar: "/assets/images/avatarbrahm.png"
-  bio: "I am an **amazing** person." # Note: Markdown is allowed
-  location: "Somewhere"
-  links:
-    - label: "Lisätiedot"
-      icon: "fas fa-fw fa-link"
-      url: "https://bswa.org/teachers/ajahn-brahm/"
-    - label: "Lisää opettajalta"
-      icon: "fa-regular fa-comment-dots""
-      url: "https://bswa.org/teachings/?teaching_topic=560&teacher=564"
-    - label: "Ilmainen e-kirja"
-      icon: "fa-solid fa-book"
-      url: "https://wiswo.org/books/outk/"
+  bio: ""
+  location: "Bodhinyana, Länsi-Australia"
 ---
 Miksi ihmiset ovat hankalia? Syy siihen on elämän kanssa kinastelu, omalle elämälle suuttuminen. Usein taustalla on liian rankkaa työntekoa, jolloin stressi pitää purkaa muihin ihmisiin.
 

@@ -15,7 +15,7 @@ author:
   bio: "I am an **amazing** person." # Note: Markdown is allowed
   location: "Somewhere"
   links:
-    - label: "Kuka?"
+    - label: "Lisätiedot"
       icon: "fas fa-fw fa-link"
       url: "https://bswa.org/teachers/ajahn-brahm/"
     - label: "Lisää opettajalta"

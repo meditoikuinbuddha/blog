@@ -11,18 +11,7 @@ header:
 
 entries_layout: grid
 
-author:
-  name: "meditoikuinbuddha.fi"
-  avatar: "/assets/images/avatar.jpg"
-  bio: "Buddhan jäljillä."
-  location: "Suomi"
-  links:
-    - label: "Ota yhteyttä!"
-      icon: "fas fa-envelope"
-      url: "https://mademistakes.com"
-    - label: "Seuraa Facebookissa"
-      icon: "fab fa-facebook-f"
-      url: "https://www.facebook.com/profile.php?id=61555870603768"
+author: meditoikuinbuddha.fi
 ---
 <figure>
 <img src="assets/images/firstsermon.jpg" alt="Buddhan opetusura alkaa">

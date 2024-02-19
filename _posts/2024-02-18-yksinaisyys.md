@@ -1,6 +1,6 @@
 ---
 layout: categories
-title: Miksi munkki ei ole koskaan yksinäinen? - Meditointimestarin ajatuksia
+title: Miksi munkki ei ole koskaan yksinäinen?
 excerpt: "Ajahn Brahmin mukaan ystävällisyys voittaa yksinäisyyden."
 date: 2024-02-18 12:00:00 +0200
 author: "Ajahn Brahm"
@@ -11,12 +11,7 @@ header:
 
 entries_layout: grid
 
-author:
-  name: "Ajahn Brahm"
-  avatar: "/assets/images/avatarbrahm.png"
-  bio: "Rakastettu meditointimestari."
-  location: "Länsi-Australia"
-  links:
+author: Ajahn Brahm
 ---
 <figure>
 <img src="assets/images/bodhinyana.jpg" alt="bodhinyana">

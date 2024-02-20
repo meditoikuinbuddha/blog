@@ -11,10 +11,12 @@ header:
 
 entries_layout: grid
 
-author: meditoikuinbuddha.fi
+author: Meditoi kuin Buddha
 ---
 
-Ilmoittaudu englanninkieliselle retriitille! Paikkoja rajoitetusti. Lue lisää:
+Ilmoittaudu englanninkieliselle retriitille! Paikkoja rajoitetusti. 
+
+Lue lisää:
 
 <a href="https://dnbf.org/kreivila/indexen.html#slide1"><img src="assets/images/juliste.jpg" alt="retriitti"></a>
 <figure>

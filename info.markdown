@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: Tervetuloa!
 permalink: /info/
 
@@ -19,7 +19,7 @@ Tavoitteemme on siis oppia meditoimaan kuin Buddha. Tule mukaan!
 
 Ilmoittaudu englanninkieliselle retriitille! Paikkoja rajoitetusti. Lue lisää:
 
-<a href="https://dnbf.org/kreivila/indexen.html#slide1"> <img src="assets/images/juliste.jpg" alt="retriitti"> </a>
+<a href="https://dnbf.org/kreivila/indexen.html#slide1"><img src="assets/images/juliste.jpg" alt="retriitti"></a>
 
 
 

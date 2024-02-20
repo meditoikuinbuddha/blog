@@ -19,7 +19,7 @@ Tavoitteemme on siis oppia meditoimaan kuin Buddha. Tule mukaan!
 
 Ilmoittaudu englanninkieliselle retriitille! Paikkoja rajoitetusti. Lue lisää:
 
-<a href="https://dnbf.org/kreivila/indexen.html#slide1">DNBF.org</a>
+<a href="https://dnbf.org/kreivila/index.html#slide1">DNBF.org</a>
 
 
 

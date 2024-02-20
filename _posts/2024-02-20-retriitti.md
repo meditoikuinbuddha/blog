@@ -11,7 +11,7 @@ header:
 
 entries_layout: grid
 
-author: Meditoi kuin Buddha
+author: "Meditoi kuin Buddha"
 ---
 
 Ilmoittaudu englanninkieliselle retriitille! Paikkoja rajoitetusti. 

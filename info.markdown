@@ -11,7 +11,7 @@ sidebar:
 ---
 Kaikki haluavat meditoida, mutta miten se oikein tapahtuu?
 
-Buddhan opetuksissa teoria ja käytäntö lyövät kättä. Opetuksien ymmärtäminen antaa pohjan meditoinnille. Tällä sivustolla jaamme <a href="https://mikkoasunta.github.io/meditoikuinbuddha/kukabuddhaoli">Buddhan opetuksia</a> selkeällä suomen kielellä.
+Buddhan opetuksissa teoria ja käytäntö lyövät kättä. Opetuksien ymmärtäminen antaa pohjan meditoinnille. Tällä sivustolla jaamme <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli">Buddhan opetuksia</a> selkeällä suomen kielellä.
 
 Tavoitteemme on siis oppia meditoimaan kuin Buddha. Tule mukaan!
 
@@ -19,7 +19,7 @@ Tavoitteemme on siis oppia meditoimaan kuin Buddha. Tule mukaan!
 
 Ilmoittaudu englanninkieliselle retriitille! Paikkoja rajoitetusti. Lue lisää:
 
-<a href="https://dnbf.org/kreivila/indexen.html#slide1"><img src="assets/images/juliste.jpg" alt="retriitti"></a>
+<a href="https://dnbf.org/kreivila/indexen.html#slide1"> <img src="assets/images/juliste.jpg" alt="retriitti"> </a>
 
 
 

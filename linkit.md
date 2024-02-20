@@ -1,5 +1,5 @@
 --- 
-title: "Buddhalaisia sivustoja englanniksi"
+title: "Buddhalaisia sivustoja"
 layout: splash
 permalink: /linkit/
 

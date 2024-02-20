@@ -19,8 +19,4 @@ Ilmoittaudu englanninkieliselle retriitille! Paikkoja rajoitetusti.
 Lue lisää:
 
 <a href="https://dnbf.org/kreivila/indexen.html#slide1"><img src="assets/images/juliste.jpg" alt="retriitti"></a>
-<figure>
-<img src="assets/images/juliste.jpg" alt="retriitti">
-<figcaption>Kuva: DNBF.org</figcaption>
-</figure>
 

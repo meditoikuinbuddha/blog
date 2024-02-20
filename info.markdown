@@ -19,6 +19,9 @@ Tavoitteemme on siis oppia meditoimaan kuin Buddha. Tule mukaan!
 
 Ilmoittaudu englanninkieliselle retriitille. Paikkoja rajoitetusti.
 
+<img src="assets/images/nithojuliste.jpg" alt="retriitti">
+
+
 
 
 

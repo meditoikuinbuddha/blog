@@ -18,6 +18,7 @@ author: Ajahn Brahm
 <figcaption> Ajahn Brahm almukierroksella kotiluostarissaan. Kuva: DNBF.org</figcaption>
 </figure>
 
+
 <b>Käännös: Meditoi kuin Buddha. Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
 Munkkina minulta usein kysytään, miltä tuntuu elää ilman puolisoa tai lapsia. Tunnenko itseni yksinäiseksi? Joskus olen viettänyt kuukausia hiljaa puhumatta kenellekään. Alkaako silloin yksinolo kaihertaa?

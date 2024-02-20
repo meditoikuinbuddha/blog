@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Tervetuloa!
-permalink: /info/
+permalink: /info
 
 sidebar:
   - title: "Ota yhteyttä!"

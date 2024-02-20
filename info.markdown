@@ -15,6 +15,11 @@ Buddhan opetuksissa teoria ja käytäntö lyövät kättä. Opetuksien ymmärtä
 
 Tavoitteemme on siis oppia meditoimaan kuin Buddha. Tule mukaan!
 
+<hr>
+
+Ilmoittaudu englanninkieliselle retriitille. Paikkoja rajoitetusti.
+
+
 
 
 

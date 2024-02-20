@@ -24,7 +24,7 @@ subtitle:
 email: meditoikuinbuddha@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Buddhan opetuksia selkeällä suomen kielellä. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "meditoikuinbuddha" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: UTF-8
 

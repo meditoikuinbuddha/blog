@@ -17,6 +17,9 @@ author: meditoikuinbuddha.fi
 <img src="assets/images/firstsermon.jpg" alt="Buddhan opetusura alkaa">
 <figcaption> Taiteilijan tulkinta Buddhan ensimmäisestä opetuksesta. Kuva: I Made Ariasa</figcaption>
 </figure>
+
+<b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
+
 <h2>Kuka Buddha oli?</h2>
 
 Buddha eli noin 2500 vuotta sitten nykyisen Intian ja Nepalin rajan tienoilla. 29-vuotiaana

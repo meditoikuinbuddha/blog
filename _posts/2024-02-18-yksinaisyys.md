@@ -20,11 +20,11 @@ author: Ajahn Brahm
 
 Munkkina minulta usein kysytään, miltä tuntuu elää ilman puolisoa tai lapsia. Tunnenko itseni yksinäiseksi? Joskus olen viettänyt kuukausia hiljaa puhumatta kenellekään. Alkaako silloin yksinolo kaihertaa?
 
-Rehellinen vastaus kysymyksiin on kieltävä. Minulla ei ole minkäänlaista tarvetta viettää aikaa muiden ihmisten kanssa. Pidän ihmisistä, mutta minun ei tarvi olla heidän seurassaan. 
+Rehellinen vastaus kysymyksiin on kieltävä. Minulla ei ole minkäänlaista tarvetta viettää aikaa muiden ihmisten kanssa. Pidän ihmisistä, mutta minun ei tarvitse olla heidän seurassaan. 
 
-Miksi? Koska todellisuudessa en ole koskaan yksin. Luonani on aina joku: minä itse. Pidän itsestäni niin paljon, että olen aina parhaan ystäväni seurassa.
+Miksi? Koska todellisuudessa en ole koskaan yksin. Luonani on aina joku. Ja se joku olen minä. Pidän itsestäni niin paljon, että olen aina parhaan ystäväni seurassa.
 
-Kömpiessäni iltamyöhään luolaani* menen aina parhaan ystäväni kanssa nukkumaan. Se olen minä itse. Olen tehnyt rauhan itseni kanssa ja hyväksynyt itseni. 
+Kömpiessäni yksin iltamyöhään luolaani* menen aina parhaan ystäväni kanssa nukkumaan. Olen sinut itseni kanssa. 
 
 En ole täydellinen, mutta olen tarpeeksi hyvä, joten en ole koskaan yksin.
 

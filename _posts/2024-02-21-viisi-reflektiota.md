@@ -21,7 +21,7 @@ author: "Meditoi kuin Buddha"
 
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
-Tosiasioiden tunnustaminen on buddhalaisuuden keskeinen päämäärä. 
+Kaikki lähtee tosiasioiden tunnustamisesta. Myös buddhalaisuudessa.
 
 Elämän realistinen tarkastelu sekä parantaa elämänlaatua että mahdollistaa meditoinnin onnistumisen. 
 

@@ -34,8 +34,6 @@ plugins:
   - jekyll-remote-theme
 plugins:
   - jekyll-include-cache
-plugins:
-  - jekyll-seo-tag
 minimal_mistakes_skin: default
 atom_feed:
   hide: true

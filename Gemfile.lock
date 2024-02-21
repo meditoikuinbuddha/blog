@@ -115,6 +115,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-include-cache
   jekyll-remote-theme
+  jekyll-seo-tag
   minima (~> 2.5)
   minimal-mistakes-jekyll
   tzinfo (>= 1, < 3)

@@ -16,6 +16,9 @@ Buddhan opetuksissa teoria ja käytäntö lyövät kättä. Opetuksien ymmärtä
 Tavoitteemme on siis oppia meditoimaan kuin Buddha. Tule mukaan!
 
 <hr>
+Meditoi kuin Buddha -yhteisö toimii norjalaisen The Buddhist Society of Norwayn alaisuudessa. Jos olet kiinnostunut Suomen paikallistoimintaan osallistumisesta, pistä viestiä osoitteeseen tampere@dnbf.org. Lue lisää järjestöstä ja muista Pohjoismaissa toimivista paikallisryhmistä: <a href="https://www.dnbf.org">DNBF.org</a>.
+
+<hr>
 
 Ilmoittaudu englanninkieliselle retriitille! Paikkoja rajoitetusti. Lue lisää:
 

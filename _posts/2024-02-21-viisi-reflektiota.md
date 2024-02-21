@@ -1,5 +1,4 @@
 ---
-  {% seo %}
 layout: "categories"
 title: "Viisi aihetta jokapäiväiseen pohdintaan"
 excerpt: "<h3>Buddha kannusti kaikkia tunnustamaan elämän tosiasiat.</h3>"
@@ -15,7 +14,7 @@ entries_layout: grid
 author: "Meditoi kuin Buddha"
 ---
 
-
+  {% seo %}
 <figure>
 <img src="assets/images/aron-visuals.jpg" alt="Tiimalasi>
 <figcaption> Ihmiselämää ei kannata hukata. Kuva: Aron Visuals</figcaption>

@@ -29,7 +29,7 @@ Myötätunto sisältyy olennaisena osana totuuden tunnustamiseen. Buddhan mukaan
 
 Elämän tosiasioiden pohtiminen osoittaa, että kaikki ylenkatse on merkki harhaisuudesta. Kaikki ovat lopulta samassa veneessä.
 
-Mutta mistä tosiasioista tässä nyt puhutaan? 
+Buddhalainen ei siis työnnä päätään pensaaseen. Mutta mistä tosiasioista tässä nyt puhutaan? 
 
 <h2>Viisi aihetta pohdiskeltavaksi</h2>
 
@@ -37,10 +37,11 @@ Buddha kannusti kaikkia ihmisiä pohtimaan päivittäin viittä aihetta, jotka t
 
 Buddhan sanoin ne kuuluvat seuraavasti:
 
-<i>1. "Olen altis ikääntymiselle, en ole vapaa ikääntymisestä."
+<i>
+1. "Olen altis ikääntymiselle, en ole vapaa ikääntymisestä."
 2. "Olen altis sairauksille, en ole vapaa sairauksista." 
 3. "Olen altis kuolemalle, en ole vapaa kuolemasta."
-4. "Joudun eroamaan kaikesta, mikä on minulle rakasta ja läheistä. "
+4. "Joudun eroamaan kaikesta rakkaasta ja läheisestä. "
 5. "Perin tekoni ja omistan tekoni. Synnyn teoistani, ja teot ovat turvapaikkani sekä läheiseni. Olen sekä hyvien että huonojen tekojeni perijä."</i> - <a href="https://suttacentral.net/an5.57/en/sujato">AN 5.57</a>
 
 Aiheiden asettelu tekee selväksi buddhalaisen asenteen elämään. Loppujen lopuksi ihminen perii vain omat tekonsa, joten se on alue, johon kannattaa kiinnittää eniten huomiota. 

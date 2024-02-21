@@ -84,7 +84,7 @@ Omista teoista on väistämättä kannettava vastuu, eikä epäviisasta toiminta
 
 Samaan aikaan on kuitenkin muistettava, että Buddha ei vaatinut ihmisiltä täydellistä moraalista puhtautta. 
 
-Ihmiset tekevät virheitä, eikä tarkoitus ole valaistua kerta heitolla. Tärkeintä on pistää Buddhan opetukset käytäntöön ja katsoa, miten ne vaikuttavat omassa elämässä. 
+Ihmiset tekevät virheitä, eikä tarkoitus ole valaistua kertaheitolla. Tärkeintä on pistää Buddhan opetukset käytäntöön ja katsoa, miten ne vaikuttavat omassa elämässä. 
 
 Jos oma käytös ja asenne muuttuu parempaan suuntaan, ollaan oikealla polulla.
 

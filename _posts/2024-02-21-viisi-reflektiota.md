@@ -1,6 +1,6 @@
 ---
 layout: "categories"
-title: "Viisi aihetta jokapäiväiseen pohdintaan"
+title: "Buddhan viiden aiheen lista"
 excerpt: "<h3>Buddha kannusti kaikkia tunnustamaan elämän tosiasiat.</h3>"
 date: 2024-02-21 10:00:00 +0200
 author: "admin"
@@ -15,7 +15,7 @@ author: "Meditoi kuin Buddha"
 ---
 
 <figure>
-<img src="assets/images/aron-visuals.jpg" alt="Tiimalasi>
+<img src="assets/images/aron-visuals.jpg" alt="Tiimalasi">
 <figcaption> Ihmiselämää ei kannata hukata. Kuva: Aron Visuals</figcaption>
 </figure>
 

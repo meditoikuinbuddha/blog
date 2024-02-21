@@ -1,5 +1,4 @@
 ---
-  {% seo %}
 layout: "categories"
 title: "Kuka Buddha oli ja mitä hän opetti?"
 excerpt: "<h3>Mistä kaikki alkoi.</h3>"
@@ -14,6 +13,7 @@ entries_layout: grid
 
 author: meditoikuinbuddha.fi
 ---
+  {% seo %}
 <figure>
 <img src="assets/images/firstsermon.jpg" alt="Buddhan opetusura alkaa">
 <figcaption> Taiteilijan tulkinta Buddhan ensimmäisestä opetuksesta. Kuva: I Made Ariasa</figcaption>

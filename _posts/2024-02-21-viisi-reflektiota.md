@@ -45,7 +45,7 @@ Buddhan sanoin ne kuuluvat seuraavasti:
 
 Aiheiden asettelu tekee selväksi buddhalaisen asenteen elämään. Loppujen lopuksi ihminen perii vain omat tekonsa, joten se on alue, johon kannattaa kiinnittää eniten huomiota. 
 
-Buddha ei tietenkään keksinyt aiheita tyhjästä. Var<a href="https://suttacentral.net/mn26/en/sujato">varhaisista opetuksista käy selväksi</a>, että juuri elämän tosiasioiden pohtiminen sai Buddhan lähtemään hengelliselle polulle. 
+Buddha ei tietenkään keksinyt aiheita tyhjästä. <a href="https://suttacentral.net/mn26/en/sujato">Varhaisista opetuksista käy selväksi</a>, että juuri elämän tosiasioiden pohtiminen sai Buddhan lähtemään hengelliselle polulle. 
 
 Ikääntymisen, sairastumisen ja kuoleman lisäksi ajatus jälleensyntymästä motivoi Buddhan hakemaan ratkaisua mieltä polttaneisiin ongelmiin. Ja tekstien mukaan ratkaisu myös löytyi. 
 
@@ -62,19 +62,19 @@ Kaikki eivät kuitenkaan ole suunnittelemassa munkin tai nunnan uraa.
 
 Miksi Buddha siis kannusti kaikkia ihmisiä tarkastelemaan elämän tosiasioita?
 
-Onneksi syitä ei tarvitse arvailla. Aiheiden luettelemisen jälkeen hän nimittäin avaa myös pohdiskelusta seuraavia hyötyjä.
+Onneksi syitä ei tarvitse arvailla. Aiheiden luettelemisen jälkeen hän nimittäin avasi myös pohdiskelusta seuraavia hyötyjä.
 
 Buddhan mukaan maailma on täynnä ihmisiä, jotka tekevät typeriä tekoja, koska ovat juopuneet omasta nuoruudestaan, terveydestään tai elinvoimastaan. 
 
-Toisaalta typeryyksiin kannustaa myös rakkaisiin asioihin ja läheisiin liittyvä himo ja ahneus, puhumattakaan kyvyttömyydestä miettiä omien tekojen seurauksia.
+Toisaalta typeryyksiin kannustaa myös rakkaisiin asioihin ja läheisiin kohdistuva himo ja ahneus, puhumattakaan kyvyttömyydestä miettiä omien tekojen seurauksia.
 
-Buddhan mukaan viiden aiheen keskeinen tarkoitus on siis vähentää turhamaisuutta, heikentää läheisiin ja rakkaisiin asioihin kohdistuvaa himoa sekä auttaa luopumaan hölmöstä käytöksestä. 
+Buddhan mukaan viiden aiheen keskeinen tarkoitus on siis vähentää turhamaisuutta, heikentää himoa sekä auttaa luopumaan hölmöstä käytöksestä. 
 
 Vaikuttaa siis melko itsestäänselvältä. 
 
-Buddhan ohjeistus vähentää läheisiin kohdistuvaa himoa voi kuitenkin kuulostaa hieman kummalliselta. Onko meidän siis luovuttava kaikesta mielenkiinnosta läheisiämme kohtaan?
+Himon vähentäminen voi kuitenkin kuulostaa hieman kummalliselta. Onko meidän siis luovuttava kaikesta mielenkiinnosta läheisiämme kohtaan?
 
-Lähemmin tarkasteltuna Buddhan sanat käyvät järkeen. Mitä vähemmän haluaa omilta läheisiltään ja keskittyy omiin tekoihinsa, sitä terveemmälle pohjalle omat läheissuhteet rakentuvat.
+Lähemmin tarkasteltuna Buddhan sanat käyvät järkeen. Mitä vähemmän haluaa omilta läheisiltään ja keskittyy omiin tekoihinsa, sitä terveemmälle pohjalle myös omat läheissuhteet rakentuvat.
 
 Opetuksesta ilmenee myös hyvin Buddhan tinkimättömyys.
 

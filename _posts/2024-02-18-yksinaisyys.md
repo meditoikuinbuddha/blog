@@ -1,5 +1,4 @@
 ---
-  {% seo %}
 layout: categories
 title: Miksi munkki ei ole koskaan yksinäinen?
 excerpt: "Ajahn Brahmin mukaan ystävällisyys voittaa yksinäisyyden."
@@ -14,6 +13,7 @@ entries_layout: grid
 
 author: Ajahn Brahm
 ---
+  {% seo %}
 <figure>
 <img src="assets/images/bodhinyana.jpg" alt="bodhinyana">
 <figcaption> Ajahn Brahm almukierroksella kotiluostarissaan. Kuva: DNBF.org</figcaption>

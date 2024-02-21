@@ -5,7 +5,7 @@ excerpt: "<h3>Buddha kannusti kaikkia tunnustamaan elämän tosiasiat.</h3>"
 date: 2024-02-21 10:00:00 +0200
 author: "admin"
 category: "Lukuhetki"
-permalink: viisiaihetta
+permalink: buddhanlista
 header:  
        teaser: assets/images/aron-visuals.jpg
 
@@ -103,8 +103,7 @@ Tässä vaiheessa aiheiden todellinen syvyys alkaa paljastua.
 
 Parhaimmillaan pohdiskelu voi jopa viedä kohti kaikista olemassaolon kahleista luopumista. Yksinkertaisten aiheiden potentiaali on siis valtava!
 
-<h2>Polku on kaunis ja arvokas</h3>
-
+<h2>Polku on kaunis ja arvokas</h2>
 
 <figure>
 <img src="assets/images/polku.jpg" alt="polku">

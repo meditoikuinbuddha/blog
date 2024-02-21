@@ -1,4 +1,5 @@
 ---
+  {% seo %}
 layout: "categories"
 title: "Viisi aihetta jokapäiväiseen pohdintaan"
 excerpt: "<h3>Buddha kannusti kaikkia tunnustamaan elämän tosiasiat.</h3>"
@@ -120,7 +121,9 @@ Tämä lähestymistapa näkyy myös nyt tarkastellussa opetuksessa.
 
 Ensin Buddha listasi tosiasiat, sitten totesi tosiasioiden pohtimisesta koituvat hyödyt ja lopuksi osoitti opetuksessa piilevän syvällisemmän oivalluksen.
 
-Buddhan opetuksien kauneus paistaa läpi jo näinkin yksinkertaisesta opetuksesta. Ja pelkästään näissä tosiasioissa riittääkin pohdittavaa yhden ihmiselämän tarpeiksi!
+Buddhan opetuksien kauneus paistaa läpi jo näinkin yksinkertaisesta opetuksesta. 
+
+Jo pelkästään näissä tosiasioissa riittääkin pohdittavaa yhden ihmiselämän tarpeiksi!
 
 
 

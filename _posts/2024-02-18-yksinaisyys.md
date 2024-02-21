@@ -1,4 +1,5 @@
 ---
+  {% seo %}
 layout: categories
 title: Miksi munkki ei ole koskaan yksinäinen?
 excerpt: "Ajahn Brahmin mukaan ystävällisyys voittaa yksinäisyyden."

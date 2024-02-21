@@ -1,4 +1,5 @@
 ---
+  {% seo %}
 layout: "categories"
 title: "Kuka Buddha oli ja mitä hän opetti?"
 excerpt: "<h3>Mistä kaikki alkoi.</h3>"

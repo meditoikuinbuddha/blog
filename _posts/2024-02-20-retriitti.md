@@ -1,4 +1,5 @@
 ---
+  {% seo %}
 layout: "categories"
 title: "Tule mukaan retriitille!"
 excerpt: "<h3>Opi meditoimaan kuin Buddha.</h3>"

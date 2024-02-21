@@ -101,26 +101,7 @@ Kun ihminen on ensin tarkastellut aiheita omasta näkökulmastaan, on mahdollist
 
 Tässä vaiheessa aiheiden todellinen syvyys alkaa paljastua.
 
-Parhaimmillaan pohdiskelu voi jopa viedä kohti kaikista olemassaolon kahleista luopumista. Yksinkertaisten aiheiden potentiaali on siis valtava!
-
-<h2>Polku on kaunis ja arvokas</h2>
-
-<figure>
-<img src="assets/images/polku.jpg" alt="polku">
-<figcaption> Buddhalainen polku on kaunis ja arvokas. Kuva: Patrick Foyre</figcaption>
-</figure>
-
-Loppuun on vielä otollista ihailla Buddhan opetuksien rationaalisuutta ja sopusuhtaisuutta. 
-
-Buddha ei koskaan tarkastellut aiheita suurpiirteisesti, vaan katsoi aina asiaa monista näkökulmista ja eteni vaiheittain kohti syvällisempiä oivalluksia. 
-
-Tämä lähestymistapa näkyy myös nyt tarkastellussa opetuksessa.
-
-Ensin Buddha listasi tosiasiat, sitten totesi tosiasioiden pohtimisesta koituvat hyödyt ja lopuksi osoitti opetuksessa piilevän syvällisemmän oivalluksen.
-
-Buddhan opetuksien kauneus paistaa läpi jo näinkin yksinkertaisesta opetuksesta. 
-
-Jo pelkästään näissä tosiasioissa riittääkin pohdittavaa yhden ihmiselämän tarpeiksi!
+Buddhan mukaan parhaimmillaan pohdiskelu voi jopa viedä kohti kaikista olemassaolon kahleista luopumista.
 
 
 

@@ -14,7 +14,6 @@ entries_layout: grid
 author: "Meditoi kuin Buddha"
 ---
 
-  {% seo %}
 <figure>
 <img src="assets/images/aron-visuals.jpg" alt="Tiimalasi>
 <figcaption> Ihmiselämää ei kannata hukata. Kuva: Aron Visuals</figcaption>

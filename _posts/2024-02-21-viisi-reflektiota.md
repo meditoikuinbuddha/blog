@@ -101,9 +101,7 @@ Kun ihminen on ensin tarkastellut aiheita omasta näkökulmastaan, on mahdollist
 
 Tässä vaiheessa aiheiden todellinen syvyys alkaa paljastua.
 
-Buddhan mukaan parhaimmillaan pohdiskelu voi jopa viedä kohti kaikista olemassaolon kahleista luopumista.
-
-
+Buddhan mukaan parhaimmillaan pohdiskelu voi jopa viedä kohti kaikista olemassaolon kahleista luopumista. Yksinkertaisessa opetuksessa piilee siis valtava potentiaali!
 
  
 

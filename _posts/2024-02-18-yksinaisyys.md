@@ -13,7 +13,6 @@ entries_layout: grid
 
 author: Ajahn Brahm
 ---
-  {% seo %}
 <figure>
 <img src="assets/images/bodhinyana.jpg" alt="bodhinyana">
 <figcaption> Ajahn Brahm almukierroksella kotiluostarissaan. Kuva: DNBF.org</figcaption>

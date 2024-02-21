@@ -21,7 +21,7 @@ author: "Meditoi kuin Buddha"
 
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
-Kaikki lähtee tosiasioiden tunnustamisesta. Myös buddhalaisuudessa.
+Kaikki lähtee tosiasioiden tunnustamisesta, myös buddhalaisuudessa.
 
 Elämän realistinen tarkastelu sekä parantaa elämänlaatua että mahdollistaa meditoinnin onnistumisen. 
 

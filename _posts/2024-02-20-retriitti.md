@@ -1,5 +1,4 @@
 ---
-  {% seo %}
 layout: "categories"
 title: "Tule mukaan retriitille!"
 excerpt: "<h3>Opi meditoimaan kuin Buddha.</h3>"
@@ -14,7 +13,7 @@ entries_layout: grid
 
 author: "Meditoi kuin Buddha"
 ---
-
+  {% seo %}
 Ilmoittaudu englanninkieliselle retriitille! Paikkoja rajoitetusti. 
 
 Lue lisää:

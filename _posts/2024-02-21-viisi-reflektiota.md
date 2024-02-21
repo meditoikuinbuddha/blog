@@ -68,7 +68,7 @@ Buddhan mukaan maailma on täynnä ihmisiä, jotka tekevät typeriä tekoja, kos
 
 Toisaalta typeryyksiin kannustaa myös rakkaisiin asioihin ja läheisiin kohdistuva himo ja ahneus, puhumattakaan kyvyttömyydestä miettiä omien tekojen seurauksia.
 
-Buddhan mukaan viiden aiheen keskeinen tarkoitus on siis vähentää turhamaisuutta, heikentää himoa sekä auttaa luopumaan hölmöstä käytöksestä. 
+Buddhan mukaan viiden aiheen keskeinen tarkoitus on siis vähentää turhamaisuutta, heikentää himoa sekä auttaa luopumaan hölmöstä käytöksestä. Tämä on ensiarvoisen tärkeää juuri aiemmin mainitusta syystä: teot ovat ainut turvapaikkamme.
 
 Vaikuttaa siis melko itsestäänselvältä. 
 
@@ -79,6 +79,8 @@ Lähemmin tarkasteltuna Buddhan sanat käyvät järkeen. Mitä vähemmän haluaa
 Opetuksesta ilmenee myös hyvin Buddhan tinkimättömyys.
 
 Buddhalaisessa ajattelussa ei löydy oikeutusta muiden ihmisten tai eläinten vahingoittamiselle. Ei, vaikka tekojen taustalla vaikuttaisivat yleisesti yhteiskunnassa arvostetut asenteet, kuten isänmaallisuus tai perherakkaus.
+
+Omista teoista on väistämättä kannettava vastuu, eikä epäviisasta toimintaa voi oikeuttaa ulkoisilla tekijöillä.
 
 Samaan aikaan on kuitenkin muistettava, että Buddha ei vaatinut ihmisiltä täydellistä moraalista puhtautta. 
 

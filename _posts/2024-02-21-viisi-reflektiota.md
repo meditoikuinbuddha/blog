@@ -37,12 +37,11 @@ Buddha kannusti kaikkia ihmisiä pohtimaan päivittäin viittä aihetta, jotka t
 
 Buddhan sanoin ne kuuluvat seuraavasti:
 
-<i>
 1. "Olen altis ikääntymiselle, en ole vapaa ikääntymisestä."
 2. "Olen altis sairauksille, en ole vapaa sairauksista." 
 3. "Olen altis kuolemalle, en ole vapaa kuolemasta."
 4. "Joudun eroamaan kaikesta rakkaasta ja läheisestä. "
-5. "Perin tekoni ja omistan tekoni. Synnyn teoistani, ja teot ovat turvapaikkani sekä läheiseni. Olen sekä hyvien että huonojen tekojeni perijä."</i> - <a href="https://suttacentral.net/an5.57/en/sujato">AN 5.57</a>
+5. "Perin tekoni ja omistan tekoni. Synnyn teoistani, ja teot ovat turvapaikkani sekä läheiseni. Olen sekä hyvien että huonojen tekojeni perijä." - <a href="https://suttacentral.net/an5.57/en/sujato">AN 5.57</a>
 
 Aiheiden asettelu tekee selväksi buddhalaisen asenteen elämään. Loppujen lopuksi ihminen perii vain omat tekonsa, joten se on alue, johon kannattaa kiinnittää eniten huomiota. 
 

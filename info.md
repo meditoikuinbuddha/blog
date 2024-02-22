@@ -17,19 +17,16 @@ Sivusto on täysin ilmainen, ja kaikki materiaali julkaistaan selkeällä suomen
 
 Tavoitteemme on siis oppia meditoimaan kuin Buddha. Tule mukaan!
 
+<hr>
 
 Meditoi kuin Buddha -yhteisö toimii norjalaisen The Buddhist Society of Norwayn alaisuudessa. 
 
 Jos olet kiinnostunut Suomen paikallistoimintaan osallistumisesta, pistä viestiä osoitteeseen tampere@dnbf.org. Lue lisää järjestöstä ja muista Pohjoismaissa toimivista paikallisryhmistä: <a href="https://www.dnbf.org/en">DNBF.org</a>.
 
 
-<img src="./assets/images/venabu1.jpg">
+<hr>
 
-
-
-Ilmoittaudu englanninkieliselle retriitille! Paikkoja rajoitetusti. Lue lisää:
-
-<a href="https://dnbf.org/kreivila/index.html#slide1"><img src="./assets/images/juliste.jpg"></a>
+Ilmoittaudu englanninkieliselle retriitille! Paikkoja rajoitetusti. <a href="https://dnbf.org/kreivila/index.html#slide1">Lue lisää.</a>
 
 
 

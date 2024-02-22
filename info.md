@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: Tervetuloa!
 permalink: /info/
 

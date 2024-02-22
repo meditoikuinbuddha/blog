@@ -25,13 +25,12 @@ Jos olet kiinnostunut Suomen paikallistoimintaan osallistumisesta, pistä viesti
 
 <img src="./assets/images/venabu1.jpg" alt="venaburetreat">
 
-<hr>
+
 
 Ilmoittaudu englanninkieliselle retriitille! Paikkoja rajoitetusti. Lue lisää:
 
 <a href="https://dnbf.org/kreivila/index.html#slide1"><img src="./assets/images/juliste.jpg" alt="nitho retriitti juliste"></a>
 
-<hr>
 
 
 

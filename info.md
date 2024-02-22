@@ -23,7 +23,7 @@ Meditoi kuin Buddha -yhteisö toimii norjalaisen The Buddhist Society of Norwayn
 Jos olet kiinnostunut Suomen paikallistoimintaan osallistumisesta, pistä viestiä osoitteeseen tampere@dnbf.org. Lue lisää järjestöstä ja muista Pohjoismaissa toimivista paikallisryhmistä: <a href="https://www.dnbf.org/en">DNBF.org</a>.
 
 
-<img src="assets/images/venabu1.jpg" alt="venaburetreat">
+<img src=".assets/images/venabu1.jpg" alt="venaburetreat">
 
 <hr>
 

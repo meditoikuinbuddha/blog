@@ -5,7 +5,7 @@ permalink: /info/
 
 sidebar:
   - title: "Ota yhteyttä!"
-    text: "meditoikuinbuddha@gmail.com"
+    text: "tampere@dnbf.org"
   - title: "Seuraa Facebookissa"
     text: <a href="https://www.facebook.com/profile.php?id=61555870603768">Meditoi kuin Buddha</a>
 ---

@@ -18,7 +18,7 @@ author: meditoikuinbuddha.fi
 <figcaption> Taiteilijan tulkinta Buddhan ensimmäisestä opetuksesta. Kuva: I Made Ariasa</figcaption>
 </figure>
 
-<b> Anna palautetta: tampere@dnbf.org</b>
+<b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
 <h2>Kuka Buddha oli?</h2>
 

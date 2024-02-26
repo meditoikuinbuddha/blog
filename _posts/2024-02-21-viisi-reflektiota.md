@@ -19,7 +19,7 @@ author: "Meditoi kuin Buddha"
 <figcaption> Ihmiselämää ei kannata hukata. Kuva: Aron Visuals</figcaption>
 </figure>
 
-<b> Anna palautetta: tampere@dnbf.org</b>
+<b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
 Kaikki lähtee tosiasioiden tunnustamisesta, myös buddhalaisuudessa.
 

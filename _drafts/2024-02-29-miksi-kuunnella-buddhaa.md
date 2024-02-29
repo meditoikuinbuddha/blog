@@ -113,8 +113,8 @@ Tämä pätee tietysti myös minuun ja kaikkiin muihin opettajiin. Ei ole olemas
 <i>Mistä löytyy aito turvapaikka?</i>
 
 <figure>
-<img src="assets/images/munkkipilarit.jpg" alt="brahmali">
-<figcaption> Opetukset elävät luostareissa. Kuva: Alexander</figcaption>
+<img src="assets/images/munkkipilarit.jpg" alt="munkkipilarit">
+<figcaption> Luostarit ovat buddhalaisuuden peruspilareita. Kuva: Alexander</figcaption>
 </figure>
 
 Buddha ei ikinä käskenyt hakemaan turvapaikkaa yksilöistä tai luottamaan sokeasti yksittäisiin opettajiin.

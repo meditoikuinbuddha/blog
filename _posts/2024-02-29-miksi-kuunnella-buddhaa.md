@@ -54,7 +54,7 @@ Perinteissä on tietenkin paljon hyvää. Usein on kuitenkin lähes mahdotonta t
 
 On olemassa hyvä syy siihen, miksi ihmiset hakeutuvat eri perinteiden pariin Buddhan varsinaisten opetuksien sijaan.
 
-Pitkään suttat olivat saatavilla vain paalin tai sanskritin kielellä. 
+Pitkään <i>suttat</i> olivat saatavilla vain paalin tai sanskritin kielellä. 
 
 Ennen opetuksien kääntämistä moderneille kielille vain harvoilla opetuksiin erikoistuneilla munkeilla ja nunnilla oli mahdollisuus tutustua niihin. 
 
@@ -64,7 +64,7 @@ Alkuperäiskieliä osaamattomien oli turvauduttava ulkopuolisiin asiantuntijoihi
 
 Buddha kuitenkin halusi, että hänen opetuksiaan opetettaisiin paikallisilla kielillä. 
 
-Kun Dhamma siis vyöryy Australiaan, sitä opetetaan englanniksi. Thaimaassa opetukset käännetään thain kielelle ja Suomessa opetuksia tulisi opettaa suomeksi.
+Kun <i>Dhamma</i> siis vyöryy Australiaan, sitä opetetaan englanniksi. Thaimaassa opetukset käännetään thain kielelle ja Suomessa opetuksia tulisi opettaa suomeksi.
 
 Opetukset pitäisi aina kääntää sille kielelle, jota ihmiset oikeasti puhuvat. Tämä on yksi buddhalaisen harjoituksen perusasioista, joka unohdettiin pitkäksi aikaa. 
 
@@ -141,7 +141,7 @@ Jos on olemassa opetus, joka auttaa ongelmissa ja parantaa elämänlaatua, totta
 
 Sen sijaan tarjolla ovat Buddhan opetukset, <i>Dhamma</i>. Näin sekä <i>Buddha</i> että <i>Dhamma</i> kietoutuvat Buddhan opetuksien, eli <i>suttien</i> ympärille. Kaksi ensimmäistä turvapaikkaa löytyvät siis varhaisista opetuksista.
 
-Jäljelle jää vielä kolmas turvapaikka, eli <i>Sangha</i>. 
+Jäljelle jää vielä kolmas turvapaikka: <i>Sangha</i>. 
 
 Yleensä <i>Sanghalla</i> tarkoitetaan luostarijärjestelmää, eli munkkeja ja nunnia. Siinä mielessä turvapaikka löytyy tästä yhteistöstä, joka säilyttää ja pitää huolta Buddhan opetuksista. 
 
@@ -159,7 +159,8 @@ Luostareista on myös mahdollista löytää harjoittajia, jotka kuuluvat jaloon 
 Jalot henkilöt ovat itse harjoittaneet Buddhan opetuksia ja ymmärtäneet, mistä niissä on oikeasti kyse. 
 
 Tietyssä mielessä kolmas turvapaikka löytyy siis jalojen harjoittajien yhteisöstä. Koska he ovat ymmärtäneet Buddhan opetukset, heidän omat opetuksensa ovat täysin Buddhan opetuksien mukaisia. 
-Sanat ja muotoilut voivat poiketa Buddhasta, mutta opetukset osoittavat samaan Dhammaan.
+
+Sanat ja muotoilut voivat poiketa Buddhasta, mutta opetukset osoittavat samaan <i>Dhammaan</i>.
 
 Tässä mielessä jopa kolmas jalokivi palaa Buddhan 2500 vuotta vanhoihin opetuksiin. 
 

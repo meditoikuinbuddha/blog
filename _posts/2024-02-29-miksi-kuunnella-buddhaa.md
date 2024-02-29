@@ -150,6 +150,11 @@ Sairauden sattuessa ihmiset hakevat apua lääkäriltä, eivät putkimieheltä. 
 
 Luostareista on myös mahdollista löytää harjoittajia, jotka kuuluvat jaloon yhteisöön (paaliksi <i>ariya sangha</i>).
 
+<figure>
+<img src="assets/images/nitish-meena-vuori.jpg" alt="vuori">
+<figcaption> Jalot ihmiset näkevät maailman ylhäältä.</figcaption>
+</figure>
+
 Jalot henkilöt ovat itse ymmärtäneet, mistä Buddhan opetuksissa on kyse. Jalosta yhteisöstä siis löytyy kolmas turvapaikka. Koska he ovat ymmärtäneet Buddhan opetukset, heidän omat opetuksensa ovat täysin Buddhan opetuksien mukaisia. 
 Sanat ja muotoilut voivat poiketa Buddhasta, mutta opetukset osoittavat samaan Dhammaan.
 

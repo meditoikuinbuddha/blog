@@ -76,7 +76,7 @@ Nyt on siishyvä aika tarttua mahdollisuuteen ja ottaa selvää, mitä Buddha oi
 <h2>Opettajien seuraaminen voi olla ongelmallista</h2> 
 
 <figure>
-<img src="jaromir-kavan-vv-oEGlN-4E-unsplash.jpg" alt="tie">
+<img src="assets/images/jaromir-kavan-vv-oEGlN-4E-unsplash.jpg" alt="tie">
 <figcaption> Joskus on vaikea sanoa, mihin hengellinen tie vie. Kuva: Jaromir Kavan</figcaption>
 </figure>
 
@@ -113,7 +113,7 @@ Tämä pätee tietysti myös minuun ja kaikkiin muihin opettajiin. Ei ole olemas
 <i>Mistä löytyy aito turvapaikka?</i>
 
 <figure>
-<img src=".assets/images/munkkipilarit.jpg" alt="munkkipilarit">
+<img src="assets/images/alexander-DDsD431IFX4-unsplash.jpg" alt="munkkipilarit">
 <figcaption> Luostarit ovat buddhalaisuuden peruspilareita. Kuva: Alexander</figcaption>
 </figure>
 

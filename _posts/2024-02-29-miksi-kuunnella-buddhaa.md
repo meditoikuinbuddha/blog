@@ -1,7 +1,7 @@
 ---
 layout: categories
-title: Miksi kuunnella Buddhaa?
-excerpt: "Luotettavin turvapaikka löytyy Buddhan opetuksista, sanoo Ajahn Brahmali."
+title: Miksi Buddhaa kannattaa kuunnella?
+excerpt: "Ajahn Brahmalin mukaan Buddhan opetukset ovat luotettavin turvapaikka."
 date: 2024-02-29 11:00:00 +0200
 author: "Ajahn Brahmali"
 category: Puheenvuoro

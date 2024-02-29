@@ -134,3 +134,7 @@ Sanat ja muotoilut voivat poiketa Buddhasta, mutta opetukset osoittavat samaan D
 Tässä mielessä jopa kolmas jalokivi palaa Buddhan 2500 vuotta vanhoihin opetuksiin. 
 
 Kaikki kolme jalokiveä osoittavat siis yhteen ja samaan paikkaan: <i>suttiin</i>. Nämä kauniit opetukset ovat nyt jokaisen saatavilla.
+
+<i>Kirjoittaja on kokenut norjalainen buddhalaismunkki. Hän on tunnettu sutta-keskeisistä retriiteistään ja <a href="https://suttacentral.net/edition/pli-tv-vi/en/brahmali?lang=en">käännöstyöstään</a> luostarisääntökokoelma Vinayan parissa.</i>
+
+<i>Tämä teksti on käännöskatkelma Ajahn Brahmalin puheesta, jonka voi kuunnella kokonaisuudessaan <a href="https://www.youtube.com/watch?v=FRNaPhBdxXg&t=2246s">täältä.</a></i>

@@ -13,6 +13,12 @@ entries_layout: grid
 
 author: Ajahn Brahmali
 ---
+<figure>
+<img src="assets/images/brahmali.jpg" alt="brahmali">
+<figcaption> Ajahn Brahmali opettamassa Norjassa. Kuva: DNBF.org</figcaption>
+</figure>
+
+<b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
 <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli">Buddhan opetuksien</a> säilyminen lähes sellaisenaan 2500 vuoden ajan on historiallinen ihme. 
 
@@ -30,11 +36,16 @@ Kaikki seuraavat omia systeemejään ja opettajiaan, mutta kuinka usein kuulee, 
 
 Siihen ei usein törmää!
 
-Sen sijaan ihmisillä on omat perinteensä. Joskus se on tiibetiläinen perinne, joskus <i>Mahāyāna</i>, joskus yksittäinen ryhmä <i>Theravādan</i> sisällä. Mutta äärimmäisen harvoin seurataan Buddhan omia opetuksia. 
+Sen sijaan ihmisillä on omat perinteensä. Joskus se on tiibetiläinen perinne, joskus <i>mahāyāna</i>, joskus yksittäinen ryhmä <i>theravādan</i> sisällä. Mutta äärimmäisen harvoin seurataan Buddhan omia opetuksia. 
 
 Perinteissä on tietenkin paljon hyvää. Usein on kuitenkin lähes mahdotonta tietää, kuinka tarkasti eri perinteet välittävät Buddhan opetuksia. Asiasta voi saada varmuuden vain tutustumalla Buddhan opetuksiin, eli alkuperäisiin <i>suttiin</i>.
 
 <h2>Opetukset ovat vihdoin saatavilla</h2>
+
+<figure>
+<img src="https://readingfaithfully.org/wp-content/uploads/2018/06/AllCovers-STORY-OneLine.jpg" alt="suttas">
+<figcaption> Buddhan opetuksia on tarjolla korkealaatuisina käännöksinä. Kuva: ReadingFaithfully.org</figcaption>
+</figure>
 
 On olemassa hyvä syy siihen, miksi ihmiset hakeutuvat eri perinteiden pariin Buddhan varsinaisten opetuksien sijaan.
 
@@ -42,7 +53,7 @@ Pitkään suttat olivat saatavilla vain paalin tai sanskritin kielellä.
 
 Ennen opetuksien kääntämistä moderneille kielille vain harvoilla opetuksiin erikoistuneilla munkeilla ja nunnilla oli mahdollisuus tutustua niihin. 
 
-Yli 2000 vuoden ajan suttat olivat siis pienen elitistisen ryhmän hallussa. Yksittäisten aasialaisten luostarien ulkopuolella opetuksiin ei juuri päässyt käsiksi. 
+Yli 2000 vuoden ajan <i>suttat</i> olivat siis pienen elitistisen ryhmän hallussa. Yksittäisten aasialaisten luostarien ulkopuolella opetuksiin ei juuri päässyt käsiksi. 
 
 Alkuperäiskieliä osaamattomien oli turvauduttava ulkopuolisiin asiantuntijoihin, sillä muuten ei ollut mitään mahdollisuutta tutustua Buddhan opetuksiin.
 
@@ -54,11 +65,11 @@ Opetukset pitäisi aina kääntää sille kielelle, jota ihmiset oikeasti puhuva
 
 Joskus jopa käännökset ovat liian vaikeaselkoisia.
 
-Esimerkiksi ensimmäisissä englanninkielisissä käännöksissä oli vahva viktoriaaninen kaiku. Ne olivat lähempänä Shakespearea kuin nykyenglantia. Se oli valitettavaa, koska Buddha ei opettanut niin. Hän opetti muinaisen Intian aikalaisilleen heidän ymmärtämällään kielellä.
+Esimerkiksi ensimmäisissä englanninkielisissä käännöksissä oli vahva viktoriaaninen kaiku. Ne olivat lähempänä Shakespearea kuin nykyenglantia. Tämä on valitettavaa, koska Buddha ei opettanut niin. Hän opetti muinaisen Intian aikalaisilleen heidän ymmärtämällään kielellä.
 
 Onneksi nykyään on tarjolla hyviä, luotettavia ja helppolukuisia englanninkielisiä käännöksiä*. 
 
-Nyt on siis aika tarttua mahdollisuuteen ja ottaa selvää, mitä Buddha oikeasti opetti.
+Nyt on siishyvä aika tarttua mahdollisuuteen ja ottaa selvää, mitä Buddha oikeasti opetti.
 
 <i>"toim. huom. käännöksiä löytyy myös muilla kielillä. <a href="https://suttacentral.net/?lang=en>Suttacentral.net</a>-sivustolta löytyy myös suomenkielisiä versioita Buddhan opetuksista.</i>
 

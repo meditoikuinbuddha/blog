@@ -74,8 +74,6 @@ Esimerkiksi ensimmäisissä englanninkielisissä käännöksissä oli vahva vikt
 
 Onneksi nykyään on tarjolla hyviä, luotettavia ja helppolukuisia englanninkielisiä käännöksiä*. 
 
-Nyt on siishyvä aika tarttua mahdollisuuteen ja ottaa selvää, mitä Buddha oikeasti opetti.
-
 <i>*toim. huom. käännöksiä löytyy myös muilla kielillä. <a href="https://suttacentral.net/?lang=en">Suttacentral.net</a>-sivustolta löytyy myös suomenkielisiä käännöksiä Buddhan opetuksista.</i>
 
 <h2>Opettajien seuraaminen voi olla ongelmallista</h2> 
@@ -89,7 +87,7 @@ Buddhan opetukset ovat harjoituksen keskeinen tukipilari.
 
 Toinen tukipilari ovat ihmiset, jotka ovat pistäneet opetukset käytäntöön ja ovat päässeet nauttimaan harjoituksen hedelmistä.
 
-Opettajat ovat siis tärkeitä. On hyödyllistä löytää joku, joka tietää mistä puhuu.
+Opettajat ovat siis tärkeitä. On hyödyllistä löytää joku, joka tuntuu tietävän, mistä puhuu.
 
 Yksittäisiin opettajiin luottaminen voi kuitenkin olla myös vaarallista. Jotkut opettajat vaikuttavat inspiroivilta, karismaattisilta ja jopa rakkautta säteileviltä.
 
@@ -99,21 +97,20 @@ Myöhemmin voi selvitä, että ulkoisista karismaattisista piirteistään huolim
 
 Munkkien tai nunnien tapauksessa saattaa paljastua kaikenlaista sekoilua salasuhteista pröystäilevään luksuselämään. 
 
-Tällaisissa tapauksissa käy helposti niin, että opettajaa seuranneet menettävät uskonsa koko buddhalaisuuteen. Koska he luulevat seuranneensa Buddhan opetuksia, he kadottavat motivaationsa ja heittävät lapsen pesuveden mukana. 
+Tällaisissa tapauksissa käy helposti niin, että opettajaa seuranneet menettävät uskonsa koko buddhalaisuuteen. He kadottavat motivaationsa, luopuvat buddhalaisuudeksi luulemastaan harjoituksesta ja heittävät lapsen pesuveden mukana.
 
 Buddhalaisuus näyttäytyy korruptoituneena uskontona, josta ei ole hyötyä kenellekään.
 
 Näin voi käydä, jos seuraa Buddhan sijaan yksittäisiä opettajia.
 
-Aina opettajat eivät tietenkään käyttäydy täysin holtittomasti. Joskus opetukset voivat poiketa hienovaraisemmin Buddhan opetuksista. Silloin opettaja ei yksinkertaisesti johdata seuraajiaan Buddhan viitoittamalle polulle. 
+Aina opettajat eivät tietenkään käyttäydy täysin holtittomasti. Joskus opetukset voivat poiketa hienovaraisemmin Buddhan opetuksista.
 
-Ihmiset jäävät paitsi syvistä onnen ja rauhan kokemuksista, joiden Buddha kertoi olevan saatavilla. Opetukset eivät vie maaliin asti.
+Silloin ihmiset jäävät paitsi syvistä onnen ja rauhan kokemuksista, joiden Buddha kertoi olevan saatavilla. Opetukset eivät vie maaliin asti.
 
 On siis olemassa hienovaraisempia vaaroja, ja joskus on todella vaikea sanoa, opettaako joku oikeaa polkua. 
 
-Vain palaamalla Buddhan opetuksiin voi tietää, mikä polku on oikea. Buddhan opetukset ovat peruskivi, johon voi aina nojata. Lopulta voi aina viitata <i>suttiin</i>, jos haluaa tarkistaa, kenen opetukset vievät oikeaan suuntaan.
+Vain palaamalla Buddhan opetuksiin voi tietää, mikä polku on oikea. Buddhan opetukset ovat peruskivi, johon voi aina nojata.
 
-Tämä pätee tietysti myös minuun ja kaikkiin muihin opettajiin. Ei ole olemassa ketään, joka on arvioinnin yläpuolella.
 
 <h2>Mistä löytyy aito turvapaikka?</h2>
 
@@ -124,25 +121,29 @@ Tämä pätee tietysti myös minuun ja kaikkiin muihin opettajiin. Ei ole olemas
 
 Buddha ei ikinä käskenyt hakemaan turvapaikkaa yksilöistä tai luottamaan sokeasti yksittäisiin opettajiin.
 
-Koko ajatus yksilöön luottamisesta on ristiriidassa turvautumisen käsitteen kanssa. Buddhalaisuudessa turvaa haetaan niin kutsutusta kolmesta jalokivestä: Buddhasta, Buddhan opetuksista (<i>Dhamma</i>), ja buddhalaisesta luostariyhteisöstä (<i>Sangha</i>). 
+Koko ajatus yksilöön luottamisesta on ristiriidassa turvautumisen käsitteen kanssa. 
+
+Buddhalaisuudessa turvaa haetaan niin kutsutusta kolmesta jalokivestä: <i>Buddhasta</i>, Buddhan opetuksista (<i>Dhamma</i>), ja buddhalaisesta luostariyhteisöstä (<i>Sangha</i>). 
 
 <i>Buddha</i>, <i>Dhamma</i> ja <i>Sangha</i> ovat aidot turvapaikat.
 
 Mutta mitä kolme turvapaikkaa tarkoittavat?
 
-Turvapaikasta löytyy vastauksia elämän ongelmiin. Elämässähän kukaan ei säästy ongelmilta. On mahtavaa, jos tarjolla on viisautta ja inspiroivia opetuksia, jotka voivat auttaa ongelmissa.
+Turvapaikasta löytyy vastauksia elämän ongelmiin. On mahtavaa, jos tarjolla on viisautta ja inspiroivia opetuksia, jotka voivat auttaa ongelmien ratkomisessa.
 
-Viisaus ei ainoastaan auta ongelmien kanssa, vaan parantaa elämänlaatua. Vaikka asiat olisivat sinänsä mallillaan, voisivat ne aina olla paremminkin. Kukaan ei kieltäydy, jos tarjolla on enemmän rauhaa, tyytyväisyyttä ja onnea. 
+Viisaus ei ainoastaan auta ongelmien kanssa, vaan parantaa elämänlaatua. Vaikka asiat olisivat sinänsä mallillaan, voisivat ne aina olla paremminkin. 
+
+Kukaan ei kieltäydy, jos tarjolla on enemmän rauhaa, tyytyväisyyttä ja onnea. 
 
 Jos on olemassa opetus, joka auttaa ongelmissa ja parantaa elämänlaatua, totta kai siihen kannattaa tarttua. Sitä mahdollisuutta kuvaavat kolme turvapaikkaa: <i>Buddha</i>, <i>Dhamma</i> ja <i>Sangha</i>.
 
-<i>Buddhalla</i> tarkoitetaan historiallista Buddhaa, jolta ei voi enää hakea apua. 
+<i>Buddhalla</i> tarkoitetaan historiallista Buddhaa, jolta ei tietenkään voi enää hakea apua. 
 
-Sen sijaan tarjolla ovat Buddhan opetukset, eli <i>Dhamma</i>. Näin sekä <i>Buddha</i> että <i>Dhamma</i> kietoutuvat Buddhan opetuksien, eli <i>suttien</i> ympärille. Kaksi ensimmäistä turvapaikkaa löytyvät opetuksista, jotka ovat nykyään vapaasti tarjolla. 
+Sen sijaan tarjolla ovat Buddhan opetukset, <i>Dhamma</i>. Näin sekä <i>Buddha</i> että <i>Dhamma</i> kietoutuvat Buddhan opetuksien, eli <i>suttien</i> ympärille. Kaksi ensimmäistä turvapaikkaa löytyvät siis varhaisista opetuksista.
 
 Jäljelle jää vielä kolmas turvapaikka, eli <i>Sangha</i>. 
 
-Yleensä <i>Sanghalla</i> tarkoitetaan luostarijärjestelmää, eli munkkeja ja nunnia. Turvapaikka löytyy yhteistöstä, joka säilyttää ja pitää huolta Buddhan opetuksista. 
+Yleensä <i>Sanghalla</i> tarkoitetaan luostarijärjestelmää, eli munkkeja ja nunnia. Siinä mielessä turvapaikka löytyy tästä yhteistöstä, joka säilyttää ja pitää huolta Buddhan opetuksista. 
 
 Sairauden sattuessa ihmiset hakevat apua lääkäriltä, eivät putkimieheltä. Samoin hengellisten ongelmien kohdalla haetaan apua luostariyhteisöltä, <i>Sanghalta</i>. 
 
@@ -155,12 +156,14 @@ Luostareista on myös mahdollista löytää harjoittajia, jotka kuuluvat jaloon 
 <figcaption> Jalot ihmiset näkevät maailman ylhäältä.</figcaption>
 </figure>
 
-Jalot henkilöt ovat itse ymmärtäneet, mistä Buddhan opetuksissa on kyse. Jalosta yhteisöstä siis löytyy kolmas turvapaikka. Koska he ovat ymmärtäneet Buddhan opetukset, heidän omat opetuksensa ovat täysin Buddhan opetuksien mukaisia. 
+Jalot henkilöt ovat itse harjoittaneet Buddhan opetuksia ja ymmärtäneet, mistä niissä on oikeasti kyse. 
+
+Tietyssä mielessä kolmas turvapaikka löytyy siis jalojen harjoittajien yhteisöstä. Koska he ovat ymmärtäneet Buddhan opetukset, heidän omat opetuksensa ovat täysin Buddhan opetuksien mukaisia. 
 Sanat ja muotoilut voivat poiketa Buddhasta, mutta opetukset osoittavat samaan Dhammaan.
 
 Tässä mielessä jopa kolmas jalokivi palaa Buddhan 2500 vuotta vanhoihin opetuksiin. 
 
-Kaikki kolme jalokiveä osoittavat siis yhteen ja samaan paikkaan: <i>suttiin</i>. Nämä kauniit opetukset ovat nyt jokaisen saatavilla.
+Kaikki kolme jalokiveä osoittavat siis yhteen ja samaan paikkaan: <i>suttiin</i>. Ja nämä kauniit opetukset ovat nyt jokaisen saatavilla.
 
 <i>Kirjoittaja on kokenut norjalainen buddhalaismunkki. Hän on tunnettu sutta-keskeisistä retriiteistään ja <a href="https://suttacentral.net/edition/pli-tv-vi/en/brahmali?lang=en">käännöstyöstään</a> luostarisääntökokoelma Vinayan parissa.</i>
 

@@ -71,35 +71,31 @@ Onneksi nykyään on tarjolla hyviä, luotettavia ja helppolukuisia englanninkie
 
 Nyt on siishyvä aika tarttua mahdollisuuteen ja ottaa selvää, mitä Buddha oikeasti opetti.
 
-<i>"toim. huom. käännöksiä löytyy myös muilla kielillä. <a href="https://suttacentral.net/?lang=en>Suttacentral.net</a>-sivustolta löytyy myös suomenkielisiä versioita Buddhan opetuksista.</i>
+<i>"toim. huom. käännöksiä löytyy myös muilla kielillä. <a href="https://suttacentral.net/?lang=en">Suttacentral.net</a>-sivustolta löytyy myös suomenkielisiä versioita Buddhan opetuksista.</i>
 
-<h2>Opettajien seuraaminen voi olla ongelmallista</h2>
+<h2>Opettajien seuraaminen voi olla ongelmallista</h2> 
 
-Buddhalaisuus nojaa kahteen seikkaan, jotka tekevät itseeni suurimman vaikutuksen.
+Buddhan opetukset ovat harjoituksen keskeinen tukipilari. 
 
-Ensinnäkin on olemassa muinainen perinne, jota on testattu kerta toisensa jälkeen. Muinaisia opetuksia lukiessa voi tuntea tuttuuden tunnetta, joka tekee vaikutuksen. 
+Toinen tukipilari ovat ihmiset, jotka ovat pistäneet opetukset käytäntöön ja ovat päässeet nauttimaan harjoituksen hedelmistä.
 
-Buddhan opetukset ovat siis ensimmäinen tukipilari. 
+Opettajat ovat siis tärkeitä. On hyödyllistä löytää joku, joka tietää mistä puhuu.
 
-Toinen tukipilari ovat ihmiset, jotka ovat harjoittaneet Buddhan opetuksia ja joiden harjoitus tuntuu tuottaneen tulosta. 
+Yksittäisiin opettajiin luottaminen voi kuitenkin olla myös vaarallista. Jotkut opettajat vaikuttavat inspiroivilta, karismaattisilta ja jopa rakkautta säteileviltä.
 
-Opettajat ovat siis tärkeitä. On hyödyllistä löytää joku, joka vaikuttaa tietävän mistä puhuu.
-
-Yksittäisiin opettajiin luottaminen voi kuitenkin olla myös vaarallista. Jotkut opettajat vaikuttavat inspiroivilta, karismaattisilta ja ehkä jopa säteilevät rakkautta.
-
-Monet yksilöt vetävät ihmisiä magneetin lailla puoleensa. 
+Monet tällaiset yksilöt vetävät ihmisiä magneetin lailla puoleensa. 
 
 Myöhemmin voi selvitä, että ulkoisista karismaattisista piirteistään huolimatta kyseiset opettajat eivät syvällä sisimmissään olekaan niin vakaita.
 
 Munkkien tai nunnien tapauksessa saattaa paljastua kaikenlaista sekoilua salasuhteista pröystäilevään luksuselämään. 
 
-Tällaisissa tapauksissa käy helposti niin, että opettajaa seuranneet menettävät uskonsa koko buddhalaisuuteen. He uskovat seuranneensa Buddhan opetuksia, kadottavat motivaationsa ja heittävät lapsen pesuveden mukana. 
+Tällaisissa tapauksissa käy helposti niin, että opettajaa seuranneet menettävät uskonsa koko buddhalaisuuteen. Koska he luulevat seuranneensa Buddhan opetuksia, he kadottavat motivaationsa ja heittävät lapsen pesuveden mukana. 
 
 Buddhalaisuus näyttäytyy korruptoituneena uskontona, josta ei ole hyötyä kenellekään.
 
 Näin voi käydä, jos seuraa Buddhan sijaan yksittäisiä opettajia.
 
-Aina opettajat eivät tietenkään käyttäydy täysin holtittomasti. Joskus opetukset voivat poiketa hienovaraisemmin Buddhan opetuksista. Silloin opettaja ei johdata seuraajiaan Buddhan viitoittamalle polulle. 
+Aina opettajat eivät tietenkään käyttäydy täysin holtittomasti. Joskus opetukset voivat poiketa hienovaraisemmin Buddhan opetuksista. Silloin opettaja ei yksinkertaisesti johdata seuraajiaan Buddhan viitoittamalle polulle. 
 
 Ihmiset jäävät paitsi syvistä onnen ja rauhan kokemuksista, joiden Buddha kertoi olevan saatavilla. Opetukset eivät vie maaliin asti.
 

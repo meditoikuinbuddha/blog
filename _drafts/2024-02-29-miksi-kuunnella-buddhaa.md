@@ -76,8 +76,8 @@ Nyt on siishyvä aika tarttua mahdollisuuteen ja ottaa selvää, mitä Buddha oi
 <h2>Opettajien seuraaminen voi olla ongelmallista</h2> 
 
 <figure>
-<img src="assets/images/munkkipilarit.jpg" alt="brahmali">
-<figcaption> Opetukset elävät luostareissa. Kuva: Alexander</figcaption>
+<img src="assets/images/timo-volz.jpg" alt="tiet">
+<figcaption> Joskus voi olla vaikeuksia valita oikea tie. Kuva: Timo Volz</figcaption>
 </figure>
 
 Buddhan opetukset ovat harjoituksen keskeinen tukipilari. 

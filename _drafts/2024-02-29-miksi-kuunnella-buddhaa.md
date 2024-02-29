@@ -75,6 +75,11 @@ Nyt on siishyvä aika tarttua mahdollisuuteen ja ottaa selvää, mitä Buddha oi
 
 <h2>Opettajien seuraaminen voi olla ongelmallista</h2> 
 
+<figure>
+<img src="assets/images/munkkipilarit.jpg" alt="brahmali">
+<figcaption> Opetukset elävät luostareissa. Kuva: Alexander</figcaption>
+</figure>
+
 Buddhan opetukset ovat harjoituksen keskeinen tukipilari. 
 
 Toinen tukipilari ovat ihmiset, jotka ovat pistäneet opetukset käytäntöön ja ovat päässeet nauttimaan harjoituksen hedelmistä.
@@ -106,6 +111,11 @@ Vain palaamalla Buddhan opetuksiin voi tietää, mikä polku on oikea. Buddhan o
 Tämä pätee tietysti myös minuun ja kaikkiin muihin opettajiin. Ei ole olemassa ketään, joka on arvioinnin yläpuolella.
 
 <i>Mistä löytyy aito turvapaikka?</i>
+
+<figure>
+<img src="assets/images/munkkipilarit.jpg" alt="brahmali">
+<figcaption> Opetukset elävät luostareissa. Kuva: Alexander</figcaption>
+</figure>
 
 Buddha ei ikinä käskenyt hakemaan turvapaikkaa yksilöistä tai luottamaan sokeasti yksittäisiin opettajiin.
 

@@ -29,7 +29,7 @@ Haluan seuraavaksi kannustaa tämän sivuston lukijoita tutustumaan <i>suttiin</
 Kyseessä on nimittäin todella tärkeä osa Buddhalaista polkua.
 
 <figure>
-<img src="assets/images/dhammacakka.jpg" alt="dhammapyörä">
+<img src="assets/images/dhammacakka2.jpg" alt="dhammapyörä">
 <figcaption> Buddhan opetukset ovat vyöryneet mantereelta toiselle vuosisatojen ajan.</figcaption>
 </figure>
 

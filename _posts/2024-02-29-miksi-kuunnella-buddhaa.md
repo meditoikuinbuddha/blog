@@ -76,8 +76,8 @@ Nyt on siishyvä aika tarttua mahdollisuuteen ja ottaa selvää, mitä Buddha oi
 <h2>Opettajien seuraaminen voi olla ongelmallista</h2> 
 
 <figure>
-<img src=".assets/images/timo-volz.jpg" alt="tiet">
-<figcaption> Joskus voi olla vaikeuksia valita oikea tie. Kuva: Timo Volz</figcaption>
+<img src="jaromir-kavan-vv-oEGlN-4E-unsplash.jpg" alt="tie">
+<figcaption> Joskus on vaikea sanoa, mihin hengellinen tie vie. Kuva: Jaromir Kavan</figcaption>
 </figure>
 
 Buddhan opetukset ovat harjoituksen keskeinen tukipilari. 

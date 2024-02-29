@@ -11,7 +11,7 @@ header:
 
 entries_layout: grid
 
-author: meditoikuinbuddha.fi
+author: Meditoi kuin Buddha
 ---
 <figure>
 <img src="assets/images/firstsermon.jpg" alt="Buddhan opetusura alkaa">

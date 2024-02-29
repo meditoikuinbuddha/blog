@@ -26,7 +26,7 @@ Mutta mitä tarjottavaa muinaisilla opetuksilla on? Mikä on Buddhan opetuksien 
 
 Haluan seuraavaksi kannustaa tämän sivuston lukijoita tutustumaan <i>suttiin</i>, jotta jokainen voi löytää inspiraatiota Buddhan omista opetuksista. 
 
-Kyseessä on nimittäin todella tärkeä osa Buddhalaista polkua.
+Kyseessä on nimittäin todella tärkeä osa buddhalaista polkua.
 
 <figure>
 <img src="assets/images/dhammacakka2.jpg" alt="dhammapyörä">

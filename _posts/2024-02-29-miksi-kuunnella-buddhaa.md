@@ -28,6 +28,11 @@ Haluan seuraavaksi kannustaa tämän sivuston lukijoita tutustumaan <i>suttiin</
 
 Kyseessä on nimittäin todella tärkeä osa Buddhalaista polkua.
 
+<figure>
+<img src="assets/images/dhammacakka.jpg" alt="dhammapyörä">
+<figcaption> Buddhan opetukset ovat vyöryneet mantereelta toiselle vuosisatojen ajan.</figcaption>
+</figure>
+
 <h2>Buddha on paras opettaja</h2>
 
 Munkkina olen matkustellut siellä täällä ja tutustunut suureen osaan buddhalaisesta maailmasta. Matkustellessa huomaa, että ihmiset kuuntelevat ja lukevat lähes aina tiettyjen munkkien, nunnien tai maallikko-opettajien opetuksia. 

@@ -71,7 +71,7 @@ Onneksi nykyään on tarjolla hyviä, luotettavia ja helppolukuisia englanninkie
 
 Nyt on siishyvä aika tarttua mahdollisuuteen ja ottaa selvää, mitä Buddha oikeasti opetti.
 
-<i>"toim. huom. käännöksiä löytyy myös muilla kielillä. <a href="https://suttacentral.net/?lang=en">Suttacentral.net</a>-sivustolta löytyy myös suomenkielisiä versioita Buddhan opetuksista.</i>
+<i>*toim. huom. käännöksiä löytyy myös muilla kielillä. <a href="https://suttacentral.net/?lang=en">Suttacentral.net</a>-sivustolta löytyy myös suomenkielisiä käännöksiä Buddhan opetuksista.</i>
 
 <h2>Opettajien seuraaminen voi olla ongelmallista</h2> 
 

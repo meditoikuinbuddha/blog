@@ -110,7 +110,7 @@ Vain palaamalla Buddhan opetuksiin voi tietää, mikä polku on oikea. Buddhan o
 
 Tämä pätee tietysti myös minuun ja kaikkiin muihin opettajiin. Ei ole olemassa ketään, joka on arvioinnin yläpuolella.
 
-<i>Mistä löytyy aito turvapaikka?</i>
+<h2>Mistä löytyy aito turvapaikka?</h2>
 
 <figure>
 <img src="assets/images/alexander-DDsD431IFX4-unsplash.jpg" alt="munkkipilarit">

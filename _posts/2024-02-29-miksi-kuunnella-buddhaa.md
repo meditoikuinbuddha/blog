@@ -7,7 +7,7 @@ author: "Ajahn Brahmali"
 category: Puheenvuoro
 permalink: miksikuunnellabuddhaa
 header: 
-       teaser: assets/images/dhammacakka.jpg
+       teaser: assets/images/nitish-meena-vuori.jpg
 
 entries_layout: grid
 

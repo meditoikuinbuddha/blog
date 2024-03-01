@@ -20,6 +20,8 @@ author: Ajahn Brahmali
 
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
+<center><i>Ole oma saaresi ja turvapaikkasi, vailla muita turvapaikkoja. Anna opetuksien olla saaresi ja turvapaikkasi, vailla muita turvapaikkoja.</i> - Buddha, <a href=https://suttacentral.net/sn47.13/en/sujato?lang=en>SN 47.13</a></center>
+
 <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli">Buddhan opetuksien</a> säilyminen lähes sellaisenaan 2500 vuoden ajan on historiallinen ihme. 
 
 Mutta mitä tarjottavaa muinaisilla opetuksilla on? Mikä on Buddhan opetuksien rooli buddhalaisessa harjoituksessa?

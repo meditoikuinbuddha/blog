@@ -57,7 +57,7 @@ Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavi
 
 
 <b>1. Oikea näkemys (sammādiṭṭhi)</b><br>
-Jalon neljän totuuden ymmärtäminen.<br>
+Neljän jalon totuuden ymmärtäminen.<br>
 <b>2. Oikea aikomus (sammāsaṅkappo)</b><br>
 Aikomukset ja ideat, jotka pohjaavat luopumiseen, ystävällisyyteen ja huomaavaisuuteen.<br>
 <b>3. Oikea puhe (sammāvācā)</b><br>

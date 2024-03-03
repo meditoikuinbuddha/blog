@@ -19,7 +19,7 @@ Tavoitteemme on siis oppia meditoimaan kuin Buddha. Tule mukaan!
 
 <hr>
 
-Meditoi kuin Buddha -yhteisö toimii norjalaisen <a href="https://www.dnbf.org/en">The Buddhist Society of Norwayn</a> alaisuudessa. 
+Haluatko meditoida porukassa? Teemme yhteistyötä norjalaisen <a href="https://www.dnbf.org/en">The Buddhist Society of Norwayn</a> kanssa, jolla on oma paikallisryhmä Tampereella.
 
 Jos olet kiinnostunut Suomen paikallistoimintaan osallistumisesta, pistä viestiä osoitteeseen tampere@dnbf.org. 
 

@@ -58,10 +58,10 @@ Buddhalaisen harjoituksen päätavoitteena on siis ymmärtää sama totuus, jonk
 Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavista osista (mm. <a href="https://suttacentral.net/sn45.8/en/sujato">SN45.8</a>), joita avataan tarkemmin tulevissa julkaisuissa:
 
 
-<b>1. Oikea näkemys (sammādiṭṭhi)</b>
-Jalon neljän totuuden ymmärtäminen.
-<b>2. Oikea aikomus (sammāsaṅkappo)</b>
-Aikomukset ja ideat, jotka pohjaavat luopumiseen, ystävällisyyteen ja huomaavaisuuteen.
+<b>1. Oikea näkemys (sammādiṭṭhi)</b><br>
+Jalon neljän totuuden ymmärtäminen.<br>
+<b>2. Oikea aikomus (sammāsaṅkappo)</b><br>
+Aikomukset ja ideat, jotka pohjaavat luopumiseen, ystävällisyyteen ja huomaavaisuuteen.<br>
 <b>3. Oikea puhe (sammāvācā)</b>
 Puhe, joka on totta, harmonista, lempeää ja merkityksellistä.
 <b>4. Oikea toiminta (sammākammanta)</b>

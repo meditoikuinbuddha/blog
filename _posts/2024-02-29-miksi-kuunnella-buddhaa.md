@@ -1,13 +1,13 @@
 ---
 layout: categories
 title: Miksi Buddhaa kannattaa kuunnella?
-excerpt: "Ajahn Brahmalin mukaan Buddhan opetukset ovat luotettavin turvapaikka."
+excerpt: "Buddhan opetukset vievät oikealle polulle."
 date: 2024-02-29 11:00:00 +0200
 author: "Ajahn Brahmali"
 category: Puheenvuoro
 permalink: miksikuunnellabuddhaa
 header: 
-       teaser: assets/images/nitish-meena-vuori.jpg
+       teaser: assets/images/caleb-jones-J3JMyXWQHXU-unsplash
 
 entries_layout: grid
 
@@ -79,8 +79,8 @@ Onneksi nykyään on tarjolla hyviä, luotettavia ja helppolukuisia englanninkie
 <h2>Opettajien seuraaminen voi olla ongelmallista</h2> 
 
 <figure>
-<img src="assets/images/jaromir-kavan-vv-oEGlN-4E-unsplash.jpg" alt="tie">
-<figcaption> Joskus on vaikea sanoa, mihin hengellinen tie vie. Kuva: Jaromir Kavan</figcaption>
+<img src="assets/images/caleb-jones-J3JMyXWQHXU-unsplash" alt="tienristeys">
+<figcaption> Joskus oikean polun valitseminen on vaikeaa vie. Kuva: Caleb Jones</figcaption>
 </figure>
 
 Buddhan opetukset ovat harjoituksen keskeinen tukipilari. 

@@ -98,25 +98,25 @@ Opettajat ovat siis tärkeitä. On hyödyllistä löytää joku, joka tuntuu tie
 
 Yksittäisiin opettajiin luottaminen voi kuitenkin olla myös vaarallista. Jotkut opettajat vaikuttavat inspiroivilta, karismaattisilta ja jopa rakkautta säteileviltä.
 
-Monet tällaiset yksilöt vetävät ihmisiä magneetin lailla puoleensa. 
+Monet opettajat vetävät ihmisiä magneetin lailla puoleensa. 
 
-Myöhemmin voi selvitä, että ulkoisista karismaattisista piirteistään huolimatta kyseiset opettajat eivät syvällä sisimmissään olekaan niin vakaita.
+Ulkoisesti karismaattiset opettajat eivät kuitenkaan aina ole sisimmissään kovin vakaita.
 
 Munkkien tai nunnien tapauksessa saattaa paljastua kaikenlaista sekoilua salasuhteista pröystäilevään luksuselämään. 
 
-Tällaisissa tapauksissa käy helposti niin, että opettajaa seuranneet menettävät uskonsa koko buddhalaisuuteen. He kadottavat motivaationsa, luopuvat buddhalaisuudeksi luulemastaan harjoituksesta ja heittävät lapsen pesuveden mukana.
+Tällaisissa tapauksissa opettajaa seuranneet menettävät helposti uskonsa koko buddhalaisuuteen. He kadottavat motivaationsa, luopuvat buddhalaisuudeksi luulemastaan harjoituksesta ja heittävät lapsen pesuveden mukana.
 
 Buddhalaisuus näyttäytyy korruptoituneena uskontona, josta ei ole hyötyä kenellekään.
 
 Näin voi käydä, jos seuraa Buddhan sijaan yksittäisiä opettajia.
 
-Aina opettajat eivät tietenkään käyttäydy täysin holtittomasti. Joskus opetukset voivat poiketa hienovaraisemmin Buddhan opetuksista.
+Aina opettajat eivät tietenkään käyttäydy täysin holtittomasti, vaan opetukset voivat poiketa hienovaraisemmin Buddhan opetuksista.
 
 Silloin ihmiset jäävät paitsi syvistä onnen ja rauhan kokemuksista, joiden Buddha kertoi olevan saatavilla. Opetukset eivät vie maaliin asti.
 
-On siis olemassa hienovaraisempia vaaroja, ja joskus on todella vaikea sanoa, opettaako joku oikeaa polkua. 
+Joskus onkin todella vaikea sanoa, opettaako joku oikeaa polkua. 
 
-Vain palaamalla Buddhan opetuksiin voi tietää, mikä polku on oikea. Buddhan opetukset ovat peruskivi, johon voi aina nojata.
+Vain palaamalla Buddhan opetuksiin voi tietää, mikä tie vie oikeaan paikkaan. Buddhan opetukset ovat peruskivi, johon voi aina nojata.
 
 
 <h2>Mistä löytyy aito turvapaikka?</h2>
@@ -136,21 +136,23 @@ Buddhalaisuudessa turvaa haetaan niin kutsutusta kolmesta jalokivestä: <i>Buddh
 
 Mutta mitä kolme turvapaikkaa tarkoittavat?
 
-Turvapaikasta löytyy vastauksia elämän ongelmiin. On mahtavaa, jos tarjolla on viisautta ja inspiroivia opetuksia, jotka voivat auttaa ongelmien ratkomisessa.
+Turvapaikasta löytyy vastauksia elämän ongelmiin. Sieltä saa viisautta ja inspiroivia opetuksia, jotka voivat auttaa ongelmien ratkomisessa.
 
 Viisaus ei ainoastaan auta ongelmien kanssa, vaan parantaa elämänlaatua. Vaikka asiat olisivat sinänsä mallillaan, voisivat ne aina olla paremminkin. 
 
 Kukaan ei kieltäydy, jos tarjolla on enemmän rauhaa, tyytyväisyyttä ja onnea. 
 
-Jos on olemassa opetus, joka auttaa ongelmissa ja parantaa elämänlaatua, totta kai siihen kannattaa tarttua. Sitä mahdollisuutta kuvaavat kolme turvapaikkaa: <i>Buddha</i>, <i>Dhamma</i> ja <i>Saṅgha</i>.
+Jos joku opetus auttaa ongelmissa ja parantaa elämänlaatua, totta kai siihen kannattaa tarttua. Sitä mahdollisuutta kuvaavat kolme turvapaikkaa.
 
 <i>Buddhalla</i> tarkoitetaan historiallista Buddhaa, jolta ei tietenkään voi enää hakea apua. 
 
-Sen sijaan tarjolla ovat Buddhan opetukset, <i>Dhamma</i>. Näin sekä <i>Buddha</i> että <i>Dhamma</i> kietoutuvat Buddhan opetuksien, eli <i>suttien</i> ympärille. Kaksi ensimmäistä turvapaikkaa löytyvät siis varhaisista opetuksista.
+Sen sijaan tarjolla ovat Buddhan opetukset: <i>Dhamma</i>. Näin sekä <i>Buddha</i> että <i>Dhamma</i> kietoutuvat Buddhan opetuksien, eli <i>suttien</i> ympärille. 
+
+Kaksi ensimmäistä turvapaikkaa löytyvät siis varhaisista opetuksista.
 
 Jäljelle jää vielä kolmas turvapaikka: <i>Saṅgha</i>. 
 
-Yleensä <i>Sanghalla</i> tarkoitetaan luostarijärjestelmää, eli munkkeja ja nunnia. Siinä mielessä turvapaikka löytyy tästä yhteistöstä, joka säilyttää ja pitää huolta Buddhan opetuksista. 
+Yleensä <i>Sanghalla</i> tarkoitetaan luostarijärjestelmää, eli munkkeja ja nunnia. Turvapaikka löytyy tästä yhteistöstä, joka säilyttää ja pitää huolta Buddhan opetuksista. 
 
 Sairauden sattuessa ihmiset hakevat apua lääkäriltä, eivät putkimieheltä. Samoin hengellisten ongelmien kohdalla haetaan apua luostariyhteisöltä, <i>Saṅghalta</i>. 
 

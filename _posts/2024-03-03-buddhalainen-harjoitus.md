@@ -32,12 +32,12 @@ Jaloksi kahdeksanosaiseksi poluksi nimetty keskitie väistää sekä aistillisen
 
 Buddhan viitoittama polku ohjaa siis luopumaan kaikesta kehoon kohdistuvasta halusta ja inhosta. 
 
-Polun päämääränä on puolestaan kaikesta materialismista vapaa henkinen nautinto, joka luo perustan ymmärryksen syvenemiselle. 
+Polun päämääränä on puolestaan henkinen nautinto, joka luo perustan ymmärryksen syvenemiselle. 
 
 <h2>Buddhalaisuuteen ei sisälly sokeaa uskoa</h2>
 
 <figure>
-<img src="assets/images/polku" alt="polku">
+<img src="assets/images/polku.jpg" alt="polku">
 <figcaption> Buddhalainen polku vie kohti valoa. Kuva: Patrick Fore</figcaption>
 </figure>
 

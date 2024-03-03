@@ -7,7 +7,7 @@ author: "Ajahn Brahmali"
 category: Puheenvuoro
 permalink: miksikuunnellabuddhaa
 header: 
-       teaser: assets/images/caleb-jones-J3JMyXWQHXU-unsplash
+       teaser: assets/images/caleb-jones-J3JMyXWQHXU-unsplash.jpg
 
 entries_layout: grid
 
@@ -81,7 +81,7 @@ Onneksi nykyään on tarjolla hyviä, luotettavia ja helppolukuisia englanninkie
 <h2>Opettajien seuraaminen voi olla ongelmallista</h2> 
 
 <figure>
-<img src="assets/images/caleb-jones-J3JMyXWQHXU-unsplash" alt="tienristeys">
+<img src="assets/images/caleb-jones-J3JMyXWQHXU-unsplash.jpg" alt="tienristeys">
 <figcaption> Joskus oikean polun valitseminen on vaikeaa vie. Kuva: Caleb Jones</figcaption>
 </figure>
 

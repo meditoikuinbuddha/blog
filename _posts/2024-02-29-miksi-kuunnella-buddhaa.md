@@ -76,6 +76,11 @@ Esimerkiksi ensimmäisissä englanninkielisissä käännöksissä oli vahva vikt
 
 Onneksi nykyään on tarjolla hyviä, luotettavia ja helppolukuisia englanninkielisiä käännöksiä*. 
 
+<figure>
+<img src="https://suttacentral.net/img/home-page/editions2.avif" alt="suttas">
+<figcaption> Kuva: Suttacentral.net</figcaption>
+</figure>
+
 <i>*toim. huom. käännöksiä löytyy myös muilla kielillä. <a href="https://suttacentral.net/?lang=en">Suttacentral.net</a>-sivustolta löytyy myös suomenkielisiä käännöksiä Buddhan opetuksista.</i>
 
 <h2>Opettajien seuraaminen voi olla ongelmallista</h2> 

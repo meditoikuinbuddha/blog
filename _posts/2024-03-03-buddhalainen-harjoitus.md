@@ -61,7 +61,7 @@ Neljän jalon totuuden ymmärtäminen.<br>
 <b>2. Oikea aikomus (sammāsaṅkappo)</b><br>
 Aikomukset ja ideat, jotka pohjaavat luopumiseen, ystävällisyyteen ja huomaavaisuuteen.<br>
 <b>3. Oikea puhe (sammāvācā)</b><br>
-Puhe, joka on totta, harmonista, lempeää ja merkityksellistä.<br>
+Puhe, joka on totta, sopusointuista, lempeää ja merkityksellistä.<br>
 <b>4. Oikea toiminta (sammākammanta)</b><br>
 Pidättäytyminen tappamisesta, varastamisesta ja seksuaalisista väärinkäytöksistä.<br>
 <b>5. Oikea elämäntapa (sammāājīva)</b><br>

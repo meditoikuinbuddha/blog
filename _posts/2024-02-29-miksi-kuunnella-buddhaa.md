@@ -87,7 +87,7 @@ Onneksi nykyään on tarjolla hyviä, luotettavia ja helppolukuisia englanninkie
 
 <figure>
 <img src="assets/images/caleb-jones-J3JMyXWQHXU-unsplash.jpg" alt="tienristeys">
-<figcaption> Joskus oikean polun valitseminen on vaikeaa vie. Kuva: Caleb Jones</figcaption>
+<figcaption> Joskus oikean polun valitseminen on vaikeaa. Kuva: Caleb Jones</figcaption>
 </figure>
 
 Buddhan opetukset ovat harjoituksen keskeinen tukipilari. 

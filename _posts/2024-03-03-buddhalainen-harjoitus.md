@@ -62,18 +62,19 @@ Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavi
 Jalon neljän totuuden ymmärtäminen.<br>
 <b>2. Oikea aikomus (sammāsaṅkappo)</b><br>
 Aikomukset ja ideat, jotka pohjaavat luopumiseen, ystävällisyyteen ja huomaavaisuuteen.<br>
-<b>3. Oikea puhe (sammāvācā)</b>
-Puhe, joka on totta, harmonista, lempeää ja merkityksellistä.
-<b>4. Oikea toiminta (sammākammanta)</b>
-Pidättäytyminen tappamisesta, varastamisesta ja seksuaalisista väärinkäytöksistä.
-<b>5. Oikea elämäntapa (sammāājīva)</b>
-Vahingoittavan työn välttäminen.
-<b>6. Oikea pyrkimys (sammāvāyāma)</b>
-Neljä oikeaa pyrkimystä.
-<b>7. Oikea tietoinen läsnäolo (mindfulness)</b>
-Neljä meditoinnin kohdetta.
-<b>8. Oikea rauha (sammāsamādhi)</b>
-Neljä syvää meditatiivista tilaa, joita kutsutaan <i>jhānoiksi</i>.
+<b>3. Oikea puhe (sammāvācā)</b><br>
+Puhe, joka on totta, harmonista, lempeää ja merkityksellistä.<br>
+<b>4. Oikea toiminta (sammākammanta)</b><br>
+Pidättäytyminen tappamisesta, varastamisesta ja seksuaalisista väärinkäytöksistä.<br>
+<b>5. Oikea elämäntapa (sammāājīva)</b><br>
+Vahingoittavan työn välttäminen.<br>
+<b>6. Oikea pyrkimys (sammāvāyāma)</b><br>
+Neljä oikeaa pyrkimystä.<br>
+<b>7. Oikea tietoinen läsnäolo (mindfulness)</b><br>
+Neljä meditoinnin kohdetta.<br>
+<b>8. Oikea rauha (sammāsamādhi)</b><br>
+Neljä syvää meditatiivista tilaa, joita kutsutaan <i>jhānoiksi</i>.<br>
+
 
 <i>Suttien lisäksi jutussa on käytetty lähteenä Bhante Sujaton kirjoitusta <a href="https://suttacentral.net/sn-guide-sujato?lang=en">The Linked Discourses: the blueprint for Buddhist philosophy</a>.</i>
 

@@ -28,7 +28,7 @@ Buddhan opetuksien ytimessä on mielen harjoittaminen, joka johtaa askel askelee
 
 Buddha itse kuvasi harjoitustaan keskitieksi (paaliksi <i>majjhimā paṭipadā</i>) (<a href="https://suttacentral.net/sn56.11/en/sujato">SN56.11</a>).
 
-Myös jaloksi kahdeksanosaiseksi poluksi nimetty keskitie väistää sekä aistillisen nautiskelun (</i>kāmasukhallikānuyoga</i>) että itsekurittamisen (<i>attakilamathānuyoga</i>) äärimmäisyydet. 
+Jaloksi kahdeksanosaiseksi poluksi nimetty keskitie väistää sekä aistillisen nautiskelun että itsekurittamisen äärimmäisyydet. 
 
 Buddhan viitoittama polku ohjaa siis luopumaan kaikesta kehoon kohdistuvasta halusta ja inhosta. 
 

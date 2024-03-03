@@ -51,7 +51,7 @@ Näin ollen buddhalainen harjoitus on täysin vapaa sokeasta uskosta.
 
 Palvottavan jumalhahmon sijaan Buddha on opettaja, jonka neuvot voi halutessaan pistää käytäntöön. 
 
-Buddhalaisen harjoituksen päätavoitteena on siis ymmärtää sama totuus, jonka Buddha ymmärsi. 
+Buddhalaisen harjoituksen päämääränä on oppia katsomaan maailmaa Buddhan tavoin.
 
 Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavista osista (mm. <a href="https://suttacentral.net/sn45.8/en/sujato">SN45.8</a>), joita avataan tarkemmin tulevissa julkaisuissa:
 

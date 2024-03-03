@@ -130,9 +130,9 @@ Buddha ei ikinä käskenyt hakemaan turvapaikkaa yksilöistä tai luottamaan sok
 
 Koko ajatus yksilöön luottamisesta on ristiriidassa turvautumisen käsitteen kanssa. 
 
-Buddhalaisuudessa turvaa haetaan niin kutsutusta kolmesta jalokivestä: <i>Buddhasta</i>, Buddhan opetuksista (<i>Dhamma</i>), ja buddhalaisesta luostariyhteisöstä (<i>Sangha</i>). 
+Buddhalaisuudessa turvaa haetaan niin kutsutusta kolmesta jalokivestä: <i>Buddhasta</i>, Buddhan opetuksista (<i>Dhamma</i>), ja buddhalaisesta luostariyhteisöstä (<i>Saṅgha</i>). 
 
-<i>Buddha</i>, <i>Dhamma</i> ja <i>Sangha</i> ovat aidot turvapaikat.
+<i>Buddha</i>, <i>Dhamma</i> ja <i>Saṅgha</i> ovat aidot turvapaikat.
 
 Mutta mitä kolme turvapaikkaa tarkoittavat?
 
@@ -142,30 +142,30 @@ Viisaus ei ainoastaan auta ongelmien kanssa, vaan parantaa elämänlaatua. Vaikk
 
 Kukaan ei kieltäydy, jos tarjolla on enemmän rauhaa, tyytyväisyyttä ja onnea. 
 
-Jos on olemassa opetus, joka auttaa ongelmissa ja parantaa elämänlaatua, totta kai siihen kannattaa tarttua. Sitä mahdollisuutta kuvaavat kolme turvapaikkaa: <i>Buddha</i>, <i>Dhamma</i> ja <i>Sangha</i>.
+Jos on olemassa opetus, joka auttaa ongelmissa ja parantaa elämänlaatua, totta kai siihen kannattaa tarttua. Sitä mahdollisuutta kuvaavat kolme turvapaikkaa: <i>Buddha</i>, <i>Dhamma</i> ja <i>Saṅgha</i>.
 
 <i>Buddhalla</i> tarkoitetaan historiallista Buddhaa, jolta ei tietenkään voi enää hakea apua. 
 
 Sen sijaan tarjolla ovat Buddhan opetukset, <i>Dhamma</i>. Näin sekä <i>Buddha</i> että <i>Dhamma</i> kietoutuvat Buddhan opetuksien, eli <i>suttien</i> ympärille. Kaksi ensimmäistä turvapaikkaa löytyvät siis varhaisista opetuksista.
 
-Jäljelle jää vielä kolmas turvapaikka: <i>Sangha</i>. 
+Jäljelle jää vielä kolmas turvapaikka: <i>Saṅgha</i>. 
 
 Yleensä <i>Sanghalla</i> tarkoitetaan luostarijärjestelmää, eli munkkeja ja nunnia. Siinä mielessä turvapaikka löytyy tästä yhteistöstä, joka säilyttää ja pitää huolta Buddhan opetuksista. 
 
-Sairauden sattuessa ihmiset hakevat apua lääkäriltä, eivät putkimieheltä. Samoin hengellisten ongelmien kohdalla haetaan apua luostariyhteisöltä, <i>Sanghalta</i>. 
+Sairauden sattuessa ihmiset hakevat apua lääkäriltä, eivät putkimieheltä. Samoin hengellisten ongelmien kohdalla haetaan apua luostariyhteisöltä, <i>Saṅghalta</i>. 
 
-<i>Sangha</i> keskittyy yksinomaan Buddhan opetuksiin ja harjoittaa niitä parhaansa mukaan. 
+<i>Saṅgha</i> keskittyy yksinomaan Buddhan opetuksiin ja harjoittaa niitä parhaansa mukaan. 
 
-Luostareista on myös mahdollista löytää harjoittajia, jotka kuuluvat jaloon yhteisöön (paaliksi <i>ariya sangha</i>).
+Luostareista on myös mahdollista löytää harjoittajia, jotka kuuluvat jaloon yhteisöön (paaliksi <i>ariya saṅgha</i>).
+
+Jalot henkilöt (<i>ariyasāvaka</i>) ovat itse harjoittaneet Buddhan opetuksia ja ymmärtäneet, mistä niissä on oikeasti kyse. 
 
 <figure>
 <img src="assets/images/nitish-meena-vuori.jpg" alt="vuori">
 <figcaption> Jalot ihmiset näkevät maailman ylhäältä.</figcaption>
 </figure>
 
-Jalot henkilöt ovat itse harjoittaneet Buddhan opetuksia ja ymmärtäneet, mistä niissä on oikeasti kyse. 
-
-Tietyssä mielessä kolmas turvapaikka löytyy siis jalojen harjoittajien yhteisöstä. Koska he ovat ymmärtäneet Buddhan opetukset, heidän omat opetuksensa ovat täysin Buddhan opetuksien mukaisia. 
+Pohjimmiltaan kolmas turvapaikka löytyy siis jalojen harjoittajien yhteisöstä. Koska he ovat ymmärtäneet Buddhan opetukset, heidän omat opetuksensa ovat täysin Buddhan opetuksien mukaisia. 
 
 Sanat ja muotoilut voivat poiketa Buddhasta, mutta opetukset osoittavat samaan <i>Dhammaan</i>.
 

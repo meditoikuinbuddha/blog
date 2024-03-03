@@ -14,7 +14,7 @@ entries_layout: grid
 author: "Meditoi kuin Buddha"
 ---
 <figure>
-<img src="assets/images/varun-singh-RmWkrjjz2J4-unsplash" alt="buddhapatsas">
+<img src="assets/images/varun-singh-RmWkrjjz2J4-unsplash.jpg" alt="buddhapatsas">
 <figcaption> Buddhapatsas Pohjois-Intiassa. Kuva: Varun Singh</figcaption>
 </figure>
 

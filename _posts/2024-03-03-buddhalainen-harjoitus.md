@@ -45,7 +45,7 @@ Jalo kahdeksanosainen polku alkaa Buddhan opetuksien teoreettisesta hyväksymise
 
 Buddhan opetuksien ohjaavana periaatteena on siis henkinen itsenäisyys. 
 
-Buddhaan luottaminen on ehdoton perusta harjoitukselle. Harjoituksen edetessä luottamus kuitenkin nojaa yhä vahvemmin omaan kokemukseen. 
+Buddhaan luottaminen on tärkeä alkusysäys ja tuki harjoitukselle. Harjoituksen edetessä luottamus kuitenkin nojaa yhä vahvemmin myös omaan kokemukseen. 
 
 Näin ollen buddhalainen harjoitus on täysin vapaa sokeasta uskosta. 
 
@@ -53,7 +53,7 @@ Palvottavan jumalhahmon sijaan Buddha on opettaja, jonka neuvot voi halutessaan 
 
 Harjoituksen syveneminen johtaa neljän jalon totuuden ymmärtämiseen, jolloin harjoittaja astuu peruuttamattomasti jalolle kahdeksanosaiselle polulle. Loputtomasta jälleensyntymästä vapautuminen on tällöin vain ajan kysymys.
 
-Buddhalaisen harjoituksen päätavoitteena on siis ymmärtää sama totuus, jonka Buddha ymmärsi.
+Buddhalaisen harjoituksen päätavoitteena on siis ymmärtää sama totuus, jonka Buddha ymmärsi. 
 
 Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavista osista (mm. <a href="https://suttacentral.net/sn45.8/en/sujato">SN45.8</a>), joita avataan tarkemmin tulevissa julkaisuissa:
 

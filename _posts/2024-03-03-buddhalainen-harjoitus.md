@@ -51,8 +51,6 @@ Näin ollen buddhalainen harjoitus on täysin vapaa sokeasta uskosta.
 
 Palvottavan jumalhahmon sijaan Buddha on opettaja, jonka neuvot voi halutessaan pistää käytäntöön. 
 
-Harjoituksen syveneminen johtaa neljän jalon totuuden ymmärtämiseen, jolloin harjoittaja astuu peruuttamattomasti jalolle kahdeksanosaiselle polulle. Loputtomasta jälleensyntymästä vapautuminen on tällöin vain ajan kysymys.
-
 Buddhalaisen harjoituksen päätavoitteena on siis ymmärtää sama totuus, jonka Buddha ymmärsi. 
 
 Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavista osista (mm. <a href="https://suttacentral.net/sn45.8/en/sujato">SN45.8</a>), joita avataan tarkemmin tulevissa julkaisuissa:

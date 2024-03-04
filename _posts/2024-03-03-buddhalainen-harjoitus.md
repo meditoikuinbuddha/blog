@@ -51,7 +51,7 @@ Buddhan opetuksien ohjaavana periaatteena on siis henkinen itsenäisyys.
 
 Buddhaan luottaminen on tärkeä alkusysäys ja tuki harjoitukselle. Harjoituksen edetessä luottamus kuitenkin nojaa yhä vahvemmin myös omaan kokemukseen, jolloin myös usko Buddhan opetuksiin kasvaa.
 
-Käytännön kokemuksen kautta alun teoreettinen hyväksyntä varmistuu siis pikkuhiljaa totuuteen pohjaavaksi näkemykseksi.
+Käytännön kokemus varmistaa alun teoreettisen hyväksynnän totuuteen pohjaavaksi näkemykseksi.
 
 Näin ollen buddhalainen harjoitus on täysin vapaa sokeasta uskosta.
 

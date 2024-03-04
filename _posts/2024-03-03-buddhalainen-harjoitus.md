@@ -39,11 +39,15 @@ Polun päämääränä on henkinen nautinto, josta aito ymmärrys kumpuaa.
 <figcaption> Buddhalainen polku vie kohti valoa. Kuva: Patrick Fore</figcaption>
 </figure>
 
-Jalo kahdeksanosainen polku alkaa Buddhan opetuksien teoreettisesta hyväksymisestä ja päättyy syvään meditatioon, joka johtaa Buddhan opetuksien omakohtaiseen todentamiseen ja kärsimyksen lakkaamiseen.
+Jalo kahdeksanosainen polku alkaa Buddhan opetuksien teoreettisesta hyväksymisestä. 
+
+Polku jatkuu toiminnan, puheen ja ajattelun puhdistamisella. Pitkäjänteinen ja sitoutunut eettinen harjoitus luo puolestaan perustan mielen harjoittamiselle sekä syvälle meditaatiolle, joka on polun päätepiste.
+
+Poikkeuksellisen syvät rauhan, onnen ja selkeyden kokemukset johtavat lopulta Buddhan opetuksien omakohtaiseen todentamiseen ja kärsimyksen lakkaamiseen.
 
 Buddhan opetuksien ohjaavana periaatteena on siis henkinen itsenäisyys. 
 
-Buddhaan luottaminen on tärkeä alkusysäys ja tuki harjoitukselle. Harjoituksen edetessä luottamus kuitenkin nojaa yhä vahvemmin myös omaan kokemukseen. 
+Buddhaan luottaminen on tärkeä alkusysäys ja tuki harjoitukselle. Harjoituksen edetessä luottamus kuitenkin nojaa yhä vahvemmin myös omaan kokemukseen, jolloin myös usko Buddhan opetuksiin kasvaa.
 
 Näin ollen buddhalainen harjoitus on täysin vapaa sokeasta uskosta. 
 

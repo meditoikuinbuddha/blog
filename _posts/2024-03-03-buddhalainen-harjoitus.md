@@ -22,42 +22,33 @@ author: "Meditoi kuin Buddha"
 
 <h2>Buddhalainen polku on simppeli, mutta syvällinen</h2>
 
-Buddhalaista harjoitusta määrittää selkeys, rationaalisuus, yksinkertaisuus ja syvällisyys. 
+Buddhan varhaisissa opetuksissa kuvattu harjoitus etenee vaiheittain ja rationaalisesti.
 
-Buddhan opetuksien ytimessä on mielen harjoittaminen, joka johtaa askel askeleelta kohti syvempää rauhaa ja onnea. 
+Buddhan opetuksien ytimessä on pitkäjänteinen mielen harjoittaminen, joka johtaa askel askeleelta kohti syvempää rauhaa ja onnea. 
 
 Buddha itse kuvasi harjoitustaan keskitieksi (paaliksi <i>majjhimā paṭipadā</i>) (<a href="https://suttacentral.net/sn56.11/en/sujato">SN56.11</a>).
 
-Jaloksi kahdeksanosaiseksi poluksi nimetty keskitie väistää sekä aistillisen nautiskelun että itsekurittamisen äärimmäisyydet.
+Jaloksi kahdeksanosaiseksi poluksi nimetty keskitie väistää sekä aistillisuuden että itsekurittamisen.
 
-Polun päämääränä on henkinen nautinto, josta aito ymmärrys kumpuaa. 
 
-<h2>Buddhalaisuuteen ei sisälly sokeaa uskoa</h2>
+<h2>Buddhalainen harjoitus on täynnä onnea ja nautintoa</h2>
 
 <figure>
 <img src="assets/images/polku.jpg" alt="polku">
 <figcaption> Buddhalainen polku vie kohti valoa. Kuva: Patrick Fore</figcaption>
 </figure>
 
-Jalo kahdeksanosainen polku alkaa Buddhan opetuksien teoreettisesta hyväksymisestä. 
+Jalo kahdeksanosainen polku alkaa Buddhan opetuksien kuulemisesta, pohtimisesta ja älyllisestä hyväksymisestä. 
 
 Polku jatkuu toiminnan, puheen ja ajattelun puhdistamisella. 
 
-Pitkäjänteinen ja sitoutunut eettinen harjoitus luo puolestaan perustan mielen harjoittamiselle sekä syvälle meditaatiolle, joka on polun päätepiste.
+Jo tässä vaiheessa buddhalainen polku tarjoaa henkistä onnea ja merkityksellisyyttä, mutta ennen kaikkea eettisen harjoituksen on tarkoitus luoda perusta mielen harjoittamiselle ja meditoinnin onnistumiselle.
 
-Poikkeuksellisen syvät rauhan, onnen ja selkeyden kokemukset johtavat lopulta Buddhan opetuksien omakohtaiseen todentamiseen ja kärsimyksen lakkaamiseen.
+Buddhan mukaan pitkäjänteinen henkinen harjoitus ja syvenevä onni johtaa lopulta poikkeuksellisen nautinnollisiin kokemuksiin, joita kutsutaan <i>jhānoiksi</i>. 
 
-Buddhan opetuksien ohjaavana periaatteena on siis henkinen itsenäisyys. 
+Varhaiset opetukset kuvaavat <i>jhānoja</i> uppoutumisen tiloiksi, joita määrittää täydellinen irtaantuminen viidestä aistista ja haitallisista mielenlaaduista. Todellinen ymmärrys ja vapaus kumpuaa vasta näistä äärimmäisen syvällisistä kokemuksista.
 
-Buddhaan luottaminen on tärkeä alkusysäys ja tuki harjoitukselle. Harjoituksen edetessä luottamus kuitenkin nojaa yhä vahvemmin myös omaan kokemukseen, jolloin myös usko Buddhan opetuksiin kasvaa.
-
-Käytännön kokemus varmistaa alun teoreettisen hyväksynnän totuuteen pohjaavaksi näkemykseksi.
-
-Näin ollen buddhalainen harjoitus on täysin vapaa sokeasta uskosta.
-
-Palvottavan jumalhahmon sijaan Buddha on opettaja, jonka neuvot voi halutessaan pistää käytäntöön. 
-
-Buddhalaisen harjoituksen päämääränä on oppia katsomaan maailmaa Buddhan tavoin.
+<i>Jhānojen</i> syvyyden ymmärtäminen auttaa käsittämään, miksi maailmassa on luostareita. Tällaisten kokemusten harjoittaminen on mahdollista vain oikeissa olosuhteissa.
 
 Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavista osista (mm. <a href="https://suttacentral.net/sn45.8/en/sujato">SN45.8</a>), joita avataan tarkemmin tulevissa julkaisuissa:
 

@@ -48,7 +48,7 @@ Buddhan mukaan pitkäjänteinen henkinen harjoitus ja syvenevä onni johtaa lopu
 
 Polun päätepiste on siis syvä meditaatio, mutta onnea on tarjolla jo ensiaskeleista lähtien. 
 
-Buddhan sanoin polku on kaunis alussa, keskivaiheilla ja lopussa.
+Buddhan sanoin polku on hyvä alussa, keskivaiheilla ja lopussa.
 
 Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavista osista (mm. <a href="https://suttacentral.net/sn45.8/en/sujato">SN45.8</a>), joita avataan tarkemmin tulevissa julkaisuissa:
 

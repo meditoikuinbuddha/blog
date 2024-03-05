@@ -22,7 +22,7 @@ author: "Meditoi kuin Buddha"
 
 <h2>Buddhalainen polku on simppeli, mutta syvällinen</h2>
 
-Buddhan varhaisissa opetuksissa kuvattu harjoitus etenee vaiheittain ja rationaalisesti.
+Buddhan varhaisissa opetuksissa henkinen harjoitus etenee vaiheittain ja suunnitelmallisesti.
 
 Buddhan opetuksien ytimessä on pitkäjänteinen mielen harjoittaminen, joka johtaa askel askeleelta kohti syvempää rauhaa ja onnea. 
 

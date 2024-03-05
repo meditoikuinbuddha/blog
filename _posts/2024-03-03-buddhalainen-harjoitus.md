@@ -38,17 +38,17 @@ Jaloksi kahdeksanosaiseksi poluksi nimetty keskitie väistää sekä aistillisuu
 <figcaption> Buddhalainen polku vie kohti valoa. Kuva: Patrick Fore</figcaption>
 </figure>
 
-Jalo kahdeksanosainen polku alkaa Buddhan opetuksien kuulemisesta, pohtimisesta ja älyllisestä hyväksymisestä. 
+Buddhalainen harjoitus alkaa Buddhan opetuksien kuulemisesta, pohtimisesta ja älyllisestä hyväksymisestä. 
 
 Polku jatkuu toiminnan, puheen ja ajattelun puhdistamisella. 
 
 Jo tässä vaiheessa buddhalainen polku tarjoaa henkistä onnea ja merkityksellisyyttä, mutta ennen kaikkea eettisen harjoituksen on tarkoitus luoda perusta mielen harjoittamiselle ja meditoinnin onnistumiselle.
 
-Buddhan mukaan pitkäjänteinen henkinen harjoitus ja syvenevä onni johtaa lopulta poikkeuksellisen nautinnollisiin kokemuksiin, joita kutsutaan <i>jhānoiksi</i>. 
+Buddhan mukaan pitkäjänteinen henkinen harjoitus ja syvenevä onni johtaa lopulta poikkeuksellisen syvällisiin ja nautinnollisiin kokemuksiin, joita kutsutaan <i>jhānoiksi</i>. 
 
-Varhaiset opetukset kuvaavat <i>jhānoja</i> uppoutumisen tiloiksi, joita määrittää täydellinen irtaantuminen viidestä aistista ja haitallisista mielenlaaduista. Todellinen ymmärrys ja vapaus kumpuaa vasta näistä äärimmäisen syvällisistä kokemuksista.
+Polun päätepiste on siis syvä meditaatio, mutta Buddhan viitoittamassa harjoituksessa onnea on tarjolla jo kauan ennen meditoinnin onnistumista. 
 
-<i>Jhānojen</i> syvyyden ymmärtäminen auttaa käsittämään, miksi maailmassa on luostareita. Tällaisten kokemusten harjoittaminen on mahdollista vain oikeissa olosuhteissa.
+Buddhan sanoin polku on hyvä alussa, keskellä ja lopussa.
 
 Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavista osista (mm. <a href="https://suttacentral.net/sn45.8/en/sujato">SN45.8</a>), joita avataan tarkemmin tulevissa julkaisuissa:
 

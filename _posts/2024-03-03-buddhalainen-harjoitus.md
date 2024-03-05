@@ -46,7 +46,7 @@ Jo tässä vaiheessa buddhalainen polku tarjoaa henkistä onnea ja merkitykselli
 
 Buddhan mukaan pitkäjänteinen henkinen harjoitus ja syvenevä onni johtaa lopulta poikkeuksellisen syvällisiin ja nautinnollisiin kokemuksiin, joita kutsutaan <i>jhānoiksi</i>. 
 
-Polun päätepiste on siis syvä meditaatio, mutta Buddhan viitoittamassa harjoituksessa onnea on tarjolla jo kauan ennen meditoinnin onnistumista. 
+Polun päätepiste on siis syvä meditaatio, mutta Buddhan viitoittamassa harjoituksessa onnea on tarjolla jo kauan ennen meditoinnin syvenemistä. 
 
 Buddhan sanoin polku on hyvä alussa, keskellä ja lopussa.
 

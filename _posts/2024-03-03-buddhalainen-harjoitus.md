@@ -20,24 +20,6 @@ author: "Meditoi kuin Buddha"
 
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
-<h2>Buddhalainen polku on simppeli, mutta syvällinen</h2>
-
-Buddhan varhaisissa opetuksissa henkinen harjoitus etenee vaiheittain ja suunnitelmallisesti.
-
-Buddhan opetuksien ytimessä on pitkäjänteinen mielen harjoittaminen, joka johtaa askel askeleelta kohti syvempää rauhaa ja onnea. 
-
-Buddha itse kuvasi harjoitustaan keskitieksi (paaliksi <i>majjhimā paṭipadā</i>) (<a href="https://suttacentral.net/sn56.11/en/sujato">SN56.11</a>).
-
-Jaloksi kahdeksanosaiseksi poluksi nimetty keskitie väistää sekä aistillisuuden että itsekurittamisen.
-
-
-<h2>Buddhalainen harjoitus on täynnä onnea ja nautintoa</h2>
-
-<figure>
-<img src="assets/images/polku.jpg" alt="polku">
-<figcaption> Buddhalainen polku vie kohti valoa. Kuva: Patrick Fore</figcaption>
-</figure>
-
 Buddhan opetukset tiivistyvät yhteen sanaan: ystävällisyys. 
 
 Buddhalaisessa harjoituksessa on siis pohjimmiltaan kyse ystävällisyyden harjoittamisesta päivän jokaisena hetkenä.
@@ -47,6 +29,21 @@ Buddhan mukaan harjoitukseen sitoutuminen johtaa lopulta poikkeuksellisen syväl
 Polun päätepiste on siis syvä meditaatio, mutta onnea on tarjolla jo ensiaskeleista lähtien. 
 
 Buddhan sanoin polku on hyvä alussa, keskivaiheilla ja lopussa.
+
+<h2>Buddhalainen polku on simppeli, mutta syvällinen</h2>
+
+<figure>
+<img src="assets/images/polku.jpg" alt="polku">
+<figcaption> Buddhalainen polku vie kohti valoa. Kuva: Patrick Fore</figcaption>
+</figure>
+
+Buddhan varhaisissa opetuksissa henkinen harjoitus etenee vaiheittain ja suunnitelmallisesti.
+
+Opetuksien ytimessä on pitkäjänteinen mielen harjoittaminen, joka johtaa askel askeleelta kohti syvempää rauhaa ja onnea. 
+
+Buddha itse kuvasi harjoitustaan keskitieksi (paaliksi <i>majjhimā paṭipadā</i>) (<a href="https://suttacentral.net/sn56.11/en/sujato">SN56.11</a>).
+
+Jaloksi kahdeksanosaiseksi poluksi nimetty keskitie väistää sekä aistillisuuden että itsekurittamisen.
 
 Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavista osista (mm. <a href="https://suttacentral.net/sn45.8/en/sujato">SN45.8</a>), joita avataan tarkemmin tulevissa julkaisuissa:
 

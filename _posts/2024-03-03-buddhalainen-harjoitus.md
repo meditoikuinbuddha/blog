@@ -38,13 +38,9 @@ Jaloksi kahdeksanosaiseksi poluksi nimetty keskitie väistää sekä aistillisuu
 <figcaption> Buddhalainen polku vie kohti valoa. Kuva: Patrick Fore</figcaption>
 </figure>
 
-Buddhalainen harjoitus alkaa Buddhan opetuksien kuulemisesta, pohtimisesta ja älyllisestä hyväksymisestä. 
+Buddhalaisessa harjoituksessa on pohjimmiltaan kyse ystävällisyyden harjoittamisesta päivän jokaisena hetkenä. 
 
-Polku jatkuu toiminnan, puheen ja ajattelun puhdistamisella. 
-
-Jo tässä vaiheessa buddhalainen polku tarjoaa henkistä onnea ja merkityksellisyyttä, mutta ennen kaikkea eettisen harjoituksen on tarkoitus luoda perusta mielen harjoittamiselle ja meditoinnin onnistumiselle.
-
-Buddhan mukaan pitkäjänteinen henkinen harjoitus ja syvenevä onni johtaa lopulta poikkeuksellisen syvällisiin ja nautinnollisiin kokemuksiin, joita kutsutaan <i>jhānoiksi</i>. 
+Buddhan mukaan pitkäjänteinen harjoitus ja syvenevä onni johtaa lopulta poikkeuksellisen syvällisiin ja nautinnollisiin kokemuksiin, joita kutsutaan <i>jhānoiksi</i>. 
 
 Polun päätepiste on siis syvä meditaatio, mutta onnea on tarjolla jo ensiaskeleista lähtien. 
 

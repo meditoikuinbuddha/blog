@@ -42,7 +42,7 @@ Buddhan opetukset tiivistyvät yhteen sanaan: ystävällisyys.
 
 Buddhalaisessa harjoituksessa on siis pohjimmiltaan kyse ystävällisyyden harjoittamisesta päivän jokaisena hetkenä.
 
-Buddhan mukaan pitkäjänteinen harjoitus ja syvenevä onni johtaa lopulta poikkeuksellisen syvällisiin ja nautinnollisiin kokemuksiin, joita kutsutaan <i>jhānoiksi</i>. 
+Buddhan mukaan harjoitukseen sitoutuminen johtaa lopulta poikkeuksellisen syvällisiin ja nautinnollisiin kokemuksiin, joita kutsutaan <i>jhānoiksi</i>. 
 
 Polun päätepiste on siis syvä meditaatio, mutta onnea on tarjolla jo ensiaskeleista lähtien. 
 

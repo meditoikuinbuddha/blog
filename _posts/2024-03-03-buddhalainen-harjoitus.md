@@ -38,7 +38,9 @@ Jaloksi kahdeksanosaiseksi poluksi nimetty keskitie väistää sekä aistillisuu
 <figcaption> Buddhalainen polku vie kohti valoa. Kuva: Patrick Fore</figcaption>
 </figure>
 
-Buddhalaisessa harjoituksessa on pohjimmiltaan kyse ystävällisyyden harjoittamisesta päivän jokaisena hetkenä. 
+Buddhan opetukset tiivistyvät yhteen sanaan: ystävällisyys. 
+
+Buddhalaisessa harjoituksessa on siis pohjimmiltaan kyse ystävällisyyden harjoittamisesta päivän jokaisena hetkenä.
 
 Buddhan mukaan pitkäjänteinen harjoitus ja syvenevä onni johtaa lopulta poikkeuksellisen syvällisiin ja nautinnollisiin kokemuksiin, joita kutsutaan <i>jhānoiksi</i>. 
 

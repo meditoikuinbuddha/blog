@@ -20,26 +20,17 @@ author: "Meditoi kuin Buddha"
 
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
-Buddhan opetukset tiivistyvät yhteen sanaan: ystävällisyys. 
+<h2>Buddhalainen polku on simppeli, mutta syvällinen</h2>
 
-Buddhalaisessa harjoituksessa on siis pohjimmiltaan kyse ystävällisyyden harjoittamisesta päivän jokaisena hetkenä.
+Buddhan varhaisissa opetuksissa henkinen harjoitus etenee vaiheittain ja suunnitelmallisesti. 
+
+Opetuksien ytimessä on pitkäjänteinen mielen harjoittaminen, joka johtaa askel askeleelta kohti syvempää rauhaa ja onnea.
 
 Buddhan mukaan harjoitukseen sitoutuminen johtaa lopulta poikkeuksellisen syvällisiin ja nautinnollisiin kokemuksiin, joita kutsutaan <i>jhānoiksi</i>. 
 
 Polun päätepiste on siis syvä meditaatio, mutta onnea on tarjolla jo ensiaskeleista lähtien. 
 
 Buddhan sanoin polku on hyvä alussa, keskivaiheilla ja lopussa.
-
-<h2>Buddhalainen polku on simppeli, mutta syvällinen</h2>
-
-<figure>
-<img src="assets/images/polku.jpg" alt="polku">
-<figcaption> Buddhalainen polku vie kohti valoa. Kuva: Patrick Fore</figcaption>
-</figure>
-
-Buddhan varhaisissa opetuksissa henkinen harjoitus etenee vaiheittain ja suunnitelmallisesti.
-
-Opetuksien ytimessä on pitkäjänteinen mielen harjoittaminen, joka johtaa askel askeleelta kohti syvempää rauhaa ja onnea. 
 
 Buddha itse kuvasi harjoitustaan keskitieksi (paaliksi <i>majjhimā paṭipadā</i>) (<a href="https://suttacentral.net/sn56.11/en/sujato">SN56.11</a>).
 
@@ -64,6 +55,11 @@ Neljä oikeaa pyrkimystä.<br>
 Neljä meditoinnin kohdetta.<br>
 <b>8. Oikea rauha (sammāsamādhi)</b><br>
 Neljä syvää meditatiivista tilaa, joita kutsutaan <i>jhānoiksi</i>.<br>
+
+<figure>
+<img src="assets/images/polku.jpg" alt="polku">
+<figcaption> Buddhalainen polku vie kohti valoa. Kuva: Patrick Fore</figcaption>
+</figure>
 
 
 <i>Suttien lisäksi jutussa on käytetty lähteenä Bhante Sujaton kirjoitusta <a href="https://suttacentral.net/sn-guide-sujato?lang=en">The Linked Discourses: the blueprint for Buddhist philosophy</a>.</i>

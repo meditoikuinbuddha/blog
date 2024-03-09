@@ -20,15 +20,28 @@ author: "Meditoi kuin Buddha"
 
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
-<h2>Buddhalainen polku on simppeli, mutta syvällinen</h2>
+<h2>Buddhalainen harjoitus ei ole vain meditointia</h2>
 
 Buddhan varhaisissa opetuksissa henkinen harjoitus etenee vaiheittain ja suunnitelmallisesti. 
 
-Opetuksien ytimessä on pitkäjänteinen mielen työstäminen, joka johtaa askel askeleelta kohti syvempää rauhaa ja onnea.
+Opetuksien ytimessä on pitkäjänteinen mielen sekä käytöksen harjoittaminen, joka johtaa askel askeleelta kohti syvempää rauhaa ja onnea.
 
-Buddhan mukaan harjoitukseen sitoutuminen johtaa lopulta poikkeuksellisen syvällisiin ja nautinnollisiin kokemuksiin, joita kutsutaan <i>jhānoiksi</i>. 
+Iso osa buddhalaisesta harjoituksesta tapahtuu siis <i>ennen meditointia</i>. 
 
-Polun päätepiste on siis syvä meditaatio, mutta onnea on tarjolla jo ensiaskeleista lähtien. 
+Eettiset periaatteet, ystävällisyyteen sitoutuminen ja oman ajattelun työstäminen luovat perustan meditoinnille. Näin ollen buddhalainen harjoitus sopii kaikille, ei vain himomeditoijille.
+
+Jos mieli ei ole valmis meditoimaan, liiallinen meditointityynyllä istuminen voi olla jopa haitallista. 
+
+On siis ensiarvoisen tärkeää ymmärtää, miten buddhalainen polku toimii.
+
+<h2>Buddhalainen polku on onnellinen polku</h2>
+
+<figure>
+<img src="assets/images/polku.jpg" alt="polku">
+<figcaption> Buddhalainen polku vie kohti valoa. Kuva: Patrick Fore</figcaption>
+</figure>
+
+Buddhalainen polku vie kohti syvä meditaatiota ja siitä kumpuavaa ymmärrystä, mutta rauhaa ja onnea on tarjolla ensiaskeleista lähtien.
 
 Buddhan sanoin polku on hyvä alussa, keskivaiheilla ja lopussa.
 
@@ -55,11 +68,6 @@ Neljä oikeaa pyrkimystä.<br>
 Neljä meditoinnin kohdetta.<br>
 <b>8. Oikea rauha (sammāsamādhi)</b><br>
 Neljä syvää meditatiivista tilaa, joita kutsutaan <i>jhānoiksi</i>.<br>
-
-<figure>
-<img src="assets/images/polku.jpg" alt="polku">
-<figcaption> Buddhalainen polku vie kohti valoa. Kuva: Patrick Fore</figcaption>
-</figure>
 
 
 <i>Suttien lisäksi jutussa on käytetty lähteenä Bhante Sujaton kirjoitusta <a href="https://suttacentral.net/sn-guide-sujato?lang=en">The Linked Discourses: the blueprint for Buddhist philosophy</a>.</i>

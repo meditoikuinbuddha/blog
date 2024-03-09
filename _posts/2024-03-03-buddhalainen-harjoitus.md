@@ -24,7 +24,7 @@ author: "Meditoi kuin Buddha"
 
 Buddhan varhaisissa opetuksissa henkinen harjoitus etenee vaiheittain ja suunnitelmallisesti. 
 
-Opetuksien ytimessä on pitkäjänteinen mielen harjoittaminen, joka johtaa askel askeleelta kohti syvempää rauhaa ja onnea.
+Opetuksien ytimessä on pitkäjänteinen mielen työstäminen, joka johtaa askel askeleelta kohti syvempää rauhaa ja onnea.
 
 Buddhan mukaan harjoitukseen sitoutuminen johtaa lopulta poikkeuksellisen syvällisiin ja nautinnollisiin kokemuksiin, joita kutsutaan <i>jhānoiksi</i>. 
 

@@ -13,9 +13,9 @@ Kaikki haluavat meditoida, mutta miten se oikein tapahtuu?
 
 Buddhan opetuksissa teoria ja käytäntö lyövät kättä. Opetuksien ymmärtäminen antaa pohjan meditoinnille. Tällä sivustolla tutkimme <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a>. Lisäksi ääneen pääsevät kokeneet buddhalaiset opettajat. 
 
-Sivusto on täysin ilmainen, ja kaikki materiaali julkaistaan selkeällä suomen kielellä.
+Sivusto on täysin ilmainen, ja kaikki materiaali julkaistaan selkeällä suomen kielellä. Emme myöskään julkaise mainoksia tai maksullisia lisäpalveluita.
 
-Tavoitteemme on siis oppia meditoimaan kuin Buddha. Tule mukaan!
+Tavoitteemme on oppia meditoimaan kuin Buddha. Tule mukaan!
 
 <hr>
 

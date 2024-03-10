@@ -26,9 +26,11 @@ Näkemyksien ja uskomuksien rooli ihmisen elämässä on valtava.
 
 Jos puutarhuri kuvittelee, että kasvit kasvavat ilman kastelua, on näkemyksessä jotain pielessä. Jos suunnistaja puolestaan lukee karttaa väärin, jää maali saavuttamatta.
 
-Aivan samoin henkinen harjoitus voi muodostua turhanpäiväiseksi ponnisteluksi, jos näkemys ei vastaa todellisuutta. 
+Aivan samoin henkinen harjoitus voi muodostua turhanpäiväiseksi ponnisteluksi, jos näkemys ei vastaa todellisuutta tai <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli>Buddhan opetuksia</a> tulkitsee väärin. 
 
-Näkemyksillä on siis väliä. Mutta minkälaisia näkemyksiä kannattaa omaksua?
+Näkemyksillä on siis väliä, ja opiskelulla on iso rooli näkemyksen viilaamisessa. 
+
+Mutta minkälaisia näkemyksiä meditoinnista kiinnostuneen kannattaa ensi alkuun omaksua?
 
 <a href="https://meditoikuinbuddha.github.io/blog/buddhalainenharjoitus">Buddhalaisessa harjoituksessa</a> onnistuminen vaatii tuekseen alustavan oikean näkemyksen, joka mahdollistaa mielen työstämisen. 
 
@@ -63,7 +65,7 @@ Ihmisen on tehtävä kaiken aikaa oletuksia, joita ei voi suoralta kädeltä var
 
 Keskeistä on säilyttää nöyrä asenne <sup>3</sup> ja tarkastella rehellisesti omia uskomuksia sekä niiden vaikutuksia. Jotkut uskomukset ovat hyödyllisiä ja perusteltuja, toiset eivät<sup>4</sup>. 
 
-Buddhalaisen ei kuitenkaan tulisi tyytyä pelkkään olettamiseen, sillä <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli>Buddhan opetuksien</a> ohjaavana periaatteena on opetuksien varmistaminen käytännössä.
+Buddhalaisen ei kuitenkaan tulisi tyytyä pelkkään olettamiseen, sillä Buddhan opetuksien ohjaavana periaatteena on niiden testaaminen käytännössä.
 
 Alustava oikea näkemys on kuin kartta, jota seuraamalla voi päästä haluttuun päämäärään<sup>5</sup>.
 

@@ -41,7 +41,7 @@ Alustava oikea näkemys pohjaa kahteen perusoletukseen<sup>1</sup>:
 <b>1) Mieltä kannattaa harjoittaa.</b><br>
 <b>2) Valaistuminen on mahdollista.</b><br>
 
-Ensimmäiseen oletukseen sisältyy usko siitä, että omalla toiminnalla on merkitystä. Ihminen voi työstää omaa mieltään ja muuttaa omaa ajatteluaan sekä toimintaansa paremmaksi.
+Ensimmäiseen oletukseen sisältyy usko siitä, että omalla toiminnalla on merkitystä.
 
 Buddhan mukaan hyvillä ja huonoilla teoilla on seurauksensa, eikä anteliaisuus ole turhaa. Näihin perusperiaatteisiin uskominen luo pohjan harjoitukselle.
 

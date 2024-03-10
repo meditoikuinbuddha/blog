@@ -74,7 +74,7 @@ Terveyskeskukseen menevä olettaa lääkärin osaavan asiansa ja yliopistossa op
 
 Jopa maallisella tasolla asioiden olettaminen on siis välttämätöntä.
 
-Samoin asioita rationaalisesti tarkastelevan hengellisen harjoittajan on hyvä luottaa Buddhan kaltaiseen opettajaan.
+Samoin harkitsevaisen hengellisen harjoittajan on hyvä luottaa Buddhan kaltaiseen opettajaan.
 
 Keskeistä on säilyttää nöyrä asenne <sup>4</sup> ja tarkastella rehellisesti omia uskomuksia sekä niiden vaikutuksia. Jotkut uskomukset ovat hyödyllisiä ja perusteltuja, toiset eivät<sup>5</sup>. 
 

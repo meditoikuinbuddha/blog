@@ -26,7 +26,7 @@ Näkemyksien ja uskomuksien rooli ihmisen elämässä on valtava.
 
 Jos puutarhuri kuvittelee, että kasvit kasvavat ilman kastelua, on näkemyksessä jotain pielessä. Jos suunnistaja puolestaan lukee karttaa väärin, jää maali saavuttamatta.
 
-Aivan samoin henkinen harjoitus voi muodostua turhanpäiväiseksi ponnisteluksi, jos näkemys ei vastaa todellisuutta tai <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli>Buddhan opetuksia</a> tulkitsee väärin. 
+Aivan samoin henkinen harjoitus voi muodostua turhanpäiväiseksi ponnisteluksi, jos näkemys ei vastaa todellisuutta tai <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli">Buddhan opetuksia</a> tulkitsee väärin. 
 
 Näkemyksillä on siis väliä, ja opiskelulla on iso rooli näkemyksien viilaamisessa. 
 

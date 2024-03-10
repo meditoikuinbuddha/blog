@@ -70,7 +70,9 @@ Joskus buddhalaisuutta väitetään puhtaan rationaaliseksi opiksi, joka ei sis�
 
 Ihmisen on tehtävä kaiken aikaa oletuksia, joita ei voi suorilta käsin aukottomasti todistaa.
 
-Terveyskeskukseen menevä olettaa lääkärin osaavan asiansa ja yliopistossa opiskeleva kuuntelee huolellisesti professoreita, vaikka ei voi kaikkea kuulemaansa saman tien omakohtaisesti varmistaakaan. Jopa maallisella tasolla asioiden olettaminen on siis välttämätöntä.
+Terveyskeskukseen menevä olettaa lääkärin osaavan asiansa ja yliopistossa opiskeleva kuuntelee huolellisesti professoreita, vaikka ei voi kaikkea kuulemaansa saman tien omakohtaisesti varmistaakaan. 
+
+Jopa maallisella tasolla asioiden olettaminen on siis välttämätöntä.
 
 Samoin asioita rationaalisesti tarkastelevan hengellisen harjoittajan on hyvä luottaa Buddhan kaltaiseen opettajaan.
 

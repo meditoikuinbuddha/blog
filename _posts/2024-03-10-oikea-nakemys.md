@@ -51,7 +51,9 @@ Tämä päätepiste henkilöityy heränneisiin olentoihin, jotka ovat itse ymmä
 
 Näiden kahden oletuksen lisäksi Buddha kannusti myös kunnioittamaan vanhempia ja uskomaan jälleensyntymään.
 
-Buddhalaisuudessa tunnustetaan suuri kiitollisuudenvelka, joka lapsilla on vanhemmilleen. Buddha jopa sanoi, että on kolme asiaa, joihin viisaat ihmiset kannustavat: anteliaisuus, vanhemmista huolehtiminen ja munkiksi tai nunnaksi ryhtyminen<sup>2</sup>. 
+Buddhalaisuudessa tunnustetaan suuri kiitollisuudenvelka, joka lapsilla on vanhemmilleen. 
+
+Buddha jopa sanoi, että on kolme asiaa, joihin viisaat ihmiset kannustavat: anteliaisuus, vanhemmista huolehtiminen sekä munkiksi tai nunnaksi ryhtyminen<sup>2</sup>. 
 
 Teot ja taipumukset eivät myöskään vaikuta vain tässä elämässä, vaan niillä on yksittäisen elämän ylittäviä seurauksia. Tämän takia jälleensyntymän olettaminen on hyödyllinen osa henkistä harjoitusta<sup>3</sup>. 
 

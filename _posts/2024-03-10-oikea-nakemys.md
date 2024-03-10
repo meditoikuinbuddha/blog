@@ -116,7 +116,7 @@ Vasta tällainen henkilö on todellisuudessa astunut jalolle kahdeksanosaiselle 
 
 Hieman lakonisesti ilmaistuna me muut kompuroimme parhaamme mukaan pimeässä ja koitamme seurata heränneiden esimerkkiä.
 
-Buddhalainen maailma on täynnä ihmisiä, jotka uskovat astuneensa virtaan, mutta todellisuus on luultavasti toinen.
+Buddhalainen maailma on täynnä ihmisiä, jotka uskovat astuneensa virtaan, mutta todellisuus on luultavasti kovin toisenlainen.
 
 On siis hyvä olla nöyrä, tukeutua alustavaan oikeaan näkemykseen, luottaa Buddhaan ja nähdä opetuksien positiiviset vaikutukset omassa elämässä.
 

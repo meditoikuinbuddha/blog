@@ -138,9 +138,9 @@ Pikkuhiljaa järkevät oletukset voivat vahvistua varmistetuksi näkemykseksi.
 
 7. Kuuluisan vertauksen neljästä jalosta totuudesta elefantin jalanjälkenä esittää Buddhan viisain oppilas Sāriputta opetuksessa <a href="https://suttacentral.net/mn28/en/sujato">MN28</a>.
 
-8. Muun muassa suttassa <a href="https://suttacentral.net/an3.33/en/sujato">AN3.33</a> Buddha harmittelee Sāriputtalle, että on vaikea löytää ketään, joka ymmärtää hänen opetuksiaan. Opetuksien syvällisyys sai Buddhan myös lähes pidättäytymään opettamisesta, <a href="https://suttacentral.net/mn26/en/sujato?lang=en">MN 36</a>.
+8. Muun muassa <i>suttassa</i> <a href="https://suttacentral.net/an3.33/en/sujato">AN3.33</a> Buddha harmittelee Sāriputtalle, että on vaikea löytää ketään, joka ymmärtää hänen opetuksiaan. Opetuksien syvällisyys sai Buddhan myös lähes pidättäytymään opettamisesta, <a href="https://suttacentral.net/mn26/en/sujato?lang=en">MN 36</a>.
 
-9. Buddhan klassinen kuvaus meditoinnin etenemisestä osoittaa, että syvä meditaatio (<i>samādhi</i>) on välttämätön ehto asioiden näkemiselle sellaisena kuin ne ovat.
+9. Buddhan <a href="https://suttacentral.net/an11.2/en/sujato">klassinen kuvaus</a> meditoinnin etenemisestä osoittaa, että syvä meditaatio (<i>samādhi</i>) on välttämätön ehto asioiden näkemiselle sellaisena kuin ne ovat.
 
 10. Buddhan mukaan virtaan astuneella on edessään enintään seitsemän elämää, mm. <a href="https://suttacentral.net/sn13.1/en/sujato?lang=en">SN 13.1</a>.
 

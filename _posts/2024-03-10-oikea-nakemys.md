@@ -24,13 +24,13 @@ author: "Meditoi kuin Buddha"
 
 Näkemyksien ja uskomuksien rooli ihmisen elämässä on valtava. 
 
-Jos puutarhuri kuvittelee, että kasvit kasvavat ilman kastelua, on näkemyksessä jotain pielessä. Tai jos suunnistaja lähtee väärään suuntaan, jää maali saavuttamatta.
+Jos puutarhuri kuvittelee, että kasvit kasvavat ilman kastelua, on näkemyksessä jotain pielessä. Jos suunnistaja puolestaan lukee karttaa väärin, jää maali saavuttamatta.
 
-Aivan samoin meditoinnin harjoittaminen voi muodostua turhanpäiväiseksi ponnisteluksi, jos tukena ei ole oikeaa näkemystä siitä, mistä tekijöistä meditoinnin onnistuminen johtuu. 
+Aivan samoin meditoinnin harjoittaminen voi muodostua turhanpäiväiseksi ponnisteluksi, jos näkemys ei vastaa todellisuutta. 
 
 Näkemyksillä on siis väliä. Mutta minkälaisia näkemyksiä kannattaa omaksua?
 
-Jotta ihminen voi edes kiinnostua buddhalaisesta harjoituksesta on hänellä oltava alustava oikea näkemys. 
+Buddhalaisessa harjoituksessa onnistuminen vaatii tuekseen alustavan oikean näkemyksen, joka mahdollistaa mielen työstämisen. 
 
 Alustava oikea näkemys perustuu kolmeen oletukseen<sup>1</sup>:
 

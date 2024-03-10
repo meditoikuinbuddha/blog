@@ -32,9 +32,9 @@ Jotta ihminen voi edes kiinnostua buddhalaisesta harjoituksesta on hänellä olt
 
 Alustava oikea näkemys perustuu kolmeen oletukseen<sup>1</sup>:
 
-<b>1) Mieltä kannattaa harjoittaa.</b>
-<b>2) Jälleensyntymä on totta.</b>
-<b>3) Valaistuminen on mahdollista.</b>
+<b>1) Mieltä kannattaa harjoittaa.</b><br>
+<b>2) Jälleensyntymä on totta.</b><br>
+<b>3) Valaistuminen on mahdollista.</b><br>
 
 Ensimmäiseen oletukseen sisältyy usko siitä, että teoilla on merkitystä, anteliaisuus kannattaa ja vanhempia on hyvä kunnioittaa.
 

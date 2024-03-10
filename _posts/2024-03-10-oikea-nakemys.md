@@ -93,7 +93,7 @@ Buddhan opetukset ovat siis perusluonteeltaan positiivisia ja rationaalisia: tar
 <figcaption> Buddhalaisen harjoituksen päämääränä on todellisuuden ymmärtäminen. Kuva: Jamie Street</figcaption>
 </figure>
 
-Oletukset varmistuvat pysyväksi ymmärrykseksi, kun harjoittaja näkee saman totuuden, jonka Buddha näki<sup>7</sup>.
+Hyödylliset oletukset varmistuvat pysyväksi ymmärrykseksi, kun harjoittaja näkee saman totuuden, jonka Buddha näki<sup>7</sup>.
 
 Tämä tarkoittaa neljän jalon totuuden näkemistä, jotka ovat:
 

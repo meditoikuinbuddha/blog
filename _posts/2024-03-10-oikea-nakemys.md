@@ -68,9 +68,11 @@ Asioiden olettaminen voi siis olla hyödyllistä, jos oletukset ovat järkeviä.
 
 Joskus buddhalaisuutta väitetään puhtaan rationaaliseksi opiksi, joka ei sisällä lainkaan uskoa. Ei kuitenkaan vaadi kovin syvää pohdiskelua huomata, että tällainen oppi on mahdottomuus. 
 
-Ihmisen on tehtävä kaiken aikaa oletuksia, joita ei voi suoralta kädeltä varmistaa.
+Ihmisen on tehtävä kaiken aikaa oletuksia, joita ei voi suorilta käsin aukottomasti todistaa.
 
-Terveyskeskukseen menevä olettaa lääkärin osaavan asiansa ja yliopistossa opiskeleva kuuntelee huolellisesti, mitä professorit puhuvat. Samoin hengellisen harjoittajan on hyvä luottaa Buddhan kaltaiseen opettajaan.
+Terveyskeskukseen menevä olettaa lääkärin osaavan asiansa ja yliopistossa opiskeleva kuuntelee huolellisesti professoreita, vaikka ei voi kaikkea kuulemaansa saman tien omakohtaisesti varmistaakaan. Jopa maallisella tasolla asioiden olettaminen on siis välttämätöntä.
+
+Samoin asioita rationaalisesti tarkastelevan hengellisen harjoittajan on hyvä luottaa Buddhan kaltaiseen opettajaan.
 
 Keskeistä on säilyttää nöyrä asenne <sup>4</sup> ja tarkastella rehellisesti omia uskomuksia sekä niiden vaikutuksia. Jotkut uskomukset ovat hyödyllisiä ja perusteltuja, toiset eivät<sup>5</sup>. 
 

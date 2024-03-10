@@ -44,7 +44,7 @@ Ensimmäiseen oletukseen sisältyy usko siitä, että teoilla on merkitystä, an
 
 Toinen oletus viittaa jälleensyntymän keskeiseen rooliin buddhalaisessa ajattelussa. 
 
-Teot eivät vaikuta vain tässä elämässä, vaan niillä on yksittäisen elämän ylittäviä seurauksia. Tämän seikan olettaminen on hyödyllinen osa henkistä harjoitusta<sup>2</sup>. 
+Teot ja taipumukset eivät vaikuta vain tässä elämässä, vaan niillä on yksittäisen elämän ylittäviä seurauksia. Tämän seikan olettaminen on hyödyllinen osa henkistä harjoitusta<sup>2</sup>. 
 
 Kolmannessa oletuksessa korostuu polun päämäärä: herääminen. Jos hengellisellä polulla ei olisi selvää päätepistettä, ei sitä kannattaisi kulkea. 
 

@@ -127,7 +127,7 @@ Kun ihminen on ymmärtänyt jalot totuudet häntä kutsutaan virtaan astuneeksi 
 
 Tällöin jälleensyntymästä vapautuminen on väistämätöntä, sillä kyseinen henkilö on nähnyt olemassaolon jatkamisen järjettömyyden <sup>11</sup>. 
 
-Vasta tällainen henkilö on todellisuudessa astunut jalolle kahdeksanosaiselle polulle <sup>12</sup> ja saavuttanut oikean näkemyksen <sup>13</sup>. 
+Vasta <i>sotāpanna</i> on todellisuudessa astunut jalolle kahdeksanosaiselle polulle <sup>12</sup> ja saavuttanut oikean näkemyksen <sup>13</sup>. 
 
 Hieman lakonisesti ilmaistuna me muut kompuroimme parhaamme mukaan pimeässä ja koitamme seurata heränneiden esimerkkiä.
 

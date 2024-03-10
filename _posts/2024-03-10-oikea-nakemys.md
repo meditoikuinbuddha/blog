@@ -20,6 +20,8 @@ author: "Meditoi kuin Buddha"
 
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
+<i>Tämä julkaisu on ensimmäinen osa sarjassa, jossa käsitellään <a href="https://meditoikuinbuddha.github.io/blog/buddhalainenharjoitus">jalon kahdeksanosaisen polun</a> osia yksitellen.</i>
+
 Näkemyksien ja uskomuksien rooli ihmisen elämässä on valtava. 
 
 Jos puutarhuri kuvittelee, että kasvit kasvavat ilman kastelua, on näkemyksessä jotain pielessä. Tai jos suunnistaja lähtee väärään suuntaan, jää maali saavuttamatta.
@@ -67,7 +69,7 @@ Alustava oikea näkemys on kuin kartta, jota seuraamalla voi päästä haluttuun
 
 Oletukset vahvistuvat omakohtaiseksi ymmärrykseksi sitä mukaa, kun ihminen sitoutuu Buddhan opetuksiin ja näkee niiden vaikutuksen omassa elämässään.
 
-Buddhan opetukset ovat siis perusluonteeltaan positiivisia ja rationaalisia: tarkoitus on saada tuloksia ja kokea onnen sekä rauhan lisääntyvän omassa elämässä.
+Buddhan opetukset ovat siis perusluonteeltaan positiivisia ja rationaalisia: tarkoituksena on kokea onnen sekä rauhan lisääntyvän omassa elämässä.
 
 <h2>Neljä jaloa totuutta</h2>
 
@@ -78,7 +80,7 @@ Buddhan opetukset ovat siis perusluonteeltaan positiivisia ja rationaalisia: tar
 
 Oletukset varmistuvat pysyväksi ymmärrykseksi, kun harjoittaja näkee saman totuuden, jonka Buddha näki<sup>6</sup>.
 
-Tämä tarkoittaa neljän jalon totuuden näkemistä. Ne kuuluvat seuraavasti:
+Tämä tarkoittaa neljän jalon totuuden näkemistä, jotka ovat:
 
 <b>1. Jalo totuus kärsimyksestä.</b><br>
 <b>2. Jalo totuus kärsimyksen syystä.</b><br>
@@ -93,9 +95,11 @@ Alustava oikea näkemys on siis tavallaan myös neljän jalon totuuden alustavaa
 
 Neljän jalon totuuden syvällinen ymmärtäminen on kuitenkin poikkeuksellista <sup>8</sup>, ja vaatii tuekseen meditaatiosta kumpuavaa nautintoa sekä selkeyttä<sup>9</sup>.
 
-Perusperiaate on yksinkertainen, mutta syvällinen: kaikkea olemassaoloa määrittää pohjimmiltaan kärsimys. Syy kärsimykseen on haluaminen, joka johtaa jälleensyntymään, eli olemassaolon jatkumiseen. Näin ollen ainut tapa lopettaa kärsimys on luopua halusta, joka johtaa jälleensyntymään. 
+Perusperiaate on yksinkertainen, mutta syvällinen: kaikkea olemassaoloa määrittää pohjimmiltaan kärsimys. Syy kärsimykseen on jälleensyntymän haluaminen. Näin ollen ainut tapa lopettaa kärsimys on luopua kyseisestä halusta. 
 
-Polku joka johtaa jälleensyntymän lakkaamiseen on jalo kahdeksanosainen polku, jota tällä hetkellä käsitellään.
+Halusta ei voi kuitenkin luopua haluamalla.
+
+Polku joka johtaa jälleensyntymän lakkaamiseen on sen sijaan jalo kahdeksanosainen polku, jota tällä hetkellä käsitellään.
 
 <h2>Aito ymmärrys on harvinaista</h2>
 
@@ -112,7 +116,7 @@ Vasta tällainen henkilö on todellisuudessa astunut jalolle kahdeksanosaiselle 
 
 Hieman lakonisesti ilmaistuna me muut kompuroimme parhaamme mukaan pimeässä ja koitamme seurata heränneiden esimerkkiä.
 
-Buddhalainen maailma on täynnä ihmisiä, jotka uskovat astuneensa virtaan, mutta todellisuudessa heitä tuskin on kovin montaa. 
+Buddhalainen maailma on täynnä ihmisiä, jotka uskovat astuneensa virtaan, mutta todellisuus on luultavasti toinen.
 
 On siis hyvä olla nöyrä, tukeutua alustavaan oikeaan näkemykseen, luottaa Buddhaan ja nähdä opetuksien positiiviset vaikutukset omassa elämässä.
 

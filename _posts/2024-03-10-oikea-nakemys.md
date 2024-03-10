@@ -28,7 +28,7 @@ Jos puutarhuri kuvittelee, että kasvit kasvavat ilman kastelua, on näkemyksess
 
 Aivan samoin henkinen harjoitus voi muodostua turhanpäiväiseksi ponnisteluksi, jos näkemys ei vastaa todellisuutta tai <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli">Buddhan opetuksia</a> tulkitsee väärin. 
 
-Käytännössä iso osa buddhalaisesta harjoituksesta on näkemyksen viilaamista. Kun asioita oppii katsomaan oikein, ongelmat katoavat ja uudet mahdollisuudet avautuvat.
+Käytännössä iso osa buddhalaisesta harjoituksesta on näkemyksen viilaamista. Kun asioita oppii katsomaan oikein, ongelmat katoavat, ja uudet mahdollisuudet avautuvat.
 
 Buddha kannusti siis kehittämään viisautta tahdonvoiman sijaan. <i>Suttien</i> opiskelulla on tässä keskeinen rooli.
 
@@ -74,7 +74,7 @@ Terveyskeskukseen menevä olettaa lääkärin osaavan asiansa. Yliopistossa opis
 
 Jopa maallisella tasolla asioiden olettaminen on siis välttämätöntä.
 
-Samoin harkitsevaisen hengellisen harjoittajan on hyvä luottaa Buddhan kaltaiseen opettajaan.
+Samoin fiksun ja harkitsevaisen ihmisen sopii luottaa Buddhan kaltaiseen opettajaan.
 
 Keskeistä on säilyttää nöyrä asenne <sup>4</sup> ja tarkastella rehellisesti omia uskomuksia sekä niiden vaikutuksia. Jotkut uskomukset ovat hyödyllisiä ja perusteltuja, toiset eivät<sup>5</sup>. 
 
@@ -108,7 +108,7 @@ Buddha käsitteli opetuksissaan aina tavalla tai toisella onnen lisääntymistä
 
 Alustava oikea näkemys on siis tavallaan myös neljän jalon totuuden alustavaa ymmärrystä. Tästä laveasta näkökulmasta sellainen näkemys on oikea, joka vähentää aidosti henkistä kärsimystä.
 
-Neljän jalon totuuden syvällinen ymmärtäminen on kuitenkin poikkeuksellista <sup>9</sup>, ja vaatii tuekseen meditaatiosta kumpuavaa nautintoa sekä selkeyttä<sup>10</sup>.
+Neljän jalon totuuden varsinainen näkeminen on kuitenkin poikkeuksellista <sup>9</sup>, ja vaatii tuekseen meditaatiosta kumpuavaa nautintoa sekä selkeyttä<sup>10</sup>.
 
 Perusperiaate on yksinkertainen, mutta syvällinen: kaikki olemassaolo on pohjimmiltaan kärsimystä. Syy kärsimykseen on haluaminen, joka johtaa jälleensyntymään. Näin ollen ainut tapa lopettaa kärsimys on luopua kyseisestä halusta. 
 
@@ -123,15 +123,15 @@ Polku joka johtaa jälleensyntymän lakkaamiseen on sen sijaan jalo kahdeksanosa
 <figcaption> Totuuden näkeminen ei ole helppoa. Kuva: Vincent van Gogh</figcaption>
 </figure>
 
-Kun ihminen on ymmärtänyt jalot totuudet häntä kutsutaan virtaan astuneeksi (<i>sotāpanna</i>). 
+Kun ihminen on nähnyt jalot totuudet häntä kutsutaan virtaan astuneeksi (<i>sotāpanna</i>). 
 
-Tällöin jälleensyntymästä vapautuminen on väistämätöntä, sillä kyseinen henkilö on nähnyt olemassaolon jatkamisen järjettömyyden <sup>11</sup>. 
+Tällöin jälleensyntymästä vapautuminen on väistämätöntä, sillä kyseinen henkilö on sisäistänyt olemassaolon jatkamisen järjettömyyden <sup>11</sup>. 
 
 Vasta <i>sotāpanna</i> on todellisuudessa astunut jalolle kahdeksanosaiselle polulle <sup>12</sup> ja saavuttanut oikean näkemyksen <sup>13</sup>. 
 
-Hieman lakonisesti ilmaistuna me muut kompuroimme parhaamme mukaan pimeässä ja koitamme seurata heränneiden esimerkkiä.
+Hieman lakonisesti ilmaistuna me muut kompuroimme parhaamme mukaan pimeässä ja koitamme seurata totuuden sisäistäneiden esimerkkiä.
 
-On siis hyvä olla nöyrä, tukeutua alustavaan oikeaan näkemykseen, luottaa Buddhaan ja nähdä opetuksien positiiviset vaikutukset omassa elämässä.
+On siis hyvä olla nöyrä, luottaa Buddhaan, pistää opetukset käytäntöön ja nähdä niiden positiiviset vaikutukset omassa elämässä.
 
 Pikkuhiljaa järkevät oletukset voivat vahvistua varmistetuksi näkemykseksi.
 

@@ -1,7 +1,7 @@
 ---
 layout: "categories"
 title: "Oikea näkemys vie kohti vapautta"
-excerpt: "<h3>Näkemyksien rooli buddhalaisessa harjoituksessa on valtava.</h3>"
+excerpt: "<h3>Viisaat oletukset ovat osa buddhalaista polkua.</h3>"
 date: 2024-03-10 12:00:00 +0200
 author: "Meditoi kuin Buddha"
 category: "Lukuhetki"
@@ -28,7 +28,7 @@ Jos puutarhuri kuvittelee, että kasvit kasvavat ilman kastelua, on näkemyksess
 
 Aivan samoin henkinen harjoitus voi muodostua turhanpäiväiseksi ponnisteluksi, jos näkemys ei vastaa todellisuutta tai <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli">Buddhan opetuksia</a> tulkitsee väärin. 
 
-Käytännössä iso osa buddhalaisesta harjoituksesta on näkemyksen viilaamista. Kun asioita oppii katsomaan oikein, ongelmat katoavat, ja uudet mahdollisuudet avautuvat.
+Käytännössä iso osa buddhalaisesta harjoituksesta on näkemyksen viilaamista. Ongelmia ei voi poistaa pakottamalla, vaan asioita on opittava katsomaan toisella tavalla.
 
 Buddha kannusti siis kehittämään viisautta tahdonvoiman sijaan. <i>Suttien</i> opiskelulla on tässä keskeinen rooli.
 

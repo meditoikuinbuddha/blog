@@ -95,7 +95,7 @@ Alustava oikea näkemys on siis tavallaan myös neljän jalon totuuden alustavaa
 
 Neljän jalon totuuden syvällinen ymmärtäminen on kuitenkin poikkeuksellista <sup>8</sup>, ja vaatii tuekseen meditaatiosta kumpuavaa nautintoa sekä selkeyttä<sup>9</sup>.
 
-Perusperiaate on yksinkertainen, mutta syvällinen: kaikkea olemassaoloa määrittää pohjimmiltaan kärsimys. Syy kärsimykseen on jälleensyntymän haluaminen. Näin ollen ainut tapa lopettaa kärsimys on luopua kyseisestä halusta. 
+Perusperiaate on yksinkertainen, mutta syvällinen: kaikki olemassaolo on pohjimmiltaan kärsimystä. Syy kärsimykseen on jälleensyntymän haluaminen. Näin ollen ainut tapa lopettaa kärsimys on luopua kyseisestä halusta. 
 
 Halusta ei voi kuitenkin luopua haluamalla.
 

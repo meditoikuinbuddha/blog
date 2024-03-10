@@ -28,9 +28,9 @@ Jos puutarhuri kuvittelee, että kasvit kasvavat ilman kastelua, on näkemyksess
 
 Aivan samoin henkinen harjoitus voi muodostua turhanpäiväiseksi ponnisteluksi, jos näkemys ei vastaa todellisuutta tai <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli>Buddhan opetuksia</a> tulkitsee väärin. 
 
-Näkemyksillä on siis väliä, ja opiskelulla on iso rooli näkemyksen viilaamisessa. 
+Näkemyksillä on siis väliä, ja opiskelulla on iso rooli näkemyksien viilaamisessa. 
 
-Mutta minkälaisia näkemyksiä meditoinnista kiinnostuneen kannattaa ensi alkuun omaksua?
+Mutta minkälaisia näkemyksiä olisi hyvä ensi alkuun omaksua?
 
 <a href="https://meditoikuinbuddha.github.io/blog/buddhalainenharjoitus">Buddhalaisessa harjoituksessa</a> onnistuminen vaatii tuekseen alustavan oikean näkemyksen, joka mahdollistaa mielen työstämisen. 
 

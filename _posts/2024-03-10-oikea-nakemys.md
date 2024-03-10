@@ -28,27 +28,28 @@ Jos puutarhuri kuvittelee, että kasvit kasvavat ilman kastelua, on näkemyksess
 
 Aivan samoin henkinen harjoitus voi muodostua turhanpäiväiseksi ponnisteluksi, jos näkemys ei vastaa todellisuutta tai <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli">Buddhan opetuksia</a> tulkitsee väärin. 
 
-Näkemyksillä on siis väliä, ja opiskelulla on iso rooli näkemyksien viilaamisessa. 
+Käytännössä iso osa buddhalaisesta harjoituksesta on näkemyksen viilaamista. Kun asioita oppii katsomaan oikein, ongelmat katoavat ja uudet mahdollisuudet avautuvat.
 
-Mutta minkälaisia näkemyksiä olisi hyvä ensi alkuun omaksua?
+Buddha kannusti siis kehittämään viisautta tahdonvoiman sijaan. <i>Suttien</i> opiskelulla on tässä keskeinen rooli.
+
+Mutta minkälaisia näkemyksiä henkisen harjoittajan olisi hyvä ensi alkuun omaksua?
 
 <a href="https://meditoikuinbuddha.github.io/blog/buddhalainenharjoitus">Buddhalaisessa harjoituksessa</a> onnistuminen vaatii tuekseen alustavan oikean näkemyksen, joka mahdollistaa mielen työstämisen. 
 
-Alustava oikea näkemys perustuu kolmeen oletukseen<sup>1</sup>:
+Alustava oikea näkemys pohjaa kahteen perusoletukseen<sup>1</sup>:
 
 <b>1) Mieltä kannattaa harjoittaa.</b><br>
-<b>2) Jälleensyntymä on totta.</b><br>
-<b>3) Valaistuminen on mahdollista.</b><br>
+<b>2) Valaistuminen on mahdollista.</b><br>
 
 Ensimmäiseen oletukseen sisältyy usko siitä, että teoilla on merkitystä, anteliaisuus kannattaa ja vanhempia on hyvä kunnioittaa.
 
-Toinen oletus viittaa jälleensyntymän keskeiseen rooliin buddhalaisessa ajattelussa. 
-
-Teot ja taipumukset eivät vaikuta vain tässä elämässä, vaan niillä on yksittäisen elämän ylittäviä seurauksia. Tämän seikan olettaminen on hyödyllinen osa henkistä harjoitusta<sup>2</sup>. 
-
-Kolmannessa oletuksessa korostuu polun päämäärä: herääminen. Jos hengellisellä polulla ei olisi selvää päätepistettä, ei sitä kannattaisi kulkea. 
+Toisessa oletuksessa korostuu polun päämäärä: herääminen. Jos hengellisellä polulla ei olisi selvää päätepistettä, ei sitä kannattaisi kulkea. 
 
 Tämä päätepiste henkilöityy heränneisiin olentoihin, jotka ovat itse ymmärtäneet, mistä Buddhan opetuksissa on kyse.  
+
+Näiden oletuksien lisäksi Buddha kannusti myös kunnioittamaan vanhempia ja uskomaan jälleensyntymään.
+
+Teot ja taipumukset eivät vaikuta vain tässä elämässä, vaan niillä on yksittäisen elämän ylittäviä seurauksia. Tämän seikan olettaminen on hyödyllinen osa henkistä harjoitusta<sup>2</sup>. 
 
 <h2>Usko voi olla hyödyllistä myös buddhalaisuudessa</h2>
 
@@ -117,8 +118,6 @@ Tällöin jälleensyntymästä vapautuminen on väistämätöntä, sillä kysein
 Vasta tällainen henkilö on todellisuudessa astunut jalolle kahdeksanosaiselle polulle <sup>11</sup> ja saavuttanut oikean näkemyksen <sup>12</sup>. 
 
 Hieman lakonisesti ilmaistuna me muut kompuroimme parhaamme mukaan pimeässä ja koitamme seurata heränneiden esimerkkiä.
-
-Buddhalainen maailma on täynnä ihmisiä, jotka uskovat astuneensa virtaan, mutta todellisuus on luultavasti kovin toisenlainen.
 
 On siis hyvä olla nöyrä, tukeutua alustavaan oikeaan näkemykseen, luottaa Buddhaan ja nähdä opetuksien positiiviset vaikutukset omassa elämässä.
 

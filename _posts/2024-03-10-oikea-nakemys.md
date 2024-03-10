@@ -1,6 +1,6 @@
 ---
 layout: "categories"
-title: "Oikea näkemys vie kohti onnea"
+title: "Oikea näkemys vie kohti vapautta"
 excerpt: "<h3>Näkemyksien rooli buddhalaisessa harjoituksessa on valtava.</h3>"
 date: 2024-03-10 12:00:00 +0200
 author: "Meditoi kuin Buddha"

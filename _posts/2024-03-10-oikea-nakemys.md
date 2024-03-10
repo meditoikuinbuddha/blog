@@ -61,7 +61,7 @@ Joskus buddhalaisuutta väitetään puhtaan rationaaliseksi opiksi, joka ei sis�
 
 Ihmisen on tehtävä kaiken aikaa oletuksia, joita ei voi suoralta kädeltä varmistaa. 
 
-Keskeistä on säilyttää nöyrä asenne <sup>3</sup> ja tarkastella rehellisesti omia uskomuksia sekä niiden vaikutuksia. Jotkut uskomukset ovat hyödyllisiä, toiset eivät<sup>4</sup>. 
+Keskeistä on säilyttää nöyrä asenne <sup>3</sup> ja tarkastella rehellisesti omia uskomuksia sekä niiden vaikutuksia. Jotkut uskomukset ovat hyödyllisiä ja perusteltuja, toiset eivät<sup>4</sup>. 
 
 Buddhalaisen ei kuitenkaan tulisi tyytyä pelkkään olettamiseen, sillä Buddhan opetuksien ohjaavana periaatteena on opetuksien varmistaminen käytännössä.
 

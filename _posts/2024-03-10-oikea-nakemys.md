@@ -122,17 +122,17 @@ On siis hyvä olla nöyrä, tukeutua alustavaan oikeaan näkemykseen, luottaa Bu
 
 Pikkuhiljaa järkevät oletukset voivat vahvistua varmistetuksi näkemykseksi.
 
-<i>Lähteet:
+<i>Lähteet:</i>
 
-1. Alustava oikea näkemys tunnetaan Theravāda-perinteessä nimellä maallinen oikea näkemys. Bhante Sujaton englanninkielisessä käännöksessä suttasta <a href= "https://suttacentral.net/mn117/en/sujato">MN 117</a> se kuuluu seuraavasti: "There is right view that is accompanied by defilements, has the attributes of good deeds, and ripens in attachment."
+1. Alustava oikea näkemys tunnetaan <i>Theravāda</i>-perinteessä nimellä maallinen oikea näkemys. Bhante Sujaton englanninkielisessä käännöksessä <i>suttasta</i> <a href= "https://suttacentral.net/mn117/en/sujato">MN 117</a> se kuvaillaan seuraavasti: <i>"There is right view that is accompanied by defilements, has the attributes of good deeds, and ripens in attachment."</i>
 
-2. Suttassa <a href="https://suttacentral.net/mn60/en/sujato">MN60</a> Buddha esittää argumentit jälleensyntymän hyväksymisen puolesta.
+2. <i>Suttassa</i> <a href="https://suttacentral.net/mn60/en/sujato">MN60</a> Buddha esittää argumentit jälleensyntymän hyväksymisen puolesta.
 
-3. Suttassa <a href="https://suttacentral.net/mn95/en/sujato">MN95</a> Buddha neuvoo myöntämään uskomuksen uskomukseksi ja välttämään kategorisia totuusväittämiä, joista ei ole vielä varmuutta.
+3. <i>Suttassa</i> <a href="https://suttacentral.net/mn95/en/sujato">MN95</a> Buddha neuvoo myöntämään uskomuksen uskomukseksi ja välttämään kategorisia totuusväittämiä, joista ei ole vielä varmuutta.
 
 4. Buddhan mukaan uskon tavoin myös järkeily voi osoittautua joko perustelluksi tai perusteettomaksi. Mm. <a href="https://suttacentral.net/mn101/en/sujato">MN 101</a>
 
-5. Karttavertaus löytyy suttasta <a href="https://suttacentral.net/mn107/en/sujato">MN 107</a>.
+5. Karttavertaus löytyy <i>suttasta</i> <a href="https://suttacentral.net/mn107/en/sujato">MN 107</a>.
 
 6. Buddhan näkemä totuus käsitellään hänen ensimmäisessä opetuksessaan <a href="https://suttacentral.net/sn56.11/en/sujato">SN 56.11</a>.
 
@@ -140,13 +140,13 @@ Pikkuhiljaa järkevät oletukset voivat vahvistua varmistetuksi näkemykseksi.
 
 8. Muun muassa suttassa <a href="https://suttacentral.net/an3.33/en/sujato">AN3.33</a> Buddha harmittelee Sāriputtalle, että on vaikea löytää ketään, joka ymmärtää hänen opetuksiaan. Opetuksien syvällisyys sai Buddhan myös lähes pidättäytymään opettamisesta, <a href="https://suttacentral.net/mn26/en/sujato?lang=en">MN 36</a>.
 
-9. Buddhan klassinen kuvaus meditoinnin etenemisestä osoittaa, että syvä meditaatio (samādhi) on välttämätön ehto asioiden näkemiselle sellaisena kuin ne ovat.
+9. Buddhan klassinen kuvaus meditoinnin etenemisestä osoittaa, että syvä meditaatio (<i>samādhi</i>) on välttämätön ehto asioiden näkemiselle sellaisena kuin ne ovat.
 
 10. Buddhan mukaan virtaan astuneella on edessään enintään seitsemän elämää, mm. <a href="https://suttacentral.net/sn13.1/en/sujato?lang=en">SN 13.1</a>.
 
-11. Kuten aiemmin mainitussa suttassa <a href="https://suttacentral.net/mn117/en/sujato>MN 117</a> todetaan, virtaan astuneen oikea näkemys on "osa polkua", siinä missä alustava oikea näkemys ei vielä sitä ole.
+11. Kuten aiemmin mainitussa <i>suttassa</i> <a href="https://suttacentral.net/mn117/en/sujato">MN 117</a> todetaan, virtaan astuneen oikea näkemys on "osa polkua", siinä missä alustava oikea näkemys ei vielä sitä ole.
 
-12. Virtaan astuneen näkemys perustuu kokemukseen ja on paikkansapitävä, mm. <a href="https://suttacentral.net/mn9/en/sujato>MN9</a>.</i>
+12. Virtaan astuneen näkemys perustuu kokemukseen ja on paikkansapitävä, mm. <a href="https://suttacentral.net/mn9/en/sujato">MN9</a>.</i>
 
 
 

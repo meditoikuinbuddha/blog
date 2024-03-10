@@ -146,7 +146,7 @@ Pikkuhiljaa järkevät oletukset voivat vahvistua varmistetuksi näkemykseksi.
 
 11. Kuten aiemmin mainitussa <i>suttassa</i> <a href="https://suttacentral.net/mn117/en/sujato">MN 117</a> todetaan, virtaan astuneen oikea näkemys on "osa polkua", siinä missä alustava oikea näkemys ei vielä sitä ole.
 
-12. Virtaan astuneen näkemys perustuu kokemukseen ja on paikkansapitävä, mm. <a href="https://suttacentral.net/mn9/en/sujato">MN9</a>.</i>
+12. Virtaan astuneen näkemys perustuu kokemukseen ja on paikkansapitävä, mm. <a href="https://suttacentral.net/mn9/en/sujato">MN9</a>.
 
 
 

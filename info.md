@@ -11,13 +11,13 @@ sidebar:
 ---
 Kaikki haluavat meditoida, mutta miten se oikein tapahtuu?
 
-Buddhan opetuksissa teoria ja käytäntö lyövät kättä. Tällä sivustolla tutkimme <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a>. 
+Buddhalaisessa harjoituksessa teoria ja käytäntö lyövät kättä. Tällä sivustolla opiskellaan <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a>. 
 
 Lisäksi ääneen pääsevät kokeneet buddhalaiset opettajat. 
 
-Tavoitteemme on oppia meditoimaan kuin Buddha.
+Tavoitteena on oppia meditoimaan kuin Buddha.
 
-Sivusto on täysin ilmainen, ja kaikki materiaali julkaistaan selkeällä suomen kielellä. Sivustolla ei myöskään julkaista mainoksia.
+Sivusto on täysin ilmainen, ja kaikki materiaali julkaistaan selkeällä suomen kielellä.
 
 <hr>
 

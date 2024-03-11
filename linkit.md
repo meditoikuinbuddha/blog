@@ -29,7 +29,7 @@ feature_row:
   - image_path: /assets/images/readingfaithfully.png
     title: <a href="https://readingfaithfully.org">Reading Faithfully</a>
     excerpt: "Ohjeita suttien opiskeluun."
-  - image_path: /assets/images/obu.png.jpg
+  - image_path: /assets/images/obu.png
     alt: "openbuddhistuniversity"
     title: <a href="https://buddhistuniversity.net">Open Buddhist University</a>
     excerpt: "Kursseja ja laaja buddhalainen kirjasto."
@@ -58,9 +58,5 @@ feature_row:
 
 
 ---
-<center><h2>Itsenäiseen opiskeluun:</h2></center>
 {% include feature_row %}
-
-<center><h2>Yhteisöjä Euroopassa:</h2></center>
-{% include feature_row id="row2" %}
 

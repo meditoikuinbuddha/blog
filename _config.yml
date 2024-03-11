@@ -39,6 +39,7 @@ atom_feed:
   hide: true
 search: true
 google_site_verification: "7k9iQ-T7uroRN_2sXVt9h_x6N9_wvwW_eK-yRwZUj_k"
+theme: minimal-mistakes-jekyll
 
 
 defaults:

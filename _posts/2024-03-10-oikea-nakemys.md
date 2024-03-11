@@ -20,13 +20,13 @@ author: "Meditoi kuin Buddha"
 
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
-<i>Tämä julkaisu on ensimmäinen osa sarjassa, jossa käsitellään <a href="https://meditoikuinbuddha.github.io/blog/buddhalainenharjoitus">jalon kahdeksanosaisen polun</a> osia yksitellen.</i>
+<i>Tämä julkaisu on ensimmäinen osa sarjassa, jossa käsitellään <a href="https://meditoikuinbuddha.fi/buddhalainenharjoitus">jalon kahdeksanosaisen polun</a> osia yksitellen.</i>
 
 Näkemyksien ja uskomuksien rooli ihmisen elämässä on valtava. 
 
 Jos puutarhuri kuvittelee, että kasvit kasvavat ilman kastelua, on näkemyksessä jotain pielessä. Kun suunnistaja puolestaan lukee karttaa väärin, jää maali saavuttamatta.
 
-Aivan samoin henkinen harjoitus voi muodostua turhanpäiväiseksi ponnisteluksi, jos näkemys ei vastaa todellisuutta tai <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli">Buddhan opetuksia</a> tulkitsee väärin. 
+Aivan samoin henkinen harjoitus voi muodostua turhanpäiväiseksi ponnisteluksi, jos näkemys ei vastaa todellisuutta tai <a href="https://meditoikuinbuddha.fi/kukabuddhaoli">Buddhan opetuksia</a> tulkitsee väärin. 
 
 Käytännössä iso osa buddhalaisesta harjoituksesta on näkemyksen viilaamista. Ongelmia ei voi poistaa pakottamalla, vaan asioita on opittava katsomaan uudella tavalla.
 
@@ -34,7 +34,7 @@ Buddha kannusti siis viisasta arviointia tahdonvoiman sijaan. <i>Suttien</i> opi
 
 Mutta minkälaisia näkemyksiä henkisen harjoittajan olisi hyvä ensi alkuun omaksua?
 
-<a href="https://meditoikuinbuddha.github.io/blog/buddhalainenharjoitus">Buddhalaisessa harjoituksessa</a> onnistuminen vaatii tuekseen alustavan oikean näkemyksen, joka mahdollistaa mielen työstämisen. 
+<a href="https://meditoikuinbuddha.fi/buddhalainenharjoitus">Buddhalaisessa harjoituksessa</a> onnistuminen vaatii tuekseen alustavan oikean näkemyksen, joka mahdollistaa mielen työstämisen. 
 
 Alustava oikea näkemys pohjaa kahteen perusoletukseen<sup>1</sup>:
 

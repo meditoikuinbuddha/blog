@@ -11,7 +11,9 @@ sidebar:
 ---
 Kaikki haluavat meditoida, mutta miten se oikein tapahtuu?
 
-Buddhan opetuksissa teoria ja käytäntö lyövät kättä. Opetuksien ymmärtäminen antaa pohjan meditoinnille. Tällä sivustolla tutkimme <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a>. Lisäksi ääneen pääsevät kokeneet buddhalaiset opettajat. 
+Buddhan opetuksissa teoria ja käytäntö lyövät kättä. Tällä sivustolla tutkimme <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a>. 
+
+Lisäksi ääneen pääsevät kokeneet buddhalaiset opettajat. 
 
 Tavoitteemme on oppia meditoimaan kuin Buddha.
 

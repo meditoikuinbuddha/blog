@@ -15,8 +15,6 @@ Buddhalaisessa harjoituksessa teoria ja käytäntö lyövät kättä. Tällä si
 
 Lisäksi ääneen pääsevät kokeneet buddhalaiset opettajat. 
 
-Tavoitteena on oppia meditoimaan kuin Buddha.
-
 Sivusto on täysin ilmainen, ja kaikki materiaali julkaistaan selkeällä suomen kielellä.
 
 <hr>

@@ -40,7 +40,7 @@ feature_row:
   - image_path: /assets/images/bodhidharma.png
     alt: "bodhidharma"
     title: <a href="https://bodhidharma.fi">Bodhidharma</a>
-    excerpt: "Buddhalaista toimintaa ja opetuksia suomeksi."
+    excerpt: "Buddhalaista toimintaa ja opetuksia suomeksi. Pääopettajana suomalainen munkki Taehye sunim."
   - image_path: /assets/images/nirodha-logo.jpg
     title: <a href="https://nirodha.fi">Nirodha</a>
     excerpt: "Suomalainen meditointiyhteisö."

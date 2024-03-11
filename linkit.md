@@ -22,6 +22,8 @@ feature_row:
   - image_path: /assets/images/wiswon.jpg
     title: <a href="https://wiswo.org">Wisdom and Wonders</a>
     excerpt: "Ilmaisia e-kirjoja ja kursseja."
+
+feature_row:
   - image_path: /assets/images/anukampa2.jpg
     alt: "anukampa"
     title: <a href="https://anukampaproject.org/">Anukampa Bhikkhunī Project</a>
@@ -36,4 +38,9 @@ feature_row:
 
 
 ---
+<center><h2>Itsenäiseen opiskeluun:</h2></center>
 {% include feature_row %}
+
+<center><h2>Yhteisöjä Euroopassa:</h2></center>
+{% include feature_row id="row2" %}
+

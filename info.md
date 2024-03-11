@@ -13,13 +13,13 @@ Kaikki haluavat meditoida, mutta miten se oikein tapahtuu?
 
 Buddhan opetuksissa teoria ja käytäntö lyövät kättä. Opetuksien ymmärtäminen antaa pohjan meditoinnille. Tällä sivustolla tutkimme <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a>. Lisäksi ääneen pääsevät kokeneet buddhalaiset opettajat. 
 
-Sivusto on täysin ilmainen, ja kaikki materiaali julkaistaan selkeällä suomen kielellä. Emme myöskään julkaise mainoksia tai maksullisia lisäpalveluita.
+Tavoitteemme on oppia meditoimaan kuin Buddha.
 
-Tavoitteemme on oppia meditoimaan kuin Buddha. Tule mukaan!
+Sivusto on täysin ilmainen, ja kaikki materiaali julkaistaan selkeällä suomen kielellä. Sivustolla ei myöskään julkaista mainoksia.
 
 <hr>
 
-Haluatko meditoida porukassa? Teemme yhteistyötä norjalaisen <a href="https://www.dnbf.org/en">The Buddhist Society of Norwayn</a> kanssa, jolla on oma paikallisryhmä Tampereella.
+Teemme yhteistyötä norjalaisen <a href="https://www.dnbf.org/en">The Buddhist Society of Norwayn</a> kanssa, jolla on oma paikallisryhmä Tampereella.
 
 Jos olet kiinnostunut Suomen paikallistoimintaan osallistumisesta, pistä viestiä osoitteeseen tampere@dnbf.org. 
 

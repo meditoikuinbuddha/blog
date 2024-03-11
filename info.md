@@ -11,7 +11,7 @@ sidebar:
 ---
 Kaikki haluavat meditoida, mutta miten se oikein tapahtuu?
 
-Buddhalaisessa harjoituksessa teoria ja käytäntö lyövät kättä. Tällä sivustolla opiskellaan <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a>. 
+Buddhalaisessa harjoituksessa teoria ja käytäntö lyövät kättä. Tällä sivustolla opiskellaan <a href="https://meditoikuinbuddha.fi/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a>. 
 
 Lisäksi ääneen pääsevät kokeneet buddhalaiset opettajat. 
 

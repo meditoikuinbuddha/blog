@@ -52,7 +52,7 @@ Jaloksi kahdeksanosaiseksi poluksi nimetty keskitie väistää sekä aistillisuu
 Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavista osista (mm. <a href="https://suttacentral.net/sn45.8/en/sujato">SN45.8</a>), joita avataan tarkemmin tulevissa julkaisuissa:
 
 
-<b>1. <a href="https://meditoikuinbuddha.github.io/blog/oikeanakemys">Oikea näkemys</a> (sammādiṭṭhi)</b><br>
+<b>1. <a href="https://meditoikuinbuddha.fi/oikeanakemys">Oikea näkemys</a> (sammādiṭṭhi)</b><br>
 Neljän jalon totuuden ymmärtäminen.<br>
 <b>2. Oikea aikomus (sammāsaṅkappo)</b><br>
 Aikomukset ja ideat, jotka pohjaavat luopumiseen, ystävällisyyteen ja huomaavaisuuteen.<br>

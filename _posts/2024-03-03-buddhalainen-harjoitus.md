@@ -41,7 +41,7 @@ On siis ensiarvoisen tärkeää ymmärtää, miten buddhalainen polku toimii.
 <figcaption> Buddhalainen polku vie kohti valoa. Kuva: Patrick Fore</figcaption>
 </figure>
 
-Buddhalainen polku vie kohti syvä meditaatiota ja siitä kumpuavaa ymmärrystä, mutta rauhaa ja onnea on tarjolla ensiaskeleista lähtien.
+Buddhalainen polku vie kohti syvää meditaatiota ja siitä kumpuavaa ymmärrystä, mutta rauhaa ja onnea on tarjolla ensiaskeleista lähtien.
 
 Buddhan sanoin polku on hyvä alussa, keskivaiheilla ja lopussa.
 

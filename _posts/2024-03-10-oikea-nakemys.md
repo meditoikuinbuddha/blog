@@ -28,9 +28,9 @@ Jos puutarhuri kuvittelee, että kasvit kasvavat ilman kastelua, on näkemyksess
 
 Aivan samoin henkinen harjoitus voi muodostua turhanpäiväiseksi ponnisteluksi, jos näkemys ei vastaa todellisuutta tai <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli">Buddhan opetuksia</a> tulkitsee väärin. 
 
-Käytännössä iso osa buddhalaisesta harjoituksesta on näkemyksen viilaamista. Ongelmia ei voi poistaa pakottamalla, vaan asioita on opittava katsomaan toisella tavalla.
+Käytännössä iso osa buddhalaisesta harjoituksesta on näkemyksen viilaamista. Ongelmia ei voi poistaa pakottamalla, vaan asioita on opittava katsomaan uudella tavalla.
 
-Buddha kannusti siis kehittämään viisautta tahdonvoiman sijaan. <i>Suttien</i> opiskelulla on tässä keskeinen rooli.
+Buddha kannusti siis viisasta arviointia tahdonvoiman sijaan. <i>Suttien</i> opiskelulla on tässä keskeinen rooli.
 
 Mutta minkälaisia näkemyksiä henkisen harjoittajan olisi hyvä ensi alkuun omaksua?
 

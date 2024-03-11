@@ -22,8 +22,28 @@ feature_row:
   - image_path: /assets/images/wiswon.jpg
     title: <a href="https://wiswo.org">Wisdom and Wonders</a>
     excerpt: "Ilmaisia e-kirjoja ja kursseja."
-
-feature_row2:
+  - image_path: /assets/images/accesstoinsight.png
+    alt: "accesstoinsight"
+    title: <a href="https://www.accesstoinsight.org/">Access to Insight</a>
+    excerpt: "Suttia ja buddhalaisia opetuksia englanniksi."
+  - image_path: /assets/images/readingfaithfully.png
+    title: <a href="https://readingfaithfully.org">Reading Faithfully</a>
+    excerpt: "Ohjeita suttien opiskeluun."
+  - image_path: /assets/images/obu.png.jpg
+    alt: "openbuddhistuniversity"
+    title: <a href="https://buddhistuniversity.net">Open Buddhist University</a>
+    excerpt: "Kursseja ja laaja buddhalainen kirjasto."
+  - image_path: /assets/images/sbu2.png
+    alt: "suomenbuddhalainenunioni"
+    title: <a href="https://www.sbu.fi/">Suomen Buddhalainen Unioni</a>
+    excerpt: "Suomen buddhalaisten kattojärjestö."
+  - image_path: /assets/images/nirodha-logo.jpg
+    title: <a href="https://nirodha.fi">Nirodha</a>
+    excerpt: "Suomalainen meditointiyhteisö."
+  - image_path: /assets/images/
+    alt: "openbuddhistuniversity"
+    title: <a href="https://buddhistuniversity.net">Open Buddhist University</a>
+    excerpt: "Kursseja ja laaja buddhalainen kirjasto."
   - image_path: /assets/images/anukampa2.jpg
     alt: "anukampa"
     title: <a href="https://anukampaproject.org/">Anukampa Bhikkhunī Project</a>

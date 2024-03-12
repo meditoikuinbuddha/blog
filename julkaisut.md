@@ -11,7 +11,7 @@ feature_row:
     excerpt: "Äänessä kokeneet opettajat."
   - image_path: /assets/images/reading.jpg
     title: <a href="/categories/lukuhetki/">Lukuhetki</a>
-    excerpt: "Syvenny Buddhan opetuksiin."
+    excerpt: "Tutkimusmatka Buddhan opetuksiin."
 
 ---
 

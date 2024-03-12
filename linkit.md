@@ -33,17 +33,6 @@ feature_row:
     alt: "openbuddhistuniversity"
     title: <a href="https://buddhistuniversity.net">Open Buddhist University</a>
     excerpt: "Ilmaisia kursseja ja laaja buddhalainen verkkokirjasto."
-  - image_path: /assets/images/sbu2.png
-    alt: "suomenbuddhalainenunioni"
-    title: <a href="https://www.sbu.fi/">Suomen Buddhalainen Unioni</a>
-    excerpt: "Suomen buddhalaisten yhteistyöjärjestö."
-  - image_path: /assets/images/bodhidharma.png
-    alt: "bodhidharma"
-    title: <a href="https://bodhidharma.fi">Bodhidharma</a>
-    excerpt: "Buddhalaista toimintaa ja opetuksia suomeksi. Pääopettajana suomalainen munkki Taehye sunim."
-  - image_path: /assets/images/nirodha-logo.jpg
-    title: <a href="https://nirodha.fi">Nirodha</a>
-    excerpt: "Suomalainen meditointiyhteisö."
   - image_path: /assets/images/anukampa2.jpg
     alt: "anukampa"
     title: <a href="https://anukampaproject.org/">Anukampa Bhikkhunī Project</a>

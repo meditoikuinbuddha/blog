@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: "posts"
 title: Miksi munkki ei ole koskaan yksinäinen?
 excerpt: "Ajahn Brahmin mukaan ystävällisyys voittaa yksinäisyyden."
 date: 2024-02-18 12:00:00 +0200

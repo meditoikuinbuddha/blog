@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Tervetuloa!
+title: "Tervetuloa!"
 permalink: /info/
 
 header:

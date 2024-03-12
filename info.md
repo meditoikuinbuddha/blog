@@ -33,10 +33,9 @@ Meditoikuinbuddha.fi tekee yhteistyötä norjalaisen <a href="https://www.dnbf.o
 
 Jos olet kiinnostunut Suomen paikallistoimintaan osallistumisesta, pistä viestiä osoitteeseen tampere@dnbf.org. 
 
-<figure>
-<img src="https://suttacentral.net/img/home-page/editions2.avif" alt="suttas">
-<figcaption> Kuva: <a href="https://Suttacentral.net">Suttacentral.net</a></figcaption>
-</figure>
+<a href="https://dnbf.org/en">
+<img src="assets/images/buddhistsocietyofnorway.png" alt="buddhistsocietyofnorway">
+</a>
 
 
 

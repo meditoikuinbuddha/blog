@@ -29,7 +29,7 @@ feature_row:
   - image_path: /assets/images/readingfaithfully.png
     title: <a href="https://readingfaithfully.org">Reading Faithfully</a>
     excerpt: "Ohjeita suttien opiskeluun."
-  - image_path: /assets/images/obu.png.jpg
+  - image_path: /assets/images/obu.png
     alt: "openbuddhistuniversity"
     title: <a href="https://buddhistuniversity.net">Open Buddhist University</a>
     excerpt: "Kursseja ja laaja buddhalainen kirjasto."
@@ -37,13 +37,13 @@ feature_row:
     alt: "suomenbuddhalainenunioni"
     title: <a href="https://www.sbu.fi/">Suomen Buddhalainen Unioni</a>
     excerpt: "Suomen buddhalaisten kattojärjestö."
+  - image_path: /assets/images/bodhidharma.png
+    alt: "bodhidharma"
+    title: <a href="https://bodhidharma.fi">Bodhidharma</a>
+    excerpt: "Buddhalaista toimintaa ja opetuksia suomeksi. Pääopettajana suomalainen munkki Taehye sunim."
   - image_path: /assets/images/nirodha-logo.jpg
     title: <a href="https://nirodha.fi">Nirodha</a>
     excerpt: "Suomalainen meditointiyhteisö."
-  - image_path: /assets/images/
-    alt: "openbuddhistuniversity"
-    title: <a href="https://buddhistuniversity.net">Open Buddhist University</a>
-    excerpt: "Kursseja ja laaja buddhalainen kirjasto."
   - image_path: /assets/images/anukampa2.jpg
     alt: "anukampa"
     title: <a href="https://anukampaproject.org/">Anukampa Bhikkhunī Project</a>
@@ -58,9 +58,5 @@ feature_row:
 
 
 ---
-<center><h2>Itsenäiseen opiskeluun:</h2></center>
 {% include feature_row %}
-
-<center><h2>Yhteisöjä Euroopassa:</h2></center>
-{% include feature_row id="row2" %}
 

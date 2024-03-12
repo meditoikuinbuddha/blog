@@ -41,7 +41,7 @@ On siis ensiarvoisen tärkeää ymmärtää, miten buddhalainen polku toimii.
 <figcaption> Buddhalainen polku vie kohti valoa. Kuva: Patrick Fore</figcaption>
 </figure>
 
-Buddhalainen polku vie kohti syvä meditaatiota ja siitä kumpuavaa ymmärrystä, mutta rauhaa ja onnea on tarjolla ensiaskeleista lähtien.
+Buddhalainen polku vie kohti syvää meditaatiota ja siitä kumpuavaa ymmärrystä, mutta rauhaa ja onnea on tarjolla ensiaskeleista lähtien.
 
 Buddhan sanoin polku on hyvä alussa, keskivaiheilla ja lopussa.
 
@@ -52,7 +52,7 @@ Jaloksi kahdeksanosaiseksi poluksi nimetty keskitie väistää sekä aistillisuu
 Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavista osista (mm. <a href="https://suttacentral.net/sn45.8/en/sujato">SN45.8</a>), joita avataan tarkemmin tulevissa julkaisuissa:
 
 
-<b>1. <a href="https://meditoikuinbuddha.github.io/blog/oikeanakemys">Oikea näkemys</a> (sammādiṭṭhi)</b><br>
+<b>1. <a href="https://meditoikuinbuddha.fi/oikeanakemys">Oikea näkemys</a> (sammādiṭṭhi)</b><br>
 Neljän jalon totuuden ymmärtäminen.<br>
 <b>2. Oikea aikomus (sammāsaṅkappo)</b><br>
 Aikomukset ja ideat, jotka pohjaavat luopumiseen, ystävällisyyteen ja huomaavaisuuteen.<br>

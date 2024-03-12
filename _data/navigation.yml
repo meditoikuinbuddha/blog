@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Julkaisut"
-    url: /julkaisut/
+    url: /julkaisut
   - title: "Linkit"
-    url: /linkit/
+    url: /linkit
   - title: "Info"
-    url: /info/
+    url: /tervetuloa
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/

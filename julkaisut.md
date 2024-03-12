@@ -1,16 +1,16 @@
 ---
 layout: splash
-permalink: /julkaisut/
+permalink: julkaisut
 
 feature_row:
   - image_path: /assets/images/makaavabuddha.jpg
-    title: <a href="/blog/categories/tietoisku/">Tietoisku</a>
+    title: <a href="/categories/tietoisku/">Tietoisku</a>
     excerpt: "Ytimekkäitä tietoiskuja buddhalaisuudesta."
   - image_path: /assets/images/munkkimikki.jpg
-    title: <a href="/blog/categories/puheenvuoro/">Puheenvuoro</a>
+    title: <a href="/categories/puheenvuoro/">Puheenvuoro</a>
     excerpt: "Äänessä kokeneet opettajat."
   - image_path: /assets/images/reading.jpg
-    title: <a href="/blog/categories/lukuhetki/">Lukuhetki</a>
+    title: <a href="/categories/lukuhetki/">Lukuhetki</a>
     excerpt: "Syvenny Buddhan opetuksiin."
 
 ---

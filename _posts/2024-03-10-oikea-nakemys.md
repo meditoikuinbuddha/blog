@@ -20,21 +20,21 @@ author: "Meditoi kuin Buddha"
 
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
-<i>Tämä julkaisu on ensimmäinen osa sarjassa, jossa käsitellään <a href="https://meditoikuinbuddha.github.io/blog/buddhalainenharjoitus">jalon kahdeksanosaisen polun</a> osia yksitellen.</i>
+<i>Tämä julkaisu on ensimmäinen osa sarjassa, jossa käsitellään <a href="https://meditoikuinbuddha.fi/buddhalainenharjoitus">jalon kahdeksanosaisen polun</a> osia yksitellen.</i>
 
 Näkemyksien ja uskomuksien rooli ihmisen elämässä on valtava. 
 
 Jos puutarhuri kuvittelee, että kasvit kasvavat ilman kastelua, on näkemyksessä jotain pielessä. Kun suunnistaja puolestaan lukee karttaa väärin, jää maali saavuttamatta.
 
-Aivan samoin henkinen harjoitus voi muodostua turhanpäiväiseksi ponnisteluksi, jos näkemys ei vastaa todellisuutta tai <a href="https://meditoikuinbuddha.github.io/blog/kukabuddhaoli">Buddhan opetuksia</a> tulkitsee väärin. 
+Aivan samoin henkinen harjoitus voi muodostua turhanpäiväiseksi ponnisteluksi, jos näkemys ei vastaa todellisuutta tai <a href="https://meditoikuinbuddha.fi/kukabuddhaoli">Buddhan opetuksia</a> tulkitsee väärin. 
 
-Käytännössä iso osa buddhalaisesta harjoituksesta on näkemyksen viilaamista. Ongelmia ei voi poistaa pakottamalla, vaan asioita on opittava katsomaan toisella tavalla.
+Käytännössä iso osa buddhalaisesta harjoituksesta on näkemyksen viilaamista. Ongelmia ei voi poistaa pakottamalla, vaan asioita on opittava katsomaan uudella tavalla.
 
-Buddha kannusti siis kehittämään viisautta tahdonvoiman sijaan. <i>Suttien</i> opiskelulla on tässä keskeinen rooli.
+Buddha kannusti siis viisasta arviointia tahdonvoiman sijaan. <i>Suttien</i> opiskelulla on tässä keskeinen rooli.
 
 Mutta minkälaisia näkemyksiä henkisen harjoittajan olisi hyvä ensi alkuun omaksua?
 
-<a href="https://meditoikuinbuddha.github.io/blog/buddhalainenharjoitus">Buddhalaisessa harjoituksessa</a> onnistuminen vaatii tuekseen alustavan oikean näkemyksen, joka mahdollistaa mielen työstämisen. 
+<a href="https://meditoikuinbuddha.fi/buddhalainenharjoitus">Buddhalaisessa harjoituksessa</a> onnistuminen vaatii tuekseen alustavan oikean näkemyksen, joka mahdollistaa mielen työstämisen. 
 
 Alustava oikea näkemys pohjaa kahteen perusoletukseen<sup>1</sup>:
 
@@ -97,10 +97,10 @@ Hyödylliset oletukset varmistuvat pysyväksi ymmärrykseksi, kun harjoittaja n�
 
 Tämä tarkoittaa neljän jalon totuuden näkemistä, jotka ovat:
 
-<b>1. Jalo totuus kärsimyksestä.</b><br>
-<b>2. Jalo totuus kärsimyksen syystä.</b><br>
-<b>3. Jalo totuus kärsimyksen lakkaamisesta</b><br>
-<b>4. Jalo totuus polusta, joka johtaa kärsimyksen lakkaamiseen.</b><br>
+<b>1. Jalo totuus kärsimyksestä. (dukkha) </b><br>
+<b>2. Jalo totuus kärsimyksen synnystä. (dukkhasamudaya)</b><br>
+<b>3. Jalo totuus kärsimyksen lakkaamisesta. (dukkhanirodha)</b><br>
+<b>4. Jalo totuus harjoituksesta, joka johtaa kärsimyksen lakkaamiseen. (dukkhanirodhagāminī paṭipadā) (</b><br>
 
 Kaikki Buddhan opetukset kuuluvat neljän jalon totuuden sateenvarjon alle<sup>8</sup>.
 
@@ -110,7 +110,7 @@ Alustava oikea näkemys on siis tavallaan myös neljän jalon totuuden alustavaa
 
 Neljän jalon totuuden varsinainen näkeminen on kuitenkin poikkeuksellista <sup>9</sup>, ja vaatii tuekseen meditaatiosta kumpuavaa nautintoa sekä selkeyttä<sup>10</sup>.
 
-Perusperiaate on yksinkertainen, mutta syvällinen: kaikki olemassaolo on pohjimmiltaan kärsimystä. Syy kärsimykseen on haluaminen, joka johtaa jälleensyntymään. Näin ollen ainut tapa lopettaa kärsimys on luopua kyseisestä halusta. 
+Perusperiaate on yksinkertainen, mutta syvällinen: kaikki olemassaolo on pohjimmiltaan kärsimystä. Kärsimys syntyy haluamisesta, joka johtaa jälleensyntymään. Näin ollen kyseisestä halusta luopuminen lakkauttaa kärsimyksen. 
 
 Halusta ei voi kuitenkin luopua haluamalla.
 

@@ -9,11 +9,6 @@ sidebar:
   - title: "Seuraa Facebookissa"
     text: <a href="https://www.facebook.com/profile.php?id=61555870603768">Meditoi kuin Buddha</a>
 ---
-<figure>
-<img src="https://readingfaithfully.org/wp-content/uploads/2018/06/AllCovers-STORY-OneLine.jpg" alt="suttas">
-<figcaption>Kuva: ReadingFaithfully.org</figcaption>
-</figure>
-
 Kaikki haluavat meditoida, mutta miten se oikein tapahtuu?
 
 Buddhalaisessa harjoituksessa teoria ja käytäntö lyövät kättä. Tällä sivustolla opiskellaan <a href="https://meditoikuinbuddha.fi/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a>. 
@@ -21,6 +16,11 @@ Buddhalaisessa harjoituksessa teoria ja käytäntö lyövät kättä. Tällä si
 Lisäksi ääneen pääsevät kokeneet buddhalaiset opettajat. 
 
 Sivusto on täysin ilmainen, ja kaikki materiaali julkaistaan selkeällä suomen kielellä.
+
+<figure>
+<img src="https://readingfaithfully.org/wp-content/uploads/2018/06/AllCovers-STORY-OneLine.jpg" alt="suttas">
+<figcaption>Kuva: ReadingFaithfully.org</figcaption>
+</figure>
 
 <hr>
 

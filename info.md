@@ -14,6 +14,10 @@ sidebar:
   - title: "Seuraa Facebookissa"
     text: <a href="https://www.facebook.com/profile.php?id=61555870603768">Meditoi kuin Buddha</a>
 ---
+<figure>
+<img src="https://suttacentral.net/img/home-page/editions2.avif" alt="suttas">
+<figcaption> Kuva: Suttacentral.net</figcaption>
+</figure>
 Kaikki haluavat meditoida, mutta miten se oikein tapahtuu?
 
 Buddhalaisessa harjoituksessa teoria ja käytäntö lyövät kättä. Tällä sivustolla opiskellaan <a href="https://meditoikuinbuddha.fi/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a>. Päämääränä on oppia meditoimaan kuin Buddha.

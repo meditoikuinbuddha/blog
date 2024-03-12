@@ -1,6 +1,6 @@
 ---
   title: "Tervetuloa!"
-layout: single
+layout: splash
 permalink: /info/
 
 header:

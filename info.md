@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: assets/images/siska-vrijburg-AjyF1e_AGmc-unsplash.jpg
   caption: "Kuva: [**Siska Vrijburg**]"
-excerpt: ""
+excerpt: "Syvenny Buddhan opetuksiin."
 
 sidebar:
   - title: "Ota yhteyttä!"

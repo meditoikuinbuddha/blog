@@ -15,7 +15,7 @@ Buddhalaisessa harjoituksessa teoria ja käytäntö lyövät kättä. Tällä si
 
 Lisäksi ääneen pääsevät kokeneet buddhalaiset opettajat. 
 
-Sivusto on täysin ilmainen, ja kaikki materiaali julkaistaan selkeällä suomen kielellä.
+Sivusto on täysin ilmainen ja vapaa mainoksista.
 
 <figure>
 <img src="https://readingfaithfully.org/wp-content/uploads/2018/06/AllCovers-STORY-OneLine.jpg" alt="suttas">

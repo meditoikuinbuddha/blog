@@ -1,5 +1,5 @@
 ---
-layout: "categories"
+layout: "posts"
 title: "Kuka Buddha oli ja mitä hän opetti?"
 excerpt: "<h3>Mistä kaikki alkoi.</h3>"
 date: 2024-02-16 19:00:00 +0200

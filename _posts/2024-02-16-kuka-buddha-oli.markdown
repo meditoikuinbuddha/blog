@@ -40,8 +40,12 @@ ihmisenä, rauhoittaa mielensä ja vapautua jo tässä elämässä.
 <h2>Mitä Buddha opetti?</h2>
 
 Buddhan elinaikana opetukset säilyivät hänen läheisimpien oppilaidensa muistissa. Hänen kuoltuaan
-ne koottiin yhteen mittavaksi kokoelmaksi, joka nykyään tunnetaan nimellä <i>varhaiset buddhalaiset
-tekstit</i>, VBT (eng. <i>Early Buddhist Texts</i>, EBTs). Kaikki buddhalaiset suuntaukset pohjaavat näihin teksteihin.
+ne koottiin yhteen mittavaksi kokoelmaksi, joka myöhemmin kirjattiin ylös.
+
+Kyseiset opetukset ovat edelleen saatavilla. Nykyään ne tunnetaan nimellä <i>varhaiset buddhalaiset
+tekstit</i>, VBT (eng. <i>Early Buddhist Texts</i>, EBTs). 
+
+Kaikki buddhalaiset suuntaukset pohjaavat Buddhan alkuperäisiin opetuksiin.
 
 <figure>
 <img src="https://suttacentral.net/img/home-page/pali2.avif" alt="pali">

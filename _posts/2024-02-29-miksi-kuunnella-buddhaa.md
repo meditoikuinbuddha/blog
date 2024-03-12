@@ -1,13 +1,13 @@
 ---
 layout: categories
-title: Miksi Buddhaa kannattaa kuunnella?
-excerpt: "Buddhan opetukset vievät oikealle polulle."
+title: Buddhan voi vihdoin tutustua ilman välikäsiä
+excerpt: "Yksittäinen opettaja on riskialtis turvapaikka, sanoo Ajahn Brahmali."
 date: 2024-02-29 11:00:00 +0200
 author: "Ajahn Brahmali"
 category: Puheenvuoro
 permalink: miksikuunnellabuddhaa
 header: 
-       teaser: assets/images/caleb-jones-J3JMyXWQHXU-unsplash.jpg
+       teaser: assets/images/brahmali.jpg
 
 entries_layout: grid
 

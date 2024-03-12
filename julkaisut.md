@@ -1,6 +1,12 @@
 ---
 layout: splash
+title: Julkaisut
 permalink: julkaisut
+
+header:
+  overlay_image: assets/images/nitish-meena-vuori2.jpg
+  caption: "Kuva: [**Nitish Meena**]"
+excerpt: "Tutustu julkaisuihin ryhmittäin."
 
 feature_row:
   - image_path: /assets/images/makaavabuddha.jpg

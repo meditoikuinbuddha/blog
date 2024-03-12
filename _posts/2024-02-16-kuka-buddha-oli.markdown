@@ -43,6 +43,11 @@ Buddhan elinaikana opetukset säilyivät hänen läheisimpien oppilaidensa muist
 ne koottiin yhteen mittavaksi kokoelmaksi, joka nykyään tunnetaan nimellä <i>varhaiset buddhalaiset
 tekstit</i>, VBT (eng. <i>Early Buddhist Texts</i>, EBTs). Kaikki buddhalaiset suuntaukset pohjaavat näihin teksteihin.
 
+<figure>
+<img src="https://suttacentral.net/img/home-page/pali2.avif" alt="pali">
+<figcaption> Burmalainen sutta-käsikirjoitus n. 1800-luvulta. Kuva: <a href="https://suttacentral.net">Suttacentral.net</a></figcaption>
+</figure>
+
 <b>VBT:t jaetaan kolmeen “koriin”</b>:
 
 <b>Opetukset</b>, alkuperäisellä <i>paalin</i> kielellä <i>suttat</i>, ovat Buddhan pääopetuksia, jotka koostuvat joko
@@ -55,11 +60,6 @@ buddhalaista maailmaa.
 
 <b>Abhidhamma</b>, sisältää tiivistelmiä ja analyysejä varhaisemmista opetuksista. Nämä tekstit eivät ole
 Buddhan suoria opetuksia, vaan hänen kuoleman jälkeensä syntyneitä kommentaareja.
-
-<figure>
-<img src="https://suttacentral.net/img/home-page/pali2.avif" alt="pali">
-<figcaption> Burmalainen käsikirjoitus 1800-luvulta. Kuva: <a href="https://suttacentral.net">Suttacentral.net</a></figcaption>
-</figure>
 
 Tämä sivusto keskittyy pääosin ensimmäiseen koriin, eli <i>suttiin</i>, jotka sisältävät Buddhan keskeiset
 opetukset eettisyydestä, rauhasta ja viisaudesta. Näistä opetuksista tunnetuimmat

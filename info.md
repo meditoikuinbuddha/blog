@@ -1,7 +1,7 @@
 ---
   title: "Tervetuloa!"
 layout: splash
-permalink: /info/
+permalink: info
 
 header:
   overlay_image: assets/images/siska-vrijburg-AjyF1e_AGmc-unsplash.jpg

@@ -19,7 +19,6 @@ Sivusto on täysin ilmainen, ja kaikki materiaali julkaistaan selkeällä suomen
 
 <figure>
 <img src="https://readingfaithfully.org/wp-content/uploads/2018/06/AllCovers-STORY-OneLine.jpg" alt="suttas">
-<figcaption>Kuva: ReadingFaithfully.org</figcaption>
 </figure>
 
 <hr>

@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/venabu.jpg
   caption: "Kuva: [**DNBF**](https://https://dnbf.org/en/2023/05/venabu-retreat-2023-2/)"
-excerpt: "Tutustu maailmanlaajuiseen yhteisöön"
+excerpt: "Tutustu maailmanlaajuiseen yhteisöön."
 
 feature_row:
   - image_path: /assets/images/bswa.jpg

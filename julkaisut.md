@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /julkaisut/
+permalink: julkaisut
 
 feature_row:
   - image_path: /assets/images/makaavabuddha.jpg

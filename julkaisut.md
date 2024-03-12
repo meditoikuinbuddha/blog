@@ -6,7 +6,6 @@ permalink: julkaisut
 header:
   overlay_image: assets/images/nitish-meena-vuori2.jpg
   caption: "Kuva: [**Nitish Meena**]"
-excerpt: "Tiivistelmiä, tutkimista ja kokemuksen rintaääntä."
 
 feature_row:
   - image_path: /assets/images/makaavabuddha.jpg

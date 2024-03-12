@@ -19,7 +19,7 @@ Sivusto on täysin ilmainen ja vapaa mainoksista.
 
 <figure>
 <img src="https://readingfaithfully.org/wp-content/uploads/2018/06/AllCovers-STORY-OneLine.jpg" alt="suttas">
-  <figcaption>Kuva: <a href="https://readingfaithfully.org>ReadingFaithfully.org</a></figcaption>
+  <figcaption>Kuva: <a href="https://readingfaithfully.org">ReadingFaithfully.org</a></figcaption>
 </figure>
 
 <hr>

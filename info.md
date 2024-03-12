@@ -2,6 +2,10 @@
 layout: single
 title: Tervetuloa!
 permalink: /info/
+header: 
+  show_overlay_excerpt: true
+  overlay_image: /assets/images/header.jpg
+  caption: "Kuva: [**Avik Dey**]
 
 sidebar:
   - title: "Ota yhteyttä!"
@@ -19,6 +23,7 @@ Sivusto on täysin ilmainen ja vapaa mainoksista.
 
 <figure>
 <img src="https://readingfaithfully.org/wp-content/uploads/2018/06/AllCovers-STORY-OneLine.jpg" alt="suttas">
+  <figcaption>Kuva: <a href="https://readingfaithfully.org>ReadingFaithfully.org</a></figcaption>
 </figure>
 
 <hr>

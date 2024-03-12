@@ -3,6 +3,7 @@ layout: single
 title: Tervetuloa!
 permalink: /info/
 header:
+  show_overlay_excerpt: true
   image: assets/images/siska-vrijburg-AjyF1e_AGmc-unsplash.jpg
   caption: "Kuva: [**Siska Vrijburg**]"
 

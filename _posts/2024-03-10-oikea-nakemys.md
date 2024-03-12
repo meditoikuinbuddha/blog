@@ -139,7 +139,7 @@ Pikkuhiljaa järkevät oletukset voivat vahvistua varmistetuksi näkemykseksi.
 
 1. Alustava oikea näkemys tunnetaan <i>Theravāda</i>-perinteessä nimellä maallinen oikea näkemys. Bhante Sujaton englanninkielisessä käännöksessä <i>suttasta</i> <a href= "https://suttacentral.net/mn117/en/sujato">MN 117</a> se kuvaillaan seuraavasti: <i>"There is right view that is accompanied by defilements, has the attributes of good deeds, and ripens in attachment."</i>
 
-2. <a href="https://suttacentral.net/an3.45/en/sujato>AN 3.45</a>
+2. <a href="https://suttacentral.net/an3.45/en/sujato">AN 3.45</a>
 
 3. <i>Suttassa</i> <a href="https://suttacentral.net/mn60/en/sujato">MN60</a> Buddha esittää argumentit jälleensyntymän hyväksymisen puolesta.
 

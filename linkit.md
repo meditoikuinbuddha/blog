@@ -36,7 +36,7 @@ feature_row:
   - image_path: /assets/images/sbu2.png
     alt: "suomenbuddhalainenunioni"
     title: <a href="https://www.sbu.fi/">Suomen Buddhalainen Unioni</a>
-    excerpt: "Suomen buddhalaisten kattojärjestö."
+    excerpt: "Suomen buddhalaisten yhteistyöjärjestö."
   - image_path: /assets/images/bodhidharma.png
     alt: "bodhidharma"
     title: <a href="https://bodhidharma.fi">Bodhidharma</a>

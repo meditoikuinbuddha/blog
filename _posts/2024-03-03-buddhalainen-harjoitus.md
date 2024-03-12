@@ -52,21 +52,21 @@ Jaloksi kahdeksanosaiseksi poluksi nimetty keskitie väistää sekä aistillisuu
 Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavista osista (mm. <a href="https://suttacentral.net/sn45.8/en/sujato">SN45.8</a>), joita avataan tarkemmin tulevissa julkaisuissa:
 
 
-<b>1. <a href="https://meditoikuinbuddha.fi/oikeanakemys">Oikea näkemys</a> (sammādiṭṭhi)</b><br>
+<b>1. <a href="https://meditoikuinbuddha.fi/oikeanakemys">Oikea näkemys</a> (<i>sammādiṭṭhi</i>)</b><br>
 Neljän jalon totuuden ymmärtäminen.<br>
-<b>2. Oikea aikomus (sammāsaṅkappo)</b><br>
+<b>2. Oikea aikomus (<i>sammāsaṅkappo</i>)</b><br>
 Aikomukset ja ideat, jotka pohjaavat luopumiseen, ystävällisyyteen ja huomaavaisuuteen.<br>
-<b>3. Oikea puhe (sammāvācā)</b><br>
+<b>3. Oikea puhe (<i>sammāvācā</i>)</b><br>
 Puhe, joka on totta, sopusointuista, lempeää ja merkityksellistä.<br>
-<b>4. Oikea toiminta (sammākammanta)</b><br>
+<b>4. Oikea toiminta (<i>sammākammanta</i>)</b><br>
 Pidättäytyminen tappamisesta, varastamisesta ja seksuaalisista väärinkäytöksistä.<br>
-<b>5. Oikea elämäntapa (sammāājīva)</b><br>
+<b>5. Oikea elämäntapa (<i>sammāājīva</i>)</b><br>
 Vahingoittavan työn välttäminen.<br>
-<b>6. Oikea pyrkimys (sammāvāyāma)</b><br>
+<b>6. Oikea pyrkimys (<i>sammāvāyāma</i>)</b><br>
 Neljä oikeaa pyrkimystä.<br>
-<b>7. Oikea tietoinen läsnäolo (mindfulness)</b><br>
+<b>7. Oikea tietoinen läsnäolo (<i>mindfulness</i>)</b><br>
 Neljä meditoinnin kohdetta.<br>
-<b>8. Oikea rauha (sammāsamādhi)</b><br>
+<b>8. Oikea rauha (<i>sammāsamādhi</i>)</b><br>
 Neljä syvää meditatiivista tilaa, joita kutsutaan <i>jhānoiksi</i>.<br>
 
 

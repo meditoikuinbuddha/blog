@@ -49,7 +49,7 @@ Kaikki buddhalaiset suuntaukset pohjaavat Buddhan alkuperäisiin opetuksiin.
 
 <figure>
 <img src="https://suttacentral.net/img/home-page/pali2.avif" alt="pali">
-<figcaption> Burmalainen sutta-käsikirjoitus n. 1800-luvulta. Kuva: <a href="https://suttacentral.net">Suttacentral.net</a></figcaption>
+<figcaption> Burmalainen <i>sutta</i>i>-käsikirjoitus n. 1800-luvulta. Kuva: <a href="https://suttacentral.net">Suttacentral.net</a></figcaption>
 </figure>
 
 <b>VBT:t jaetaan kolmeen “koriin”</b>:

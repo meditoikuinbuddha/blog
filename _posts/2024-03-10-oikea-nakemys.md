@@ -97,8 +97,8 @@ Hyödylliset oletukset varmistuvat pysyväksi ymmärrykseksi, kun harjoittaja n�
 
 Tämä tarkoittaa neljän jalon totuuden näkemistä, jotka ovat:
 
-<b>1. Jalo totuus kärsimyksestä.</b><br>
-<b>2. Jalo totuus kärsimyksen syystä.</b><br>
+<b>1. Jalo totuus kärsimyksestä. (dukkha) </b><br>
+<b>2. Jalo totuus kärsimyksen synnystä. (dukkhasamudaya)</b><br>
 <b>3. Jalo totuus kärsimyksen lakkaamisesta</b><br>
 <b>4. Jalo totuus polusta, joka johtaa kärsimyksen lakkaamiseen.</b><br>
 
@@ -110,7 +110,7 @@ Alustava oikea näkemys on siis tavallaan myös neljän jalon totuuden alustavaa
 
 Neljän jalon totuuden varsinainen näkeminen on kuitenkin poikkeuksellista <sup>9</sup>, ja vaatii tuekseen meditaatiosta kumpuavaa nautintoa sekä selkeyttä<sup>10</sup>.
 
-Perusperiaate on yksinkertainen, mutta syvällinen: kaikki olemassaolo on pohjimmiltaan kärsimystä. Syy kärsimykseen on haluaminen, joka johtaa jälleensyntymään. Näin ollen ainut tapa lopettaa kärsimys on luopua kyseisestä halusta. 
+Perusperiaate on yksinkertainen, mutta syvällinen: kaikki olemassaolo on pohjimmiltaan kärsimystä. Kärsimys syntyy haluamisesta, joka johtaa jälleensyntymään. Näin ollen kyseisestä halusta luopuminen lakkauttaa kärsimyksen. 
 
 Halusta ei voi kuitenkin luopua haluamalla.
 

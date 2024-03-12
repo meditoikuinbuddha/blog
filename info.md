@@ -1,7 +1,7 @@
 ---
   title: "Tervetuloa!"
 layout: single
-permalink: /info
+permalink: /info/
 
 header:
   overlay_color: "#000"

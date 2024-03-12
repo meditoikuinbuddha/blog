@@ -56,12 +56,22 @@ buddhalaista maailmaa.
 <b>Abhidhamma</b>, sisältää tiivistelmiä ja analyysejä varhaisemmista opetuksista. Nämä tekstit eivät ole
 Buddhan suoria opetuksia, vaan hänen kuoleman jälkeensä syntyneitä kommentaareja.
 
+<figure>
+<img src="https://suttacentral.net/img/static-pages/birchbark_w400.avif" alt="suttas">
+<figcaption> Muinainen Abhidhamma-kommentaari. Kuva: <a href="https://suttacentral.net">Suttacentral.net</a></figcaption>
+</figure>
+
 Tämä sivusto keskittyy pääosin ensimmäiseen koriin, eli <i>suttiin</i>, jotka sisältävät Buddhan keskeiset
 opetukset eettisyydestä, rauhasta ja viisaudesta. Näistä opetuksista tunnetuimmat
 löytyvät neljästä kirjasta, joita kutsutaan nimellä <i>nikāyat</i>.
 
 2500 vuotta vanhat opetukset olivat alusta alkaen vapaita ajan ja paikan
 rajoitteista. Buddhan opetukset sopivat jokaiselle, jolla on mieli ja sydän.
+
+<figure>
+<img src="https://suttacentral.net/img/home-page/editions2.avif" alt="suttas">
+<figcaption> Kuva: <a href="https://suttacentral.net">Suttacentral.net</a></figcaption>
+</figure>
 
 <b>Opetuksiin viitatessa käytetään seuraavia lyhenteitä</b> 
 (Linkit vievät <a href="https://www.suttacentral.net">Suttacentral.net</a>-sivustolle,

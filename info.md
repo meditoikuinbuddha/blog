@@ -1,6 +1,6 @@
 ---
-  title: "Tervetuloa!"
 layout: single
+  title: "Tervetuloa!"
 permalink: info
 
 header:

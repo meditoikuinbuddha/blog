@@ -99,8 +99,8 @@ Tämä tarkoittaa neljän jalon totuuden näkemistä, jotka ovat:
 
 <b>1. Jalo totuus kärsimyksestä. (dukkha) </b><br>
 <b>2. Jalo totuus kärsimyksen synnystä. (dukkhasamudaya)</b><br>
-<b>3. Jalo totuus kärsimyksen lakkaamisesta</b><br>
-<b>4. Jalo totuus polusta, joka johtaa kärsimyksen lakkaamiseen.</b><br>
+<b>3. Jalo totuus kärsimyksen lakkaamisesta. (dukkhanirodha)</b><br>
+<b>4. Jalo totuus harjoituksesta, joka johtaa kärsimyksen lakkaamiseen. (dukkhanirodhagāminī paṭipadā) (</b><br>
 
 Kaikki Buddhan opetukset kuuluvat neljän jalon totuuden sateenvarjon alle<sup>8</sup>.
 

@@ -1,11 +1,14 @@
 ---
+  title: "Tervetuloa!"
 layout: single
-permalink: /info/
+permalink: /info
 
-title: "Tervetuloa!"
 header:
-  image: assets/images/siska-vrijburg-AjyF1e_AGmc-unsplash.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: assets/images/siska-vrijburg-AjyF1e_AGmc-unsplash.jpg
   caption: "Kuva: [**Siska Vrijburg**]"
+excerpt: ""
 
 sidebar:
   - title: "Ota yhteyttä!"

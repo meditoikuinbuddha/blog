@@ -29,11 +29,11 @@ Sivusto on täysin ilmainen ja vapaa mainoksista.
 
 <hr>
 
-Meditoikuinbuddha.fi tekee yhteistyötä norjalaisen <a href="https://www.dnbf.org/en">The Buddhist Society of Norwayn</a> kanssa, jolla on oma paikallisryhmä Tampereella.
-
 <a href="https://dnbf.org/en">
 <img src="assets/images/buddhistsocietyofnorway.png" alt="buddhistsocietyofnorway">
 </a>
+
+Meditoikuinbuddha.fi tekee yhteistyötä norjalaisen <a href="https://www.dnbf.org/en">The Buddhist Society of Norwayn</a> kanssa, jolla on oma paikallisryhmä Tampereella.
 
 Jos olet kiinnostunut Suomen paikallistoimintaan osallistumisesta, pistä viestiä osoitteeseen tampere@dnbf.org. 
 

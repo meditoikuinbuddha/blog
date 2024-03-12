@@ -2,10 +2,6 @@
 layout: single
 title: Tervetuloa!
 permalink: /info/
-header: 
-  show_overlay_excerpt: true
-  overlay_image: /assets/images/header.jpg
-  caption: "Kuva: [**Avik Dey**]
 
 sidebar:
   - title: "Ota yhteyttä!"

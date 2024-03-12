@@ -6,7 +6,7 @@ permalink: julkaisut
 header:
   overlay_image: assets/images/nitish-meena-vuori2.jpg
   caption: "Kuva: [**Nitish Meena**]"
-excerpt: "Tutustu julkaisuihin ryhmittäin."
+excerpt: "Vilkuile tai uppoudu."
 
 feature_row:
   - image_path: /assets/images/makaavabuddha.jpg

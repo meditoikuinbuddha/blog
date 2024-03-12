@@ -5,7 +5,7 @@ excerpt: "Yksittäinen opettaja on riskialtis turvapaikka, sanoo Ajahn Brahmali.
 date: 2024-02-29 11:00:00 +0200
 author: "Ajahn Brahmali"
 category: Puheenvuoro
-permalink: miksikuunnellabuddhaa
+permalink: turvapaikka
 header: 
        teaser: assets/images/brahmali.jpg
 

@@ -57,8 +57,8 @@ buddhalaista maailmaa.
 Buddhan suoria opetuksia, vaan hänen kuoleman jälkeensä syntyneitä kommentaareja.
 
 <figure>
-<img src="https://suttacentral.net/img/static-pages/birchbark_w400.avif" alt="suttas">
-<figcaption> Muinainen Abhidhamma-kommentaari. Kuva: <a href="https://suttacentral.net">Suttacentral.net</a></figcaption>
+<img src="https://suttacentral.net/img/home-page/pali2.avif" alt="pali">
+<figcaption> Burmalainen käsikirjoitus 1800-luvulta. Kuva: <a href="https://suttacentral.net">Suttacentral.net</a></figcaption>
 </figure>
 
 Tämä sivusto keskittyy pääosin ensimmäiseen koriin, eli <i>suttiin</i>, jotka sisältävät Buddhan keskeiset

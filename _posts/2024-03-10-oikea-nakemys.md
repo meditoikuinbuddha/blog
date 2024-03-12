@@ -1,5 +1,5 @@
 ---
-layout: "categories"
+layout: "posts"
 title: "Oikea näkemys vie kohti vapautta"
 excerpt: "<h3>Viisaat oletukset ovat osa buddhalaista polkua.</h3>"
 date: 2024-03-10 12:00:00 +0200

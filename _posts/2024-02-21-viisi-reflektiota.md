@@ -1,6 +1,6 @@
 ---
 layout: "categories"
-title: "Buddhan viiden aiheen lista"
+title: "Päivittäinen viiden aiheen lista"
 excerpt: "<h3>Kaikki lähtee tosiasioiden tunnustamisesta.</h3>"
 date: 2024-02-21 10:00:00 +0200
 author: "admin"

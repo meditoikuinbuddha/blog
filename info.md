@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Tervetuloa!"
 permalink: /info/
 
+title: "Tervetuloa!"
 header:
   image: assets/images/siska-vrijburg-AjyF1e_AGmc-unsplash.jpg
   caption: "Kuva: [**Siska Vrijburg**]"

@@ -32,7 +32,7 @@ feature_row:
   - image_path: /assets/images/obu.png
     alt: "openbuddhistuniversity"
     title: <a href="https://buddhistuniversity.net">Open Buddhist University</a>
-    excerpt: "Ilmaisia ursseja ja laaja buddhalainen verkkokirjasto."
+    excerpt: "Ilmaisia kursseja ja laaja buddhalainen verkkokirjasto."
   - image_path: /assets/images/sbu2.png
     alt: "suomenbuddhalainenunioni"
     title: <a href="https://www.sbu.fi/">Suomen Buddhalainen Unioni</a>

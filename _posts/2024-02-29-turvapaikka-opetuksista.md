@@ -183,7 +183,7 @@ Lähteet:
 1. Buddhan opetuksien aitoutta käsittelee muun muassa <a href="https://ocbs.org/wp-content/uploads/2015/09/authenticity.pdf">Brahmali ja Sujato</a> (2014)
 2. <i>Suttassa</i> <a href="https://suttacentral.net/mn139/en/sujato">MN 139</a> Buddha kannustaa keskustelemaan paikallisin termein.
 3. Katso esimerkiksi sivuston <a href="https://meditoikuinbuddha.fi/linkit">Linkit</a>-osio.
-4. <i>Suttassa</i> <a href="https://suttacentral.net/sn3.11/en/sujato">SN 3.11</a> vaikuttavat hengelliset harjoittajat osoittautuvat kuningaan vakoojiksi! Buddhan mukaan ihmisen todellisen luonteen voi oppia tuntemaan vain pitkän ajan kuluessa. Hän vertaa karismaattisia helppoheikkejä ulkokullattuun kuparipenniin.
+4. <i>Suttassa</i> <a href="https://suttacentral.net/sn3.11/en/sujato">SN 3.11</a> vaikuttavat hengelliset harjoittajat osoittautuvat kuningaan vakoojiksi! Buddhan mukaan ihmisen todellisen luonteen voi oppia tuntemaan vain pitkän ajan kuluessa ja omia hoksottimia käyttämällä. Hän vertaa karismaattisia helppoheikkejä ulkokullattuun kuparipenniin.
 5. Buddha muun muassa varoittaa luottamasta liikaa kokeneisiin, suosittuihin ja <i>suttansa</i> osaaviin opettajiin, sillä jopa he voivat ohjata muita harhaan, mm. <a href="https://suttacentral.net/an5.88/en/sujato">AN 5.88</a>.
 6. Buddhan mukaan kaikkia opetuksia tulisi verrata huolellisesti Buddhan omiin opetuksiin, <a href="https://suttacentral.net/an4.180/en/sujato>AN 4.180</a>.
 7. Turvapaikat kuvataan muun muassa suttassa <a href="https://suttacentral.net/an6.10/en/sujato>AN 6.10</a>, jossa turvapaikkojen pohdiskelun osoitetaan toimivan myös hyvänä perustana meditoinnille.

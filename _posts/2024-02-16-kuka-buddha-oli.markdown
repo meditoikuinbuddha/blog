@@ -113,10 +113,10 @@ jossa kaikki opetukset ovat tarjolla ilmaiseksi):
 3. Kuuden vuoden harjoitus eri opettajineen ja itsekurittamisineen löytyy niin ikään <i>suttasta</i> <a href="https://suttacentral.net/mn4/en/sujato">MN26</a>.
 4. Muun muassa <a href="https://suttacentral.net/mn19/en/sujato">MN19</a> antaa yhden näkökulman harjoitukseen, joka johti Buddhan heräämiseen.
 5. Heräämistä kuvattaessa toistetaan <i>suttissa</i> usein perusfraasi, joka alkaa lausahduksella: "Jälleensyntymä on loppunut (<i>khīṇā jāti</i>)".
-6. <a href="https://suttacentral.net/dn16/en/sujato>DN16:12</a> mainitsee Buddhan kuoliniäksi 80 vuotta.
-7. Muinaisessa Intiassa pyhien opetuksien resitoiminen ja mieleenpainaminen oli huippuunsa hiottu taito, jonka Buddha omaksui aikansa muilta hengellisiltä harjoittajilta. Mm. <a href="https://ocbs.org/wp-content/uploads/2015/09/authenticity.pdf">Brahmali ja Sujato</a> (2014, 50)
+6. <a href="https://suttacentral.net/dn16/en/sujato">DN16:12</a> mainitsee Buddhan kuoliniäksi 80 vuotta.
+7. Muinaisessa Intiassa pyhien opetuksien resitoiminen ja mieleenpainaminen oli huippuunsa hiottu taito, jonka Buddha omaksui aikansa muilta hengellisiltä harjoittajilta, mm. <a href="https://ocbs.org/wp-content/uploads/2015/09/authenticity.pdf">Brahmali ja Sujato</a> (2014, 50).
 8. Pääasiallisena lähteenä tässä osiossa: <a href="https://suttacentral.net/introduction?lang=en">Introduction to SuttaCentral</a>
 9. Toisistaan eriytyneet perinteet ovat säilyttäneet varhaisia opetuksia useiden vuosisatojen ajan eri kielillä. Tässä blogissa huomio keskittyy ensisijaisesti opetuksiin, jotka säilytettiin paalin kielellä.
 10. Buddha totesi kaikenkattavasti, että hänen opetuksensa on tarkoitettu niille, jotka "tuntevat": <a href="https://suttacentral.net/an3.61/en/sujato">AN3.61</a>.
 
-Lähteenä käytetty myös Bhante S.Dhammikan teosta “<a href="https://budblooms.org/download/footprints-in-the-dust-the-life-of-the-buddha-from-the-most-ancient-sources/>Footprints in the Dust: The Life of the Buddha from the Most Ancient Sources</a>” (2022).
+Lähteenä käytetty myös Bhante S.Dhammikan teosta “<a href="https://budblooms.org/download/footprints-in-the-dust-the-life-of-the-buddha-from-the-most-ancient-sources/">Footprints in the Dust: The Life of the Buddha from the Most Ancient Sources</a>” (2022).

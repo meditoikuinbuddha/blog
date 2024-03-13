@@ -5,7 +5,7 @@ permalink: julkaisut
 
 header:
   overlay_image: assets/images/kansijulkaisut4.jpg
-  caption: Kuva:[**Tapio Haaja**]
+  caption: Kuva:[**Narahari K R**]
 
 feature_row:
   - image_path: /assets/images/makaavabuddha.jpg

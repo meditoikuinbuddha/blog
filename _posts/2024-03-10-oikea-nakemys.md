@@ -155,7 +155,7 @@ Pikkuhiljaa järkevät oletukset voivat vahvistua varmistetuksi näkemykseksi.
 
 9. Muun muassa <i>suttassa</i> <a href="https://suttacentral.net/an3.33/en/sujato">AN3.33</a> Buddha harmittelee Sāriputtalle, että on vaikea löytää ketään, joka ymmärtää hänen opetuksiaan. Heräämiskokemuksen syvällisyys sai Buddhan myös lähes pidättäytymään opettamisesta, <a href="https://suttacentral.net/mn26/en/sujato?lang=en">MN 36</a>.
 
-10. Onnen ja rauhan seurauksena tapahtuva syvä meditaatio (<i>samādhi</i>) on välttämätön ehto asioiden näkemiselle sellaisena kuin ne ovat, mm. (<a href="https://suttacentral.net/an11.2/en/sujato">mm. AN 11.2</a>).
+10. Onnen ja rauhan seurauksena tapahtuva syvä meditaatio (<i>samādhi</i>) on välttämätön ehto asioiden näkemiselle sellaisena kuin ne ovat, mm. <a href="https://suttacentral.net/an11.2/en/sujato">mm. AN 11.2</a> ja <a href="https://suttacentral.net/sn12.23/en/sujato">SN 12.23</a>.
 
 11. Buddhan mukaan virtaan astuneella on edessään enintään seitsemän elämää, mm. <a href="https://suttacentral.net/sn13.1/en/sujato?lang=en">SN 13.1</a>.
 

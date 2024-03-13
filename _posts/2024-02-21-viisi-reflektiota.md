@@ -109,7 +109,7 @@ Buddhan mukaan parhaimmillaan pohdiskelu voi jopa viedä kohti kaikista olemassa
 1. Tämä julkaisu pohjaa opetukseen <a href="https://suttacentral.net/an5.57/en/sujato">AN 5.57</a>.
 2. <i>Kamma</i>, sankrit: <i>karma</i>. Karma tarkoittaa siis ennen kaikkea toimintaa, ei mystistä voimaa, joka ohjaa universumia kaikkitietävän Jumalan tavoin.
 3. Buddhan kuuluisan lausahduksen mukaan jalot olennot neuvovat tappamaan vain yhden asian: vihan. <a href="https://suttacentral.net/sn1.71/en/sujato">SN 1.71</a>. <i>Dhammapadan</i> kappale nimeltä "<a href="https://suttacentral.net/dhp129-145/en/sujato">Keppi</a>" (vertaa sanontaan "keppi ja porkkana") käsittelee liikuttavasti väkivallattomuutta.
-4. <i>Suttissa</i> <a href="https://suttacentral.net/an1.71-81/en/sujato>AN 1.76–81</a> Buddha muun muassa toteaa, että perheen, maineen ja sukulaisten menettäminen on pikkujuttu viisauden menettämiseen verrattuna.
+4. <i>Suttissa</i> <a href="https://suttacentral.net/an1.71-81/en/sujato">AN 1.76–81</a> Buddha muun muassa toteaa, että perheen, maineen ja sukulaisten menettäminen on pikkujuttu viisauden menettämiseen verrattuna. Vastaavasti viisauden saavuttaminen päihittää maallisen menestyksen.
 5. Buddhan harjoituksessa virheiden myöntäminen ja niistä oppiminen vastaa kasvua. <a href="https://suttacentral.net/an3.91/en/sujato">AN 3.91</a>. Harjoituksen eteneminen hiljalleen ilman äkillisyyttä kuvataan muun muassa Buddhan valtamerivertauksessa, <a href="https://suttacentral.net/an8.19/en/sujato">AN 8.19</a>.
  
 

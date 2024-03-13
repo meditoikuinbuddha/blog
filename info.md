@@ -4,8 +4,8 @@ title: "Tervetuloa!"
 permalink: tervetuloa
 
 header:
-  overlay_image: assets/images/siska-vrijburg-AjyF1e_AGmc-unsplash.jpg
-  caption: "Kuva: [**Siska Vrijburg**]"
+  overlay_image: assets/images/infokansi.jpg
+  caption: "Kuva: [**Tapio Haaja**]"
 excerpt: "Syvenny Buddhan opetuksiin."
 
 sidebar:

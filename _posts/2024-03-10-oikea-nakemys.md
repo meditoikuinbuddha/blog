@@ -135,7 +135,7 @@ On siis hyvä olla nöyrä, luottaa Buddhaan, pistää opetukset käytäntöön 
 
 Pikkuhiljaa järkevät oletukset voivat vahvistua varmistetuksi näkemykseksi.
 
-<i>Lähteet:</i>
+<i>Lähteet ja viittaukset:</i>
 
 1. Alustava oikea näkemys tunnetaan <i>Theravāda</i>-perinteessä nimellä maallinen oikea näkemys. Bhante Sujaton englanninkielisessä käännöksessä <i>suttasta</i> <a href= "https://suttacentral.net/mn117/en/sujato">MN 117</a> se kuvaillaan seuraavasti: <i>"There is right view that is accompanied by defilements, has the attributes of good deeds, and ripens in attachment."</i>
 

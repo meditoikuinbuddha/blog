@@ -4,7 +4,7 @@ title: Julkaisut
 permalink: julkaisut
 
 header:
-  overlay_image: assets/images/kansijulkaisut.jpg
+  overlay_image: assets/images/kansijulkaisut3.jpg
   caption:
 
 feature_row:

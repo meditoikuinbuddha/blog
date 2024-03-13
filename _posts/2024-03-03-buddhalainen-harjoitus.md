@@ -24,13 +24,13 @@ author: "Meditoi kuin Buddha"
 
 Buddhan varhaisissa opetuksissa henkinen harjoitus etenee vaiheittain ja suunnitelmallisesti. 
 
-Opetuksien ytimessä on pitkäjänteinen mielen sekä käytöksen harjoittaminen, joka johtaa askel askeleelta kohti syvempää rauhaa ja onnea.
+Opetuksien ytimessä on pitkäjänteinen mielen sekä käytöksen harjoittaminen, joka johtaa askel askeleelta kohti syvempää rauhaa ja onnea <sup>1</sup>.
 
-Iso osa buddhalaisesta harjoituksesta tapahtuu siis <i>ennen meditointia</i>. 
+Iso osa buddhalaisesta harjoituksesta tapahtuu siis <i>ennen meditointia</i><sup>2</sup>. 
 
-Eettiset periaatteet, ystävällisyyteen sitoutuminen ja oman ajattelun työstäminen luovat perustan meditoinnille. Näin ollen buddhalainen harjoitus sopii kaikille, ei vain himomeditoijille.
+Eettiset periaatteet, ystävällisyyteen sitoutuminen ja oman ajattelun työstäminen <sup>3</sup> luovat perustan meditoinnille. Näin ollen buddhalainen harjoitus sopii kaikille, ei vain himomeditoijille.
 
-Jos mieli ei ole valmis meditoimaan, liiallinen meditointityynyllä istuminen voi olla jopa haitallista. 
+Jos mieli ei ole valmis meditoimaan, liiallinen meditointityynyllä istuminen voi olla jopa haitallista <sup>4</sup>. 
 
 On siis ensiarvoisen tärkeää ymmärtää, miten buddhalainen polku toimii.
 
@@ -43,13 +43,13 @@ On siis ensiarvoisen tärkeää ymmärtää, miten buddhalainen polku toimii.
 
 Buddhalainen polku vie kohti syvää meditaatiota ja siitä kumpuavaa ymmärrystä, mutta rauhaa ja onnea on tarjolla ensiaskeleista lähtien.
 
-Buddhan sanoin polku on hyvä alussa, keskivaiheilla ja lopussa.
+Buddhan sanoin polku on hyvä alussa, keskivaiheilla ja lopussa <sup>4</sup>.
 
-Buddha itse kuvasi harjoitustaan keskitieksi (paaliksi <i>majjhimā paṭipadā</i>) (<a href="https://suttacentral.net/sn56.11/en/sujato">SN56.11</a>).
+Buddha itse kuvasi harjoitustaan keskitieksi. <sup>5</sup>.
 
 Jaloksi kahdeksanosaiseksi poluksi nimetty keskitie väistää sekä aistillisuuden että itsekurittamisen.
 
-Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavista osista (mm. <a href="https://suttacentral.net/sn45.8/en/sujato">SN45.8</a>), joita avataan tarkemmin tulevissa julkaisuissa:
+Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavista osista <sup>6</sup>, joita avataan tarkemmin tulevissa julkaisuissa:
 
 
 <b>1. <a href="https://meditoikuinbuddha.fi/oikeanakemys">Oikea näkemys</a> (<i>sammādiṭṭhi</i>)</b><br>
@@ -69,6 +69,13 @@ Neljä meditoinnin kohdetta.<br>
 <b>8. Oikea rauha (<i>sammāsamādhi</i>)</b><br>
 Neljä syvää meditatiivista tilaa, joita kutsutaan <i>jhānoiksi</i>.<br>
 
-
-<i>Suttien lisäksi jutussa on käytetty lähteenä Bhante Sujaton kirjoitusta <a href="https://suttacentral.net/sn-guide-sujato?lang=en">The Linked Discourses: the blueprint for Buddhist philosophy</a>.</i>
+<i><h2>Lähteet:</h2></i>
+1. Vaiheittainen harjoitus (<i>anupubba-sikkhā</i>) ja harjoituksen seurauksena syvenevä onni kuvataan useaan otteeseen <i>suttissa</i>, mm. <a href="https://suttacentral.net/dn2/en/sujato?lang=en">DN 2</a> ja <a href="https://suttacentral.net/mn107/en/sujato?lang=en">MN 107</a>. Opetus vaiheittaisesta harjoituksesta on vaihtoehtoinen tapa tarkastella harjoitusta ja jaloa kahdeksanosaista polkua.
+2. Edellä mainitussa vaiheittaisessa harjoittelussa meditointi on vuorossa vasta eettisyyden ja aistien vartioimisen/hillitsemisen (<i>indriyesu guttadvāra</i>) jälkeen. Buddhan mukaan meditointia tulisi harjoittaa vasta käytöksen puhdistamisen jälkeen ja totuudenmukaiseen näkemykseen pohjaten. (Mm. <a href="https://suttacentral.net/sn47.3/en/sujato">SN 47.3</a>).
+3. Kuten <i>suttassa</i> <a href="https://suttacentral.net/mn20/en/sujato?lang=en">MN 20</a> osoitetaan, ajattelutottumukset syntyvät toiston seurauksena. Ajattelun muuttaminen on huolellista ja sitoutumista vaativaa työtä, kuten kyseisen <i>suttan</i> vertaus lehmiä jatkuvasti kaitsevasta paimenesta osoittaa.
+4. "<i>ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā</i>", mm. <a href="https://suttacentral.net/an10.17/en/sujato?lang=en">AN 10.17</a>
+5. <i>Majjhimā paṭipadā,</i> mm. Buddhan ensimmäisessä opetuksessa:<a href="https://suttacentral.net/sn56.11/en/sujato">SN56.11</a>.
+6. Analyysi jalon kahdeksanosaisen polun eri osista: <a href="https://suttacentral.net/sn45.8/en/sujato">SN45.8</a>.
+   
+<i>Jutussa on käytetty lähteenä myös Bhante Sujaton kirjoitusta <a href="https://suttacentral.net/sn-guide-sujato?lang=en">The Linked Discourses: the blueprint for Buddhist philosophy</a>.</i>
 

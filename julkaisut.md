@@ -5,7 +5,7 @@ permalink: julkaisut
 
 header:
   overlay_image: assets/images/kansijulkaisut.jpg
-  caption: 
+  caption:
 
 feature_row:
   - image_path: /assets/images/makaavabuddha.jpg

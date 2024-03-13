@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/venabu.jpg
   caption: "Kuva: [**DNBF**](https://https://dnbf.org/en/2023/05/venabu-retreat-2023-2/)"
-excerpt: "Tutustu maailmanlaajuiseen yhteisöön"
+excerpt: "Tutustu maailmanlaajuiseen yhteisöön."
 
 feature_row:
   - image_path: /assets/images/bswa.jpg
@@ -32,18 +32,7 @@ feature_row:
   - image_path: /assets/images/obu.png
     alt: "openbuddhistuniversity"
     title: <a href="https://buddhistuniversity.net">Open Buddhist University</a>
-    excerpt: "Kursseja ja laaja buddhalainen kirjasto."
-  - image_path: /assets/images/sbu2.png
-    alt: "suomenbuddhalainenunioni"
-    title: <a href="https://www.sbu.fi/">Suomen Buddhalainen Unioni</a>
-    excerpt: "Suomen buddhalaisten kattojärjestö."
-  - image_path: /assets/images/bodhidharma.png
-    alt: "bodhidharma"
-    title: <a href="https://bodhidharma.fi">Bodhidharma</a>
-    excerpt: "Buddhalaista toimintaa ja opetuksia suomeksi. Pääopettajana suomalainen munkki Taehye sunim."
-  - image_path: /assets/images/nirodha-logo.jpg
-    title: <a href="https://nirodha.fi">Nirodha</a>
-    excerpt: "Suomalainen meditointiyhteisö."
+    excerpt: "Ilmaisia kursseja ja laaja buddhalainen verkkokirjasto."
   - image_path: /assets/images/anukampa2.jpg
     alt: "anukampa"
     title: <a href="https://anukampaproject.org/">Anukampa Bhikkhunī Project</a>

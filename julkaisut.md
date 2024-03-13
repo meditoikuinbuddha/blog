@@ -1,6 +1,11 @@
 ---
 layout: splash
+title: Julkaisut
 permalink: julkaisut
+
+header:
+  overlay_image: assets/images/nitish-meena-vuori2.jpg
+  caption: "Kuva: [**Nitish Meena**]"
 
 feature_row:
   - image_path: /assets/images/makaavabuddha.jpg
@@ -11,7 +16,7 @@ feature_row:
     excerpt: "Äänessä kokeneet opettajat."
   - image_path: /assets/images/reading.jpg
     title: <a href="/categories/lukuhetki/">Lukuhetki</a>
-    excerpt: "Syvenny Buddhan opetuksiin."
+    excerpt: "Tutkimusmatka Buddhan opetuksiin."
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: "categories"
+layout: "posts"
 title: "Päivittäinen viiden aiheen lista"
 excerpt: "<h3>Kaikki lähtee tosiasioiden tunnustamisesta.</h3>"
 date: 2024-02-21 10:00:00 +0200
@@ -41,9 +41,9 @@ Buddhan sanoin ne kuuluvat seuraavasti:
 2. "Olen altis sairauksille, en ole vapaa sairauksista." 
 3. "Olen altis kuolemalle, en ole vapaa kuolemasta."
 4. "Joudun eroamaan kaikesta rakkaasta ja läheisestä. "
-5. "Perin tekoni ja omistan tekoni. Synnyn teoistani, ja teot ovat turvapaikkani sekä läheiseni. Olen sekä hyvien että huonojen tekojeni perijä." - <a href="https://suttacentral.net/an5.57/en/sujato">AN 5.57</a>
+5. "Perin tekoni ja omistan tekoni. Synnyn teoistani, ja teot ovat turvapaikkani sekä läheiseni. Olen sekä hyvien että huonojen tekojeni perijä."<sup>1</sup>
 
-Aiheiden asettelu tekee selväksi buddhalaisen asenteen elämään. Loppujen lopuksi ihminen perii vain omat tekonsa, joten se on alue, johon kannattaa kiinnittää eniten huomiota. 
+Aiheiden asettelu tekee selväksi buddhalaisen asenteen elämään. Loppujen lopuksi ihminen perii vain omat tekonsa<sup>2</sup>, joten se on alue, johon kannattaa kiinnittää eniten huomiota. 
 
 Buddha ei tietenkään keksinyt aiheita tyhjästä. <a href="https://suttacentral.net/mn26/en/sujato">Varhaisista opetuksista käy selväksi</a>, että juuri elämän tosiasioiden pohtiminen sai Buddhan lähtemään hengelliselle polulle. 
 
@@ -78,13 +78,13 @@ Lähemmin tarkasteltuna Buddhan sanat käyvät järkeen. Mitä vähemmän haluaa
 
 Opetuksesta ilmenee myös hyvin Buddhan tinkimättömyys.
 
-Buddhalaisessa ajattelussa ei löydy oikeutusta muiden ihmisten tai eläinten vahingoittamiselle. Ei, vaikka tekojen taustalla vaikuttaisivat yleisesti yhteiskunnassa arvostetut asenteet, kuten isänmaallisuus tai perherakkaus.
+Buddhalaisessa ajattelussa ei löydy oikeutusta muiden ihmisten tai eläinten vahingoittamiselle.<sup>3</sup> Ei, vaikka tekojen taustalla vaikuttaisivat yleisesti yhteiskunnassa arvostetut asenteet, kuten isänmaallisuus tai perherakkaus.
 
-Omista teoista on väistämättä kannettava vastuu, eikä epäviisasta toimintaa voi oikeuttaa ulkoisilla tekijöillä.
+Omista teoista on väistämättä kannettava vastuu, eikä epäviisasta toimintaa voi oikeuttaa ulkoisilla tekijöillä<sup>4</sup>.
 
 Samaan aikaan on kuitenkin muistettava, että Buddha ei vaatinut ihmisiltä täydellistä moraalista puhtautta. 
 
-Ihmiset tekevät virheitä, eikä tarkoitus ole valaistua kertaheitolla. Tärkeintä on pistää Buddhan opetukset käytäntöön ja katsoa, miten ne vaikuttavat omassa elämässä. 
+Ihmiset tekevät virheitä, eikä tarkoitus ole valaistua kertaheitolla<sup>5</sup>. Tärkeintä on pistää Buddhan opetukset käytäntöön ja katsoa, miten ne vaikuttavat omassa elämässä. 
 
 Jos oma käytös ja asenne muuttuu parempaan suuntaan, ollaan oikealla polulla.
 
@@ -105,6 +105,12 @@ Tässä vaiheessa aiheiden todellinen syvyys alkaa paljastua.
 
 Buddhan mukaan parhaimmillaan pohdiskelu voi jopa viedä kohti kaikista olemassaolon kahleista luopumista. Yksinkertaisessa opetuksessa piilee siis valtava potentiaali!
 
+<i>Lähteet ja viittaukset:</i>
+1. Tämä julkaisu pohjaa opetukseen <a href="https://suttacentral.net/an5.57/en/sujato">AN 5.57</a>.
+2. <i>Kamma</i>, sankrit: <i>karma</i>. Karma tarkoittaa siis ennen kaikkea toimintaa ja sen seurauuksia, ei mystistä voimaa, joka ohjaisi universumia kaikkitietävän Jumalan tavoin.
+3. Buddhan kuuluisan lausahduksen mukaan jalot olennot suosittelevat ainoastaan vihan tappamista, <a href="https://suttacentral.net/sn1.71/en/sujato">SN 1.71</a>. <i>Dhammapadan</i> kappale nimeltä "<a href="https://suttacentral.net/dhp129-145/en/sujato">Keppi</a>" (vertaa sanontaan "keppi ja porkkana") käsittelee liikuttavasti väkivallattomuutta.
+4. <i>Suttissa</i> <a href="https://suttacentral.net/an1.71-81/en/sujato">AN 1.76–81</a> Buddha muun muassa toteaa, että perheen, maineen ja sukulaisten menettäminen on pikkujuttu viisauden menettämiseen verrattuna. Vastaavasti viisauden saavuttaminen päihittää maallisen menestyksen.
+5. Buddhan harjoituksessa virheiden myöntäminen ja niistä oppiminen on osa henkistä kasvua, <a href="https://suttacentral.net/an3.91/en/sujato">AN 3.91</a>. Harjoituksen eteneminen hiljalleen ilman äkillisyyttä kuvataan muun muassa Buddhan valtamerivertauksessa, <a href="https://suttacentral.net/an8.19/en/sujato">AN 8.19</a>.
  
 
 

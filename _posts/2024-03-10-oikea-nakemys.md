@@ -1,5 +1,5 @@
 ---
-layout: "categories"
+layout: "posts"
 title: "Oikea näkemys vie kohti vapautta"
 excerpt: "<h3>Viisaat oletukset ovat osa buddhalaista polkua.</h3>"
 date: 2024-03-10 12:00:00 +0200
@@ -97,10 +97,10 @@ Hyödylliset oletukset varmistuvat pysyväksi ymmärrykseksi, kun harjoittaja n�
 
 Tämä tarkoittaa neljän jalon totuuden näkemistä, jotka ovat:
 
-<b>1. Jalo totuus kärsimyksestä. (dukkha) </b><br>
-<b>2. Jalo totuus kärsimyksen synnystä. (dukkhasamudaya)</b><br>
-<b>3. Jalo totuus kärsimyksen lakkaamisesta. (dukkhanirodha)</b><br>
-<b>4. Jalo totuus harjoituksesta, joka johtaa kärsimyksen lakkaamiseen. (dukkhanirodhagāminī paṭipadā) (</b><br>
+<b>1. Jalo totuus kärsimyksestä. (<i>dukkha</i>) </b><br>
+<b>2. Jalo totuus kärsimyksen synnystä. (<i>dukkhasamudaya</i>)</b><br>
+<b>3. Jalo totuus kärsimyksen lakkaamisesta. (<i>dukkhanirodha</i>)</b><br>
+<b>4. Jalo totuus harjoituksesta, joka johtaa kärsimyksen lakkaamiseen. (<i>dukkhanirodhagāminī paṭipadā</i>) </b><br>
 
 Kaikki Buddhan opetukset kuuluvat neljän jalon totuuden sateenvarjon alle<sup>8</sup>.
 
@@ -135,11 +135,11 @@ On siis hyvä olla nöyrä, luottaa Buddhaan, pistää opetukset käytäntöön 
 
 Pikkuhiljaa järkevät oletukset voivat vahvistua varmistetuksi näkemykseksi.
 
-<i>Lähteet:</i>
+<i>Lähteet ja viittaukset:</i>
 
 1. Alustava oikea näkemys tunnetaan <i>Theravāda</i>-perinteessä nimellä maallinen oikea näkemys. Bhante Sujaton englanninkielisessä käännöksessä <i>suttasta</i> <a href= "https://suttacentral.net/mn117/en/sujato">MN 117</a> se kuvaillaan seuraavasti: <i>"There is right view that is accompanied by defilements, has the attributes of good deeds, and ripens in attachment."</i>
 
-2. <a href="https://suttacentral.net/an3.45/en/sujato>AN 3.45</a>
+2. <a href="https://suttacentral.net/an3.45/en/sujato">AN 3.45</a>
 
 3. <i>Suttassa</i> <a href="https://suttacentral.net/mn60/en/sujato">MN60</a> Buddha esittää argumentit jälleensyntymän hyväksymisen puolesta.
 
@@ -153,9 +153,9 @@ Pikkuhiljaa järkevät oletukset voivat vahvistua varmistetuksi näkemykseksi.
 
 8. Kuuluisan vertauksen neljästä jalosta totuudesta elefantin jalanjälkenä esittää Buddhan viisain oppilas Sāriputta opetuksessa <a href="https://suttacentral.net/mn28/en/sujato">MN28</a>.
 
-9. Muun muassa <i>suttassa</i> <a href="https://suttacentral.net/an3.33/en/sujato">AN3.33</a> Buddha harmittelee Sāriputtalle, että on vaikea löytää ketään, joka ymmärtää hänen opetuksiaan. Opetuksien syvällisyys sai Buddhan myös lähes pidättäytymään opettamisesta, <a href="https://suttacentral.net/mn26/en/sujato?lang=en">MN 36</a>.
+9. Muun muassa <i>suttassa</i> <a href="https://suttacentral.net/an3.33/en/sujato">AN3.33</a> Buddha harmittelee Sāriputtalle, että on vaikea löytää ketään, joka ymmärtää hänen opetuksiaan. Heräämiskokemuksen syvällisyys sai Buddhan myös lähes pidättäytymään opettamisesta, <a href="https://suttacentral.net/mn26/en/sujato?lang=en">MN 36</a>.
 
-10. Buddhan <a href="https://suttacentral.net/an11.2/en/sujato">klassinen kuvaus</a> meditoinnin etenemisestä osoittaa, että syvä meditaatio (<i>samādhi</i>) on välttämätön ehto asioiden näkemiselle sellaisena kuin ne ovat.
+10. Onnen ja rauhan seurauksena tapahtuva syvä meditaatio (<i>samādhi</i>) on välttämätön ehto asioiden näkemiselle sellaisena kuin ne ovat, mm. <a href="https://suttacentral.net/an11.2/en/sujato">mm. AN 11.2</a> ja <a href="https://suttacentral.net/sn12.23/en/sujato">SN 12.23</a>.
 
 11. Buddhan mukaan virtaan astuneella on edessään enintään seitsemän elämää, mm. <a href="https://suttacentral.net/sn13.1/en/sujato?lang=en">SN 13.1</a>.
 

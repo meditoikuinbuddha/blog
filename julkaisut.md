@@ -4,8 +4,8 @@ title: Julkaisut
 permalink: julkaisut
 
 header:
-  overlay_image: assets/images/kansijulkaisut3.jpg
-  caption:
+  overlay_image: assets/images/kansijulkaisut4.jpg
+  caption: Kuva:[**Tapio Haaja**]
 
 feature_row:
   - image_path: /assets/images/makaavabuddha.jpg

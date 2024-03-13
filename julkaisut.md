@@ -4,8 +4,8 @@ title: Julkaisut
 permalink: julkaisut
 
 header:
-  overlay_image: assets/images/kansijulkaisut.jpg
-  caption: # Kuva:[**Narahari K R**]
+  overlay_image: assets/images/nitish-meena-vuori2.jpg
+  caption: # Kuva:[**Nitish Meena**]
 
 feature_row:
   - image_path: /assets/images/makaavabuddha.jpg

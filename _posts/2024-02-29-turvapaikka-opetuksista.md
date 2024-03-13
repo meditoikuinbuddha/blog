@@ -179,7 +179,7 @@ Kaikki kolme jalokiveä osoittavat siis yhteen ja samaan paikkaan: <i>suttiin</i
 
 <i>Tämä teksti on käännöskatkelma Ajahn Brahmalin puheesta, jonka voi kuunnella kokonaisuudessaan <a href="https://www.youtube.com/watch?v=FRNaPhBdxXg&t=2246s">täältä.</a></i>
 
-Lähteet:
+<i>Kääntäjän lisäämät viittaukset:</i>
 1. Buddhan opetuksien aitoutta käsittelee muun muassa <a href="https://ocbs.org/wp-content/uploads/2015/09/authenticity.pdf">Brahmali ja Sujato</a> (2014)
 2. <i>Suttassa</i> <a href="https://suttacentral.net/mn139/en/sujato">MN 139</a> Buddha kannustaa keskustelemaan paikallisin termein.
 3. Katso esimerkiksi sivuston <a href="https://meditoikuinbuddha.fi/linkit">Linkit</a>-osio.

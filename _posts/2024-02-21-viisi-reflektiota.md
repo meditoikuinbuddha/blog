@@ -105,7 +105,7 @@ Tässä vaiheessa aiheiden todellinen syvyys alkaa paljastua.
 
 Buddhan mukaan parhaimmillaan pohdiskelu voi jopa viedä kohti kaikista olemassaolon kahleista luopumista. Yksinkertaisessa opetuksessa piilee siis valtava potentiaali!
 
-<i>Lähteet:</i>
+<i>Lähteet ja viittaukset:</i>
 1. Tämä julkaisu pohjaa opetukseen <a href="https://suttacentral.net/an5.57/en/sujato">AN 5.57</a>.
 2. <i>Kamma</i>, sankrit: <i>karma</i>. Karma tarkoittaa siis ennen kaikkea toimintaa, ei mystistä voimaa, joka ohjaa universumia kaikkitietävän Jumalan tavoin.
 3. Buddhan kuuluisan lausahduksen mukaan jalot olennot neuvovat tappamaan vain yhden asian: vihan. <a href="https://suttacentral.net/sn1.71/en/sujato">SN 1.71</a>. <i>Dhammapadan</i> kappale nimeltä "<a href="https://suttacentral.net/dhp129-145/en/sujato">Keppi</a>" (vertaa sanontaan "keppi ja porkkana") käsittelee liikuttavasti väkivallattomuutta.

@@ -4,8 +4,8 @@ title: Julkaisut
 permalink: julkaisut
 
 header:
-  overlay_image: assets/images/nitish-meena-vuori2.jpg
-  caption: "Kuva: [**Nitish Meena**]"
+  overlay_image: assets/images/kansijulkaisut.jpg
+  caption: 
 
 feature_row:
   - image_path: /assets/images/makaavabuddha.jpg

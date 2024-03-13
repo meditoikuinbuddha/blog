@@ -70,7 +70,7 @@ opetukset eettisyydestä, rauhasta ja viisaudesta. Näistä opetuksista tunnetui
 löytyvät neljästä kirjasta, joita kutsutaan nimellä <i>nikāyat</i>.
 
 2500 vuotta vanhat opetukset olivat alusta alkaen vapaita ajan ja paikan
-rajoitteista. Buddhan opetukset sopivat jokaiselle, jolla on mieli ja sydän.
+rajoitteista. Buddhan opetukset sopivat jokaiselle, jolla on mieli ja sydän<sup>10</sup>.
 
 <figure>
 <img src="https://suttacentral.net/img/home-page/editions2.avif" alt="suttas">
@@ -117,6 +117,7 @@ jossa kaikki opetukset ovat tarjolla ilmaiseksi):
 7. Muinaisessa Intiassa pyhien opetuksien resitoiminen ja mieleenpainaminen oli huippuunsa hiottu taito, jonka Buddha omaksui aikansa muilta hengellisiltä harjoittajilta. Mm. <a href="https://ocbs.org/wp-content/uploads/2015/09/authenticity.pdf">Brahmali ja Sujato</a> (2014, 50)
 8. Pääasiallisena lähteenä tässä osiossa: <a href="https://suttacentral.net/introduction?lang=en">Introduction to SuttaCentral</a>
 9. Toisistaan eriytyneet perinteet ovat säilyttäneet varhaisia opetuksia useiden vuosisatojen ajan eri kielillä. Tässä blogissa huomio keskittyy ensisijaisesti opetuksiin, jotka säilytettiin paalin kielellä.
+10. Buddha totesi kaikenkattavasti, että hänen opetuksensa on tarkoitettu niille, jotka "tuntevat": <a href="https://suttacentral.net/an3.61/en/sujato">AN3.61</a>.
 
 
 Lähteenä käytetty myös S.Dhammikan teosta “<a href="https://budblooms.org/download/footprints-in-the-dust-the-life-of-the-buddha-from-the-most-ancient-sources/>Footprints in the Dust: The Life of the Buddha from the Most Ancient Sources</a>” (2022).

@@ -107,7 +107,7 @@ jossa kaikki opetukset ovat tarjolla ilmaiseksi):
 
 <a href="https://suttacentral.net/pitaka/vinaya?lang=en">Vinaya</a> = <b>Vin.</b>
 
-<i>Lähteet:</i>
+<i>Lähteet ja viittaukset:</i>
 1. <a href="https://suttacentral.net/introduction?lang=en">Introduction to SuttaCentral</a>
 2. <i>Suttassa</i> <a href="https://suttacentral.net/mn4/en/sujato">MN26</a> Buddha muistelee syitä, miksi lähti hengelliselle polulle. 29 vuoden ikä mainitaan <i>suttassa</i> <a href="https://suttacentral.net/dn16/en/sujato>DN16:34</a>.
 3. Kuuden vuoden harjoitus eri opettajineen ja itsekurittamisineen löytyy niin ikään <i>suttasta</i> <a href="https://suttacentral.net/mn4/en/sujato">MN26</a>.

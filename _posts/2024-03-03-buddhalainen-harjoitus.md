@@ -43,13 +43,13 @@ On siis ensiarvoisen tärkeää ymmärtää, miten buddhalainen polku toimii.
 
 Buddhalainen polku vie kohti syvää meditaatiota ja siitä kumpuavaa ymmärrystä, mutta rauhaa ja onnea on tarjolla ensiaskeleista lähtien.
 
-Buddhan sanoin polku on hyvä alussa, keskivaiheilla ja lopussa<sup>4</sup>.
+Buddhan sanoin polku on hyvä alussa, keskivaiheilla ja lopussa<sup>5</sup>.
 
-Buddha itse kuvasi harjoitustaan keskitieksi<sup>5</sup>.
+Buddha itse kuvasi harjoitustaan keskitieksi<sup>6</sup>.
 
 Jaloksi kahdeksanosaiseksi poluksi nimetty keskitie väistää sekä aistillisuuden että itsekurittamisen.
 
-Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavista osista<sup>6</sup>, joita avataan tarkemmin tulevissa julkaisuissa:
+Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavista osista<sup>7</sup>, joita avataan tarkemmin tulevissa julkaisuissa:
 
 
 <b>1. <a href="https://meditoikuinbuddha.fi/oikeanakemys">Oikea näkemys</a> (<i>sammādiṭṭhi</i>)</b><br>
@@ -73,9 +73,10 @@ Neljä syvää meditatiivista tilaa, joita kutsutaan <i>jhānoiksi</i>.<br>
 1. Vaiheittainen harjoitus (<i>anupubba-sikkhā</i>) ja harjoituksen seurauksena syvenevä onni kuvataan useaan otteeseen <i>suttissa</i>, mm. <a href="https://suttacentral.net/dn2/en/sujato?lang=en">DN 2</a> ja <a href="https://suttacentral.net/mn107/en/sujato?lang=en">MN 107</a>. Opetus vaiheittaisesta harjoituksesta on vaihtoehtoinen tapa tarkastella harjoitusta ja jaloa kahdeksanosaista polkua.
 2. Edellä mainitussa vaiheittaisessa harjoittelussa meditointi on vuorossa vasta eettisyyden ja aistien vartioimisen/hillitsemisen (<i>indriyesu guttadvāra</i>) jälkeen. Buddhan mukaan meditointia tulisi harjoittaa vasta käytöksen puhdistamisen jälkeen ja totuudenmukaiseen näkemykseen pohjaten. (Mm. <a href="https://suttacentral.net/sn47.3/en/sujato">SN 47.3</a>).
 3. Kuten <i>suttassa</i> <a href="https://suttacentral.net/mn20/en/sujato?lang=en">MN 20</a> osoitetaan, ajattelutottumukset syntyvät toiston seurauksena. Ajattelun muuttaminen on huolellista ja sitoutumista vaativaa työtä, kuten kyseisen <i>suttan</i> vertaus lehmiä jatkuvasti kaitsevasta paimenesta osoittaa.
-4. "<i>ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā</i>", mm. <a href="https://suttacentral.net/an10.17/en/sujato?lang=en">AN 10.17</a>
-5. <i>Majjhimā paṭipadā,</i> mm. Buddhan ensimmäisessä opetuksessa:<a href="https://suttacentral.net/sn56.11/en/sujato">SN56.11</a>.
-6. Analyysi jalon kahdeksanosaisen polun eri osista: <a href="https://suttacentral.net/sn45.8/en/sujato">SN45.8</a>.
+4. <i>Suttassa</i> <a href="https://suttacentral.net/an9.3/en/sujato">AN 9.3.</a> menee Buddhan varoituksista huolimatta yksin metsään meditoimaan ja palaa häntä koipien välissä takaisin. Buddha muistuttaa häntä muun muassa hengellisten ystävien ja eettisten periaatteiden tärkeydestä henkisellä polulla. Kuuluisassa opetuksessa <a href="https://suttacentral.net/mn4/en/sujato">MN 4</a> Buddha lisäksi toteaa, että vetäytyminen luontoon voi viedä järjen, jos meditoija ei saavuta <i>samādhia</i>.
+5. "<i>ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā</i>", mm. <a href="https://suttacentral.net/an10.17/en/sujato?lang=en">AN 10.17</a>
+7. <i>Majjhimā paṭipadā,</i> mm. Buddhan ensimmäisessä opetuksessa:<a href="https://suttacentral.net/sn56.11/en/sujato">SN56.11</a>.
+8. Analyysi jalon kahdeksanosaisen polun eri osista: <a href="https://suttacentral.net/sn45.8/en/sujato">SN45.8</a>.
    
 <i>Jutussa on käytetty lähteenä myös Bhante Sujaton kirjoitusta <a href="https://suttacentral.net/sn-guide-sujato?lang=en">The Linked Discourses: the blueprint for Buddhist philosophy</a>.</i>
 

@@ -45,7 +45,9 @@ Siihen ei usein törmää!
 
 Sen sijaan ihmisillä on omat perinteensä. Joskus kyseessä on tiibetiläinen perinne, joskus <i>mahāyāna</i>, joskus yksittäinen ryhmä <i>theravādan</i> sisällä. Mutta äärimmäisen harvoin seurataan Buddhan omia opetuksia. 
 
-Perinteissä on tietenkin paljon hyvää. Usein on kuitenkin lähes mahdotonta tietää, kuinka tarkasti eri perinteet välittävät Buddhan opetuksia. Asiasta voi saada varmuuden vain tutustumalla Buddhan opetuksiin, eli alkuperäisiin <i>suttiin</i>.
+Perinteissä on tietenkin paljon hyvää. 
+
+Usein on kuitenkin lähes mahdotonta tietää, kuinka tarkasti eri perinteet välittävät Buddhan opetuksia. Asiasta voi saada varmuuden vain tutustumalla Buddhan opetuksiin, eli alkuperäisiin <i>suttiin</i>.
 
 <h2>Opetukset ovat vihdoin saatavilla</h2>
 

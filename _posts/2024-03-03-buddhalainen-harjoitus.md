@@ -24,13 +24,13 @@ author: "Meditoi kuin Buddha"
 
 Buddhan varhaisissa opetuksissa henkinen harjoitus etenee vaiheittain ja suunnitelmallisesti. 
 
-Opetuksien ytimessä on pitkäjänteinen mielen sekä käytöksen harjoittaminen, joka johtaa askel askeleelta kohti syvempää rauhaa ja onnea <sup>1</sup>.
+Opetuksien ytimessä on pitkäjänteinen mielen sekä käytöksen harjoittaminen, joka johtaa askel askeleelta kohti syvempää rauhaa ja onnea<sup>1</sup>.
 
 Iso osa buddhalaisesta harjoituksesta tapahtuu siis <i>ennen meditointia</i><sup>2</sup>. 
 
-Eettiset periaatteet, ystävällisyyteen sitoutuminen ja oman ajattelun työstäminen <sup>3</sup> luovat perustan meditoinnille. Näin ollen buddhalainen harjoitus sopii kaikille, ei vain himomeditoijille.
+Eettiset periaatteet, ystävällisyyteen sitoutuminen ja oman ajattelun työstäminen<sup>3</sup> luovat perustan meditoinnille. Näin ollen buddhalainen harjoitus sopii kaikille, ei vain himomeditoijille.
 
-Jos mieli ei ole valmis meditoimaan, liiallinen meditointityynyllä istuminen voi olla jopa haitallista <sup>4</sup>. 
+Jos mieli ei ole valmis meditoimaan, liiallinen meditointityynyllä istuminen voi olla jopa haitallista<sup>4</sup>. 
 
 On siis ensiarvoisen tärkeää ymmärtää, miten buddhalainen polku toimii.
 
@@ -43,13 +43,13 @@ On siis ensiarvoisen tärkeää ymmärtää, miten buddhalainen polku toimii.
 
 Buddhalainen polku vie kohti syvää meditaatiota ja siitä kumpuavaa ymmärrystä, mutta rauhaa ja onnea on tarjolla ensiaskeleista lähtien.
 
-Buddhan sanoin polku on hyvä alussa, keskivaiheilla ja lopussa <sup>4</sup>.
+Buddhan sanoin polku on hyvä alussa, keskivaiheilla ja lopussa<sup>4</sup>.
 
-Buddha itse kuvasi harjoitustaan keskitieksi. <sup>5</sup>.
+Buddha itse kuvasi harjoitustaan keskitieksi<sup>5</sup>.
 
 Jaloksi kahdeksanosaiseksi poluksi nimetty keskitie väistää sekä aistillisuuden että itsekurittamisen.
 
-Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavista osista <sup>6</sup>, joita avataan tarkemmin tulevissa julkaisuissa:
+Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavista osista<sup>6</sup>, joita avataan tarkemmin tulevissa julkaisuissa:
 
 
 <b>1. <a href="https://meditoikuinbuddha.fi/oikeanakemys">Oikea näkemys</a> (<i>sammādiṭṭhi</i>)</b><br>

@@ -109,7 +109,7 @@ jossa kaikki opetukset ovat tarjolla ilmaiseksi):
 
 <i>Lähteet ja viittaukset:</i>
 1. <a href="https://suttacentral.net/introduction?lang=en">Introduction to SuttaCentral</a>
-2. <i>Suttassa</i> <a href="https://suttacentral.net/mn4/en/sujato">MN26</a> Buddha muistelee syitä, miksi lähti hengelliselle polulle. 29 vuoden ikä mainitaan <i>suttassa</i> <a href="https://suttacentral.net/dn16/en/sujato>DN16:34</a>.
+2. <i>Suttassa</i> <a href="https://suttacentral.net/mn4/en/sujato">MN26</a> Buddha muistelee syitä, miksi lähti hengelliselle polulle. 29 vuoden ikä mainitaan <i>suttassa</i> <a href="https://suttacentral.net/dn16/en/sujato">DN16:34</a>.
 3. Kuuden vuoden harjoitus eri opettajineen ja itsekurittamisineen löytyy niin ikään <i>suttasta</i> <a href="https://suttacentral.net/mn4/en/sujato">MN26</a>.
 4. Muun muassa <a href="https://suttacentral.net/mn19/en/sujato">MN19</a> antaa yhden näkökulman harjoitukseen, joka johti Buddhan heräämiseen.
 5. Heräämistä kuvattaessa toistetaan <i>suttissa</i> usein perusfraasi, joka alkaa lausahduksella: "Jälleensyntymä on loppunut (<i>khīṇā jāti</i>)".

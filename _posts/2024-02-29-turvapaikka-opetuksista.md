@@ -22,7 +22,7 @@ author: Ajahn Brahmali
 
 <center><i>"Ole oma saaresi ja turvapaikkasi, vailla muita turvapaikkoja. Anna opetuksien olla saaresi ja turvapaikkasi, vailla muita turvapaikkoja."</i> - Buddha, <a href="https://suttacentral.net/sn47.13/en/sujato?lang=en">SN 47.13</a></center>
 
-<a href="https://meditoikuinbuddha.github.fi/kukabuddhaoli">Buddhan opetuksien</a> säilyminen lähes sellaisenaan 2500 vuoden ajan on historiallinen ihme. 
+<a href="https://meditoikuinbuddha.github.fi/kukabuddhaoli">Buddhan opetuksien</a> säilyminen lähes sellaisenaan<sup>1</sup> 2500 vuoden ajan on historiallinen ihme. 
 
 Mutta mitä tarjottavaa muinaisilla opetuksilla on? Mikä on Buddhan opetuksien rooli buddhalaisessa harjoituksessa?
 
@@ -64,7 +64,7 @@ Yli 2000 vuoden ajan <i>suttat</i> olivat siis pienen elitistisen ryhmän hallus
 
 Alkuperäiskieliä osaamattomien oli turvauduttava ulkopuolisiin asiantuntijoihin, sillä muuten ei ollut mitään mahdollisuutta tutustua Buddhan opetuksiin.
 
-Buddha kuitenkin halusi, että hänen opetuksiaan opetettaisiin paikallisilla kielillä. 
+Buddha kuitenkin halusi, että hänen opetuksiaan opetettaisiin paikallisilla kielillä<sup>2</sup>. 
 
 Kun <i>Dhamma</i> siis vyöryy Australiaan, sitä opetetaan englanniksi. Thaimaassa opetukset käännetään thain kielelle ja Suomessa opetuksia tulisi opettaa suomeksi.
 
@@ -74,14 +74,12 @@ Joskus jopa käännökset ovat liian vaikeaselkoisia.
 
 Esimerkiksi ensimmäisissä englanninkielisissä käännöksissä oli vahva viktoriaaninen kaiku. Ne olivat lähempänä Shakespearea kuin nykyenglantia. Tämä on valitettavaa, koska Buddha ei opettanut niin. Hän opetti muinaisen Intian aikalaisilleen heidän ymmärtämällään kielellä.
 
-Onneksi nykyään on tarjolla hyviä, luotettavia ja helppolukuisia englanninkielisiä käännöksiä*. 
+Onneksi nykyään on tarjolla hyviä, luotettavia ja helppolukuisia englanninkielisiä käännöksiä<sup>3</sup>. 
 
 <figure>
 <img src="https://suttacentral.net/img/home-page/editions2.avif" alt="suttas">
 <figcaption> Kuva: Suttacentral.net</figcaption>
 </figure>
-
-<i>*toim. huom. käännöksiä löytyy myös muilla kielillä. <a href="https://suttacentral.net/?lang=en">Suttacentral.net</a>-sivustolta löytyy myös suomenkielisiä käännöksiä Buddhan opetuksista.</i>
 
 <h2>Opettajien seuraaminen voi olla ongelmallista</h2> 
 
@@ -100,7 +98,7 @@ Yksittäisiin opettajiin luottaminen voi kuitenkin olla myös vaarallista. Jotku
 
 Monet opettajat vetävät ihmisiä magneetin lailla puoleensa. 
 
-Ulkoisesti karismaattiset opettajat eivät kuitenkaan aina ole sisimmissään kovin vakaita.
+Ulkoisesti karismaattiset opettajat eivät kuitenkaan aina ole sisimmissään kovin vakaita<sup>4</sup>.
 
 Munkkien tai nunnien tapauksessa saattaa paljastua kaikenlaista sekoilua salasuhteista pröystäilevään luksuselämään. 
 
@@ -114,9 +112,9 @@ Aina opettajat eivät tietenkään käyttäydy täysin holtittomasti, vaan opetu
 
 Silloin ihmiset jäävät paitsi syvistä onnen ja rauhan kokemuksista, joiden Buddha kertoi olevan saatavilla. Opetukset eivät vie maaliin asti.
 
-Joskus onkin todella vaikea sanoa, opettaako joku oikeaa polkua. 
+Joskus onkin todella vaikea sanoa, opettaako joku oikeaa polkua<sup>5</sup>. 
 
-Vain palaamalla Buddhan opetuksiin voi tietää, mikä tie vie oikeaan paikkaan. Buddhan opetukset ovat peruskivi, johon voi aina nojata.
+Vain palaamalla Buddhan opetuksiin voi tietää<sup>6</sup>, mikä tie vie oikeaan paikkaan. Buddhan opetukset ovat peruskivi, johon voi aina nojata.
 
 
 <h2>Mistä löytyy aito turvapaikka?</h2>
@@ -130,7 +128,7 @@ Buddha ei ikinä käskenyt hakemaan turvapaikkaa yksilöistä tai luottamaan sok
 
 Koko ajatus yksilöön luottamisesta on ristiriidassa turvautumisen käsitteen kanssa. 
 
-Buddhalaisuudessa turvaa haetaan niin kutsutusta kolmesta jalokivestä: <i>Buddhasta</i>, Buddhan opetuksista (<i>Dhamma</i>), ja buddhalaisesta luostariyhteisöstä (<i>Saṅgha</i>). 
+Buddhalaisuudessa turvaa haetaan niin kutsutusta kolmesta jalokivestä: <i>Buddhasta</i>, Buddhan opetuksista (<i>Dhamma</i>), ja buddhalaisesta luostariyhteisöstä (<i>Saṅgha</i>)<sup>7</sup>. 
 
 <i>Buddha</i>, <i>Dhamma</i> ja <i>Saṅgha</i> ovat aidot turvapaikat.
 
@@ -152,7 +150,7 @@ Kaksi ensimmäistä turvapaikkaa löytyvät siis varhaisista opetuksista.
 
 Jäljelle jää vielä kolmas turvapaikka: <i>Saṅgha</i>. 
 
-Yleensä <i>Sanghalla</i> tarkoitetaan luostarijärjestelmää, eli munkkeja ja nunnia. Turvapaikka löytyy tästä yhteistöstä, joka säilyttää ja pitää huolta Buddhan opetuksista. 
+Yleensä <i>Sanghalla</i> tarkoitetaan luostarijärjestelmää<sup>8</sup>, eli munkkeja ja nunnia. Turvapaikka löytyy tästä yhteistöstä, joka säilyttää ja pitää huolta Buddhan opetuksista. 
 
 Sairauden sattuessa ihmiset hakevat apua lääkäriltä, eivät putkimieheltä. Samoin hengellisten ongelmien kohdalla haetaan apua luostariyhteisöltä, <i>Saṅghalta</i>. 
 
@@ -160,7 +158,7 @@ Sairauden sattuessa ihmiset hakevat apua lääkäriltä, eivät putkimieheltä. 
 
 Luostareista on myös mahdollista löytää harjoittajia, jotka kuuluvat jaloon yhteisöön (paaliksi <i>ariya saṅgha</i>).
 
-Jalot henkilöt (<i>ariyasāvaka</i>) ovat itse harjoittaneet Buddhan opetuksia ja ymmärtäneet, mistä niissä on oikeasti kyse. 
+Jalot henkilöt<sup>10</sup> (<i>ariyasāvaka</i>) ovat itse harjoittaneet Buddhan opetuksia ja ymmärtäneet, mistä niissä on oikeasti kyse. 
 
 <figure>
 <img src="assets/images/nitish-meena-vuori.jpg" alt="vuori">
@@ -178,3 +176,15 @@ Kaikki kolme jalokiveä osoittavat siis yhteen ja samaan paikkaan: <i>suttiin</i
 <i>Kirjoittaja on kokenut norjalainen buddhalaismunkki. Hän on tunnettu sutta-keskeisistä retriiteistään ja <a href="https://suttacentral.net/edition/pli-tv-vi/en/brahmali?lang=en">käännöstyöstään</a> luostarisääntökokoelma Vinayan parissa.</i>
 
 <i>Tämä teksti on käännöskatkelma Ajahn Brahmalin puheesta, jonka voi kuunnella kokonaisuudessaan <a href="https://www.youtube.com/watch?v=FRNaPhBdxXg&t=2246s">täältä.</a></i>
+
+Lähteet:
+1. Buddhan opetuksien aitoutta käsittelee muun muassa <a href="https://ocbs.org/wp-content/uploads/2015/09/authenticity.pdf">Brahmali ja Sujato</a> (2014)
+2.  Suttassa <a href="https://suttacentral.net/mn139/en/sujato">MN 139</a> Buddha kannustaa keskustelemaan paikallisin termein.
+3. Katso esimerkiksi sivuston <a href="https://meditoikuinbuddha.fi/linkit>Linkit</a>-osio.
+4. <i>Suttassa</i> <a href="https://suttacentral.net/sn3.11/en/sujato>SN 3.11</a> vaikuttavat hengelliset harjoittajat osoittautuvat kuningaan vakoojiksi! Buddhan mukaan ihmisen todellisen luonteen voi oppia tuntemaan vain pitkän ajan kuluessa. Hän vertaa karismaattisia helppoheikkejä ulkokullattuun kuparipenniin.
+5. Buddha muun muassa varoittaa luottamasta liikaa kokeneisiin, suosittuihin ja <i>suttansa</i> osaaviin opettajiin, sillä jopa he voivat ohjata muita harhaan, mm. <a href="https://suttacentral.net/an5.88/en/sujato">AN 5.88</a>.
+6. Buddhan mukaan kaikkia opetuksia tulisi verrata huolellisesti Buddhan omiin opetuksiin, <a href="https://suttacentral.net/an4.180/en/sujato>AN 4.180</a>.
+7. Turvapaikat kuvataan muun muassa suttassa <a href="https://suttacentral.net/an6.10/en/sujato>AN 6.10</a>, jossa turvapaikkojen pohdiskelun osoitetaan toimivan myös hyvänä perustana meditoinnille.
+8. Nykyään Saṅghalla viitataan usein mihin tahansa harjoittajayhteisöihin. Buddhan opetuksissa termi viittaa kuitenkin joko luostariyhteisöön tai heränneisiin harjoittajiin.
+9. Buddha vertaa luostariyhteisöä mm. hyväksi pelloksi, johon kannattaa istuttaa siemeniä: <a href="https://suttacentral.net/sn42.7/en/sujato">SN 42.7</a>. Buddhan mukaan Saṅghalle annetuista lahjoituksista koituu parempi karma kuin yksilöille tehdyistä lahjoituksista, <a href="https://suttacentral.net/mn142/en/sujato">MN 142</a>
+10. Klassisen jaottelun mukaan jalo yhteisö koostuu kahdeksanlaisista henkilöistä, eli neljästä eri tason valaistuneesta ja niistä, jotka ovat matkalla kohti eri tason valaistumisia.

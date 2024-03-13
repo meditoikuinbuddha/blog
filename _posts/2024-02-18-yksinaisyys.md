@@ -51,7 +51,7 @@ Itsensä hyväksyminen parantaa haavat ja antaa mahdollisuuden hyväksyä kenet 
 
 <i>Kirjoittaja on Bodhinyana-luostarin johtaja ja tunnettu meditointimestari. Teksti on käännösote puheesta, jonka voit kuunnella kokonaisuudessaan <a href="https://www.youtube.com/watch?v=jniaUr_7438&t=2105s">täältä.</a> </i>
 
-<i>Lähteet:</i>
+<i>Kääntäjän lisäämät viittaukset:</i>
 1. <i>Suttissa</i> mainitaan muun muassa, että eettinen ja viisaasti käyttäytyvä ihminen rakastaa itseään, <a href="https://suttacentral.net/sn3.4/en/sujato">SN 3.4</a>. Buddhan mukaan ihmisen oma asenne tuo jopa enemmän onnea kuin avuliaat sukulaiset tai läheiset, <a href="https://suttacentral.net/dhp33-43/en/sujato">Dhp.43</a>.
 2. Ajahn Brahm asuu oppilaidensa rakentamassa vaatimattomassa luolassa.
 3. Aivan kuten ihminen voi olla paras ystävänsä, voi hän olla myös pahin vihollisensa, katso SN 3.4 yllä sekä <a href="https://suttacentral.net/dhp33-43/en/sujato">Dhp.42</a>.

@@ -119,5 +119,4 @@ jossa kaikki opetukset ovat tarjolla ilmaiseksi):
 9. Toisistaan eriytyneet perinteet ovat säilyttäneet varhaisia opetuksia useiden vuosisatojen ajan eri kielillä. Tässä blogissa huomio keskittyy ensisijaisesti opetuksiin, jotka säilytettiin paalin kielellä.
 10. Buddha totesi kaikenkattavasti, että hänen opetuksensa on tarkoitettu niille, jotka "tuntevat": <a href="https://suttacentral.net/an3.61/en/sujato">AN3.61</a>.
 
-
-Lähteenä käytetty myös S.Dhammikan teosta “<a href="https://budblooms.org/download/footprints-in-the-dust-the-life-of-the-buddha-from-the-most-ancient-sources/>Footprints in the Dust: The Life of the Buddha from the Most Ancient Sources</a>” (2022).
+Lähteenä käytetty myös Bhante S.Dhammikan teosta “<a href="https://budblooms.org/download/footprints-in-the-dust-the-life-of-the-buddha-from-the-most-ancient-sources/>Footprints in the Dust: The Life of the Buddha from the Most Ancient Sources</a>” (2022).

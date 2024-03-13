@@ -185,7 +185,7 @@ Lähteet:
 3. Katso esimerkiksi sivuston <a href="https://meditoikuinbuddha.fi/linkit">Linkit</a>-osio.
 4. <i>Suttassa</i> <a href="https://suttacentral.net/sn3.11/en/sujato">SN 3.11</a> vaikuttavat hengelliset harjoittajat osoittautuvat kuningaan vakoojiksi! Buddhan mukaan ihmisen todellisen luonteen voi oppia tuntemaan vain pitkän ajan kuluessa ja omia hoksottimia käyttämällä. Hän vertaa karismaattisia helppoheikkejä ulkokullattuun kuparipenniin.
 5. Buddha varoittaa luottamasta liikaa kokeneisiin, suosittuihin ja <i>suttansa</i> osaaviin opettajiin, sillä jopa he voivat ohjata muita harhaan, mm. <a href="https://suttacentral.net/an5.88/en/sujato">AN 5.88</a>.
-6. Buddhan mukaan kaikkia opetuksia tulisi verrata huolellisesti hänen omiin opetuksiinsa, <a href="https://suttacentral.net/an4.180/en/sujato">AN 4.180</a>.
+6. Buddhan mukaan kaikkia opetuksia tulisi verrata huolellisesti hänen omiin opetuksiinsa. <i>Suttassa</i> <a href="https://suttacentral.net/an4.180/en/sujato">AN 4.180</a> neuvotaan miten.
 7. Turvapaikat kuvataan muun muassa suttassa <a href="https://suttacentral.net/an6.10/en/sujato">AN 6.10</a>, jossa turvapaikkojen pohdiskelun osoitetaan toimivan myös hyvänä perustana meditoinnille.
 8. Nykyään Saṅghalla viitataan usein mihin tahansa harjoittajayhteisöihin. Buddhan opetuksissa termi viittaa kuitenkin joko luostariyhteisöön tai heränneisiin harjoittajiin.
 9. Buddha vertaa luostariyhteisöä mm. hyväksi pelloksi, johon kannattaa istuttaa siemeniä: <a href="https://suttacentral.net/sn42.7/en/sujato">SN 42.7</a>. Buddhan mukaan Saṅghalle annetuista lahjoituksista koituu parempi karma kuin yksilöille tehdyistä lahjoituksista, <a href="https://suttacentral.net/mn142/en/sujato">MN 142</a>

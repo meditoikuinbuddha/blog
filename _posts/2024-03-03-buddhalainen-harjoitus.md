@@ -69,7 +69,7 @@ Neljä meditoinnin kohdetta.<br>
 <b>8. Oikea rauha (<i>sammāsamādhi</i>)</b><br>
 Neljä syvää meditatiivista tilaa, joita kutsutaan <i>jhānoiksi</i>.<br>
 
-<i><h2>Lähteet:</h2></i>
+<i>Lähteet:</i>
 1. Vaiheittainen harjoitus (<i>anupubba-sikkhā</i>) ja harjoituksen seurauksena syvenevä onni kuvataan useaan otteeseen <i>suttissa</i>, mm. <a href="https://suttacentral.net/dn2/en/sujato?lang=en">DN 2</a> ja <a href="https://suttacentral.net/mn107/en/sujato?lang=en">MN 107</a>. Opetus vaiheittaisesta harjoituksesta on vaihtoehtoinen tapa tarkastella harjoitusta ja jaloa kahdeksanosaista polkua.
 2. Edellä mainitussa vaiheittaisessa harjoittelussa meditointi on vuorossa vasta eettisyyden ja aistien vartioimisen/hillitsemisen (<i>indriyesu guttadvāra</i>) jälkeen. Buddhan mukaan meditointia tulisi harjoittaa vasta käytöksen puhdistamisen jälkeen ja totuudenmukaiseen näkemykseen pohjaten. (Mm. <a href="https://suttacentral.net/sn47.3/en/sujato">SN 47.3</a>).
 3. Kuten <i>suttassa</i> <a href="https://suttacentral.net/mn20/en/sujato?lang=en">MN 20</a> osoitetaan, ajattelutottumukset syntyvät toiston seurauksena. Ajattelun muuttaminen on huolellisuutta ja sitoutumista vaativaa työtä, kuten kyseisen <i>suttan</i> vertaus lehmiä jatkuvasti kaitsevasta paimenesta osoittaa.

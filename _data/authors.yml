@@ -39,3 +39,15 @@ Ajahn Brahmali:
       icon: ""
       url: "https://bswa.org/teachers/ajahn-brahmali/"
 
+Ven. Canda:
+  name        : "Ven. Canda"
+  bio         : "Buddhalainen opettaja ja luostariprojektin vetäjä."
+  avatar      : "/assets/images/avatarcanda.png"
+  location    : Englanti
+  links:
+    - label: "Anukampa Bhikkhuni Project"
+      icon: ""
+      url: "https://anukampaproject.org/"
+    - label: "Info"
+      icon: ""
+      url: "https://anukampaproject.org/about/#director"

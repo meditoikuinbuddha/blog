@@ -27,6 +27,8 @@ Sivustolla ääneen pääsevät myös <a href="https://meditoikuinbuddha.fi/cate
 
 Sivusto on täysin ilmainen ja vapaa mainoksista.
 
+<a href="https://www.vecteezy.com/free-vector/lotus">Lotus Vectors by Vecteezy</a>
+
 <hr>
 
 <a href="https://dnbf.org/en">

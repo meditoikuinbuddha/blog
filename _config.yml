@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-logo: "/assets/images/logo5.jpeg"
+logo: "/assets/images/uusilogo.png"
 title: "Meditoi kuin Buddha"
 subtitle: "Buddhan jäljillä."
 email: meditoikuinbuddha@gmail.com

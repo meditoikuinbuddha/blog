@@ -1,6 +1,6 @@
 ---
 layout: "posts"
-title: "Tule mukaan retriitille!"
+title: "Tule mukaan kevään retriitille!"
 excerpt: "<h3>Opi meditoimaan kuin Buddha.</h3>"
 date: 2024-02-20 18:00:00 +0200
 author: "admin"

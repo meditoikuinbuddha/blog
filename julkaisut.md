@@ -18,7 +18,7 @@ feature_row type:center:
     title: <a href="/categories/lukuhetki/">Lukuhetki</a>
     excerpt: "Tutkimusmatka Buddhan opetuksiin."
   - image_path: /assets/images/colton-sturgeon-6KkYYqTEDwQ-unsplash.jpg
-    title: <a href="/categories/lukuhetki/">Ajankohtaista</a>
+    title: <a href="/categories/ajankohtaista/">Ajankohtaista</a>
     excerpt: "Kuulumisia ja tapahtumatiedotteita."
 
 ---

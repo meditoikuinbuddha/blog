@@ -23,7 +23,7 @@ Kaikki haluavat meditoida, mutta miten se oikein tapahtuu?
 
 Buddhalaisessa harjoituksessa teoria ja käytäntö lyövät kättä. Tällä sivustolla tutkitaan <a href="https://meditoikuinbuddha.fi/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a> ystävällisyydestä, rauhasta ja viisaudesta. Päämääränä on oppia meditoimaan kuin Buddha.
 
-Sivustolla ääneen pääsevät myös <a href="https://meditoikuinbuddha.fi/categories/puheenvuoro">kokeneet buddhalaiset opettajat</a>. 
+Sivustolla ääneen pääsevät myös <a href="https://meditoikuinbuddha.fi/categories/puheenvuoro">kokeneet buddhalaiset opettajat</a>, minkä lisäksi kerromme <a href="https://meditoikuinbuddha.fi/categories/ajankohtaista">tulevista tapahtumista</a>, joissa Buddhan opetuksia pistetään käytäntöön.
 
 Sivusto on täysin ilmainen ja vapaa mainoksista.
 

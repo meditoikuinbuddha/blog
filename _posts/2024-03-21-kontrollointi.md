@@ -1,6 +1,6 @@
 ---
 layout: "posts"
-title: Älä stressaa, homma ei ole hallussa!
+title: Älä stressaa, homma ei ole hallussa
 excerpt: "Enemmän ystävällisyyttä, vähemmän kontrollointia, peräänkuuluttaa Ajahn Brahm."
 date: 2024-03-21 09:00:00 +0200
 author: "Ajahn Brahm"

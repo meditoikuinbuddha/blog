@@ -17,6 +17,9 @@ feature_row:
   - image_path: /assets/images/reading.jpg
     title: <a href="/categories/lukuhetki/">Lukuhetki</a>
     excerpt: "Tutkimusmatka Buddhan opetuksiin."
+  - image_path: /assets/images/reading.jpg
+    title: <a href="/categories/lukuhetki/">Ajankohtaista</a>
+    excerpt: "Kuulumisia ja tapahtumatiedotteita."
 
 ---
 

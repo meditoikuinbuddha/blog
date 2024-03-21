@@ -8,6 +8,9 @@ header:
   caption: # Kuva:[**Nitish Meena**]
 
 feature_row:
+  - image_path: /assets/images/colton-sturgeon-6KkYYqTEDwQ-unsplash.jpg
+    title: <a href="/categories/ajankohtaista/">Ajankohtaista</a>
+    excerpt: "Kuulumisia ja tapahtumatiedotteita."
   - image_path: /assets/images/makaavabuddha.jpg
     title: <a href="/categories/tietoisku/">Tietoisku</a>
     excerpt: "Ytimekkäitä tietoiskuja buddhalaisuudesta."
@@ -17,9 +20,6 @@ feature_row:
   - image_path: /assets/images/reading.jpg
     title: <a href="/categories/lukuhetki/">Lukuhetki</a>
     excerpt: "Tutkimusmatka Buddhan opetuksiin."
-  - image_path: /assets/images/colton-sturgeon-6KkYYqTEDwQ-unsplash.jpg
-    title: <a href="/categories/ajankohtaista/">Ajankohtaista</a>
-    excerpt: "Kuulumisia ja tapahtumatiedotteita."
 
 ---
 

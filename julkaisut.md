@@ -7,7 +7,7 @@ header:
   overlay_image: assets/images/nitish-meena-vuori2.jpg
   caption: # Kuva:[**Nitish Meena**]
 
-feature_row type:center:
+feature_row_type:"center":
   - image_path: /assets/images/makaavabuddha.jpg
     title: <a href="/categories/tietoisku/">Tietoisku</a>
     excerpt: "Ytimekkäitä tietoiskuja buddhalaisuudesta."

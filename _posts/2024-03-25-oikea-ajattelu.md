@@ -5,7 +5,7 @@ excerpt: "<h3>Buddha ei tapellut ajatuksiensa kanssa, vaan sovelsi niihin viisau
 date: 2024-03-25 10:00:00 +0200
 author: "admin"
 category: "Lukuhetki"
-permalink: ajattelu
+permalink: oikeaajattelu
 header:  
        teaser: assets/images/jan-kopriva-do5eC9PNeQ0-unsplash.jpg
 

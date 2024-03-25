@@ -29,13 +29,13 @@ Ajattelua voi ja kannattaa työstää, sillä hyödyllisten näkemyksien tavoin 
 
 Ajatustottumuksia voi verrata hitaasti kääntyvään jäänmurtajaan, jota ei voi hetkessä heilauttaa oikeaan suuntaan.
 
-Vaaditaan siis paljon myötätuntoa ja lempeyttä, koska oma taipumuksien jäänmurtaja ei käänny hetkessä. 
+Oman jäänmurtajan kääntäminen vaatii siis sinnikkyyttä, myötätuntoa ja lempeyttä.
 
-Ennen omien taipumuksien työstämistä täytyy tietenkin herätä aikomus oikean suunnan ottamisesta.
+Ajattelun työstäminen ei tietenkään toteudu ilman aikomusta tehdä jotain omalle ajattelulle.
 
-Aikomus ja ajattelu ovatkin käytännössä eri tapoja tarkastella samaa ilmiötä. 
+Aikomus ja ajattelu ovatkin käytännössä eri tapoja tarkastella samaa ilmiötä, jota buddhalaisuudessa kutsutaan oikeaksi ajatteluksi.
 
-Fiksua aikomusta voi tulkita oikean suunnan ottamiseksi, kun taas ajattelu on joko linjassa tai ristiriidassa kyseisen aikomuksen kanssa.
+Aikomusta voi tulkita oikean suunnan ottamiseksi, kun taas oikea ajattelu tukee kyseistä aikomusta.
 
 Mutta mitä tarkemmin ottaen on "oikea" ajattelu tai aikominen? Ja miten sitä voi harjoittaa?
 

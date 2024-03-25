@@ -29,11 +29,15 @@ feature_row:
   - image_path: /assets/images/readingfaithfully.png
     title: <a href="https://readingfaithfully.org">Reading Faithfully</a>
     excerpt: "Ohjeita suttien opiskeluun."
+  - image_path: /assets/images/096913bc78c4cc2c35fd.jpg
+    alt: "everydaydhamma"
+    title: <a href="https://everydaydhamma.net/">Everyday Dhamma</a>
+    excerpt: "Buddhalaisia podcasteja."
   - image_path: /assets/images/obu.png
     alt: "openbuddhistuniversity"
     title: <a href="https://buddhistuniversity.net">Open Buddhist University</a>
     excerpt: "Ilmaisia kursseja ja laaja buddhalainen verkkokirjasto."
-  - image_path: /assets/images/alliance-for-bhikkhunis-logo.png
+  - image_path: /assets/images/Alliance-for-Bhikkhunis-logo.png
     alt: "allianceforbhikkhunis"
     title: <a href="https://bhikkhuni.net">Alliance for Bhikkhunis</a>
     excerpt: "Buddhalaisten nunnien tukijärjestö."

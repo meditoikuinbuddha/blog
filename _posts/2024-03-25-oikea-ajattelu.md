@@ -81,7 +81,7 @@ Vastaavasti positiiviset ajatukset ovat kuin samaiset lehmät silloin, kun sato 
 <h2>Ajatuksien tunnistaminen voi olla hankalaa</h2>
 
 <figure>
-<img src="assets/images/007-The-Attack-of-Mara-by-Pande-Ketut-Bawa-Original.jpeg" alt="buddha">
+<img src="assets/images/007-The-Attack-of-Mara-by-Pande-Ketut-Bawa-Original.jpg" alt="buddha">
 <figcaption> Buddha ei ryhtynyt sotaan ajatuksiensa kanssa. Kuva: Pande Ketut Bawa</figcaption>
 </figure>
 

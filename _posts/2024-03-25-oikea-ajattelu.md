@@ -54,13 +54,13 @@ Ensimmäiseen ryhmään hän asetti aistilliset, vihamieliset ja piittaamattomat
 
 Toiseen ryhmään hän sijoitti ajatukset, jotka koskivat luopumista, ystävällisyyttä ja huomaavaisuutta.  
 
-Seuraavaksi Buddha arvioi ensimmäisen ryhmän ajatuksia seuraavasti:
+Buddha arvioi ensimmäisen ryhmän ajatuksia seuraavasti:
 
 <b>1. Tämä aistillinen, vihamielinen tai piittaamaton ajatus on herännyt mielessäni.</b><br>
 <b>2. Se johtaa itseni vahingoittamiseen.</b><br>
 <b>3. Se johtaa muiden vahingoittamiseen.</b><br>
 <b>4. Se johtaa molempien vahingoittamiseen.</b><br>
-<b>5. Se haittaa viisautta, on ahdistuksen puolella ja johtaa poispäin kärsimyksen tukahtumisesta.</b><br>
+<b>5. Se haittaa viisautta, on ahdistuksen puolella ja johtaa poispäin tukahtumisesta.</b><br>
 
 Vastaavasti hän käytti seuraavaa sapluunaa toisen ryhmän ajatuksien kohdalla:
 
@@ -68,7 +68,7 @@ Vastaavasti hän käytti seuraavaa sapluunaa toisen ryhmän ajatuksien kohdalla:
 <b>2. Se ei johda itseni vahingoittamiseen.</b><br>
 <b>3. Se ei johda muiden vahingoittamiseen.</b><br>
 <b>4. Se ei johda kummankaan vahingoittamiseen. </b><br>
-<b>5. Se tukee viisautta, on vapaa ahdistuksesta ja johtaa kärsimyksen tukahtumiseen.</b><br>
+<b>5. Se tukee viisautta, on vapaa ahdistuksesta ja johtaa tukahtumiseen.</b><br>
 
 Arvioidessaan ensimmäisen ryhmän ajatuksia Buddha huomasi, että pelkkä ajatuksien haitallisuuden toteaminen sai ne katoamaan.
 

@@ -1,13 +1,13 @@
 ---
 layout: "posts"
 title: "Voiko omaa ajattelua muuttaa?"
-excerpt: "<h3>Buddha ei tapellut ajatuksiensa kanssa, vaan käytti niihin viisautta.</h3>"
+excerpt: "<h3>Buddha ei tapellut ajatuksiensa kanssa, vaan sovelsi niihin viisautta.</h3>"
 date: 2024-03-25 10:00:00 +0200
 author: "admin"
 category: "Lukuhetki"
-permalink: ajattelu
+permalink: oikeaajattelu
 header:  
-       teaser: assets/images/noaa-po_CDivElTI-unsplash.jpg
+       teaser: assets/images/jan-kopriva-do5eC9PNeQ0-unsplash.jpg
 
 entries_layout: grid
 
@@ -29,13 +29,13 @@ Ajattelua voi ja kannattaa työstää, sillä hyödyllisten näkemyksien tavoin 
 
 Ajatustottumuksia voi verrata hitaasti kääntyvään jäänmurtajaan, jota ei voi hetkessä heilauttaa oikeaan suuntaan.
 
-Vaaditaan siis paljon myötätuntoa ja lempeyttä, koska oma taipumuksien jäänmurtaja ei käänny hetkessä. 
+Oman jäänmurtajan kääntäminen vaatii siis sinnikkyyttä, myötätuntoa ja lempeyttä.
 
-Ennen omien taipumuksien työstämistä täytyy tietenkin herätä aikomus oikean suunnan ottamisesta.
+Ajattelun työstäminen ei tietenkään toteudu ilman aikomusta tehdä jotain omalle ajattelulle.
 
-Aikomus ja ajattelu ovatkin käytännössä eri tapoja tarkastella samaa ilmiötä. 
+Aikomus ja ajattelu ovatkin käytännössä eri tapoja tarkastella samaa ilmiötä, jota buddhalaisuudessa kutsutaan oikeaksi ajatteluksi.
 
-Fiksua aikomusta voi tulkita oikean suunnan ottamiseksi, kun taas ajattelu on joko linjassa tai ristiriidassa kyseisen aikomuksen kanssa.
+Aikomusta voi tulkita oikean suunnan ottamiseksi, kun taas oikea ajattelu tukee kyseistä aikomusta.
 
 Mutta mitä tarkemmin ottaen on "oikea" ajattelu tai aikominen? Ja miten sitä voi harjoittaa?
 
@@ -68,11 +68,9 @@ Vastaavasti hän käytti seuraavaa sapluunaa toisen ryhmän ajatuksien kohdalla:
 <b>4. Se ei johda kummankaan vahingoittamiseen. </b><br>
 <b>5. Se tukee viisautta, on vapaa ahdistuksesta ja johtaa kärsimyksen lakkaamiseen.</b><br>
 
-On huomionarvoista, että Buddha totesi pelkän edellämainitun arvioinnin häivyttäneen aistilliset, vihamieliset ja piittaamattomat ajatukset hänen mielestään.
+Arvioidessaan ensimmäisen ryhmän ajatuksia Buddha huomasi, että pelkkä ajatuksien haitallisuuden toteaminen sai ne katoamaan.
 
-Toisen ryhmän ajatuksien kohdalla Buddha puolestaan totesi, että ne eivät aiheuttaneet minkäänlaista vaaraa. 
-
-Hän kuitenkin huomasi, että pidemmän päälle jopa positiivinen ajattelu häiritsee mieltä ja näinollen hiljensi oman mielensä.
+Toisen ryhmän ajatuksien kohdalla Buddha puolestaan havaitsi, että ne eivät aiheuttaneet minkäänlaista vaaraa. 
 
 Buddha käytti ensimmäisen ryhmän ajatuksista vertauskuvana paimenta, jonka on pidettävä keppiä käyttäen lehmät kaukana kasvavasta sadosta. 
 
@@ -83,21 +81,21 @@ Vastaavasti positiiviset ajatukset ovat kuin samaiset lehmät silloin, kun sato 
 <h2>Ajatuksien tunnistaminen voi olla hankalaa</h2>
 
 <figure>
-<img src="assets/images/007-The-Attack-of-Mara-by-Pande-Ketut-Bawa-Original.jpeg" alt="buddha">
+<img src="assets/images/007-The-Attack-of-Mara-by-Pande-Ketut-Bawa-Original.jpg" alt="buddha">
 <figcaption> Buddha ei ryhtynyt sotaan ajatuksiensa kanssa. Kuva: Pande Ketut Bawa</figcaption>
 </figure>
 
 Ei pidä myöskään väheksyä ensimmäistä kohtaa, eli ajatuksen tunnistamista. Aina ei ole helppoa tunnistaa, mihin ryhmään oma ajattelu kuuluu.
 
-Erityisen hankalaa tunnistamisesta tekee se, että ensimmäisen ryhmän ajatukset voivat olla erityisen hienovaraisia. 
+Hankaluutta lisää se, että ensimmäisen ryhmän ajatukset voivat olla erityisen hienovaraisia. 
 
-Käytännössä kaikki sellainen ajattelu on aistillista, mikä pitää mielen aistillisessa maailmassa ja estää meditoinnin syvenemisen.
+Käytännössä kaikki sellainen ajattelu on aistillista, mikä <a href="https://meditoikuinbuddha.fi/nautinto">pitää mielen aistillisessa maailmassa</a> ja estää meditoinnin syvenemisen.
 
-Ajattelun työstäminen etenee siis vaiheittain, ja joskus vasta pitkä meditointiretriitti voi paljastaa, että mielessä on itse asiassa aistillisia, vihamielisiä tai piittaamattomia taipumuksia, joita ei aiemmin huomannut.
+Ajattelun työstäminen etenee siis vaiheittain, ja joskus vasta pitkä meditointiretriitti voi paljastaa mielen haitalliset taipumukset.
 
-Vaaditaankin paljon Buddhan opetuksien opiskelua ja oman mielen tarkkailua, jotta omien ajatuksien todellinen luonne selkiytyy.
+Vaaditaan paljon Buddhan opetuksien opiskelua ja oman mielen tarkkailua, jotta omien ajatuksien todellinen luonne selkiytyy.
 
-Keskeinen huomio on kuitenkin se, että Buddha ei koittanut väkivalloin päästä eroon ikävistä ajatuksista, vaan sen sijaan arvioi niitä harkitsevaisesti ja viisaasti. 
+Keskeisintä on kuitenkin se, että Buddha ei koittanut väkivalloin päästä eroon ikävistä ajatuksista, vaan sen sijaan arvioi niitä harkitsevaisesti ja viisaasti. 
 
 Buddha käytti viisautta tahdonvoiman sijaan. 
 
@@ -112,15 +110,15 @@ Tärkeintä on oppia tunnistamaan, minkälainen ajattelu aiheuttaa harmia ja min
 <figcaption> Buddhan opetukset soljuvat kuin vuoristovirta. Kuva: Hendrik Corneliss </figcaption>
 </figure>
 
-Buddhan esimerkki antaa oivat raamit ajatuksen työstämiselle, mutta yksi hänen keskeisistä oivalluksistaan koskee ajattelun luonnetta.
+Buddhan esimerkki antaa oivat raamit ajatuksen työstämiselle, mutta hänellä oli sanottavaa myös ajattelun luonteesta yleisemmin.
 
-Kirjoituksen alussa mainittuun jäänmurtajavertaukseen sopivasti Buddha kertoi, että usein ajatelluista ajatuksista tulee mielen oletusasetus.
+Jäänmurtajavertaukseen sopivasti Buddha kertoi, että usein ajatelluista ajatuksista muodostuu mielen oletusasetus.
 
-Jos ajattelee usein aistillisia, vihamielisiä ja piittaamattomia ajatuksia, mieli taipuu siihen suuntaan. Sama periaate pätee luopumista, ystävällisyyttä ja lempeyttä huokuviin ajatuksiin.
+Jos ajattelee usein aistillisia, vihamielisiä ja piittaamattomia ajatuksia, mieli taipuu siihen suuntaan. 
 
-Tämän oletusasetuksen muuttaminen vaatii oikeanlaista ohjelmointia.
+Sama periaate pätee luopumista, ystävällisyyttä ja lempeyttä huokuviin ajatuksiin.
 
-Buddhan opetukset ohjelmoivat mieltä kohti rauhaa ja onnea.
+Tämän oletusasetuksen muuttaminen vaatii oikeanlaista ohjelmointia. Juuri Buddhan opetukset ohjelmoivat mieltä kohti rauhaa ja onnea.
 
 Toisaalla Buddha vertasi omia opetuksiaan sateeksi, joka valuu alas vuorilta täyttäen purot, joet ja järvet sekä lopulta valtameret. 
 

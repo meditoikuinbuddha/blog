@@ -140,7 +140,7 @@ Ilman tukea ei voi pärjätä henkisellä polulla. Buddhan mukaan hyvä ystävyy
 
 Ihminen ei ole autonominen toimija, joka tekee itsenäisiä valintoja muista riippumatta. Ihminen tekee sellaisia valintoja, joita hänet on ohjelmoitu tekemään<sup>6</sup>. 
 
-Vanhaa sanontaa lainaten ympäristö muokkaa ihmistä. Meditoinnnista kiinnostuneen on siksi hakeuduttava paikkoihin, jotka tukevat henkistä kasvua. 
+Vanhaa sanontaa lainaten ihminen on ympäristönsä tuote. Meditoinnnista kiinnostuneen on siksi hakeuduttava paikkoihin, jotka tukevat henkistä kasvua. 
 
 Hölmöjen ihmisten välttäminen ja viisaiden ihmisten seura ovat tärkeä osa hengellistä harjoitusta<sup>7</sup>. 
 

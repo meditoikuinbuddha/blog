@@ -52,7 +52,7 @@ Buddha itse aloitti ajattelun työstämisen jaottelemalla ajatukset kahteen ryhm
 
 Ensimmäiseen ryhmään hän asetti aistilliset, vihamieliset ja piittaamattomat ajatukset.
 
-Toiseen ryhmään hän sijoitti ajatukset, jotka koskivat luopumista, ystävällisyyttä ja lempeyttä.  
+Toiseen ryhmään hän sijoitti ajatukset, jotka koskivat luopumista, ystävällisyyttä ja huomaavaisuutta.  
 
 Seuraavaksi Buddha arvioi ensimmäisen ryhmän ajatuksia seuraavasti:
 
@@ -72,7 +72,7 @@ Vastaavasti hän käytti seuraavaa sapluunaa toisen ryhmän ajatuksien kohdalla:
 
 Arvioidessaan ensimmäisen ryhmän ajatuksia Buddha huomasi, että pelkkä ajatuksien haitallisuuden toteaminen sai ne katoamaan.
 
-Toisen ryhmän ajatuksien kohdalla Buddha puolestaan havaitsi, että ne eivät aiheuttaneet minkäänlaista vaaraa. 
+Toisen ryhmän ajatuksien kohdalla Buddha puolestaan havaitsi, että ne eivät aiheuttaneet minkäänlaista vaaraa, joten niiden sai antaa pyöriä mielessä vaikka koko päivän.
 
 Buddha käytti ensimmäisen ryhmän ajatuksista vertauskuvana paimenta, jonka on pidettävä keppiä käyttäen lehmät kaukana kasvavasta sadosta. 
 
@@ -126,7 +126,7 @@ Jäänmurtajavertauksen mukaisesti Buddha kertoi, että usein ajatelluista ajatu
 
 Jos ajattelee usein aistillisia, vihamielisiä ja piittaamattomia ajatuksia, mieli taipuu siihen suuntaan. 
 
-Sama periaate pätee luopumista, ystävällisyyttä ja lempeyttä huokuviin ajatuksiin.
+Sama periaate pätee luopumista, ystävällisyyttä ja huomaavaisuutta huokuviin ajatuksiin.
 
 Tämän oletusasetuksen muuttaminen vaatii oikeanlaista ohjelmointia. 
 

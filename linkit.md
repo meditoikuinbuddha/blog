@@ -62,11 +62,11 @@ feature_row:
     excerpt: "Suomen buddhalaisten yhteistyöjärjestö."
   - image_path: /assets/images/bodhidharma.png
     alt: "bodhidharma"
-    title: <a href="https://www.bodhidharma.fi/">Bodhidharma Ry</a>
+    title: <a href="https://www.bodhidharma.fi/">Bodhidharma</a>
     excerpt: "Suomalainen järjestö, jonka sivuilla on muun muassa sutta-käännöksiä."
   - image_path: /assets/images/nirodha-logo.jpg
     alt: "nirodha"
-    title: <a href="https://www.nirodha.fi/">Nirodha Ry</a>
+    title: <a href="https://www.nirodha.fi/">Nirodha</a>
     excerpt: "Suomalainen järjestö, joka järjestää meditointi-iltoja ja retriittejä."
     
 

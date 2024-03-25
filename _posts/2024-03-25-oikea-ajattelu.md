@@ -23,6 +23,11 @@ author: "Meditoi kuin Buddha"
 
 <i>Tämä julkaisu on toinen osa sarjassa, jossa käsitellään <a href="https://meditoikuinbuddha.fi/buddhalainenharjoitus">jalon kahdeksanosaisen polun</a> osia yksitellen.</i>
 
+<i>Kuuntele julkaisu luettuna</i>:
+<audio controls>
+  <source src="assets/audio/Recording_9.mp3" type="audio/mp3">
+</audio>
+
 Buddhalaisessa harjoituksessa ajattelulla ja näkemyksillä on läheinen side.
 
 Mielen harjoittamiseen keskittyminen <a href="https://meditoikuinbuddha.fi/oikeanakemys">on merkki oikeasta näkemyksestä</a>, ja ajattelun työstäminen on tärkeä osa kyseistä harjoitusta.

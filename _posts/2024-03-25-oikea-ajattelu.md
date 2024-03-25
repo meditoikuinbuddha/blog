@@ -29,17 +29,17 @@ Mielen harjoittamiseen keskittyminen <a href="https://meditoikuinbuddha.fi/oikea
 
 Ajattelua kannattaa työstää, sillä hyödyllisten näkemyksien tavoin oikeanlainen ajattelu vie mieltä kohti onnea ja rauhaa.
 
-Hätäilyyn ei kuitenkaan ole aihetta.
+Työstäminen ei kuitenkaan ole hätäistä touhua.
 
 Ajatustottumuksia voi verrata hitaasti kääntyvään jäänmurtajaan, jota ei voi hetkessä heilauttaa oikeaan suuntaan<sup>1</sup>.
 
-Oman jäänmurtajan kääntäminen vaatii kärsivällisyyttä, myötätuntoa ja lempeyttä.
+Oman tottumuksien ja taipumuksien jäänmurtajan kääntäminen vaatii kärsivällisyyttä, myötätuntoa ja lempeyttä.
 
-Ajattelun työstäminen ei tietenkään edes ala ilman aikomusta tehdä jotain omalle ajattelulle.
+Ensimmäinen askel oikeaan suuntaan on tietyssä mielessä tärkein. Ajattelun työstäminen ei ala ilman aikomusta tehdä jotain omalle ajattelulle.
 
 Aikomus ja ajattelu ovatkin käytännössä eri termejä samalle ilmiölle, jota buddhalaisuudessa kutsutaan oikeaksi ajatteluksi (<i>sammāsaṅkappa</i>).
 
-Mutta mitä tarkemmin ottaen on "oikea" ajattelu tai aikominen? Ja miten sitä voi harjoittaa?
+Mutta mitä tarkemmin ottaen on "oikea" ajattelu? Ja miten sitä voi harjoittaa?
 
 <h2>Viisas arviointi muuttaa ajattelua</h2>
 
@@ -60,7 +60,7 @@ Buddha arvioi ensimmäisen ryhmän ajatuksia seuraavasti:
 <b>2. Se johtaa itseni vahingoittamiseen.</b><br>
 <b>3. Se johtaa muiden vahingoittamiseen.</b><br>
 <b>4. Se johtaa molempien vahingoittamiseen.</b><br>
-<b>5. Se haittaa viisautta, on ahdistuksen puolella ja johtaa poispäin tukahtumisesta.</b><br>
+<b>5. Se haittaa viisautta, on ahdistuksen puolella ja johtaa poispäin kärsimyksen lakkaamisesta.</b><br>
 
 Vastaavasti hän käytti seuraavaa sapluunaa toisen ryhmän ajatuksien kohdalla:
 
@@ -68,7 +68,7 @@ Vastaavasti hän käytti seuraavaa sapluunaa toisen ryhmän ajatuksien kohdalla:
 <b>2. Se ei johda itseni vahingoittamiseen.</b><br>
 <b>3. Se ei johda muiden vahingoittamiseen.</b><br>
 <b>4. Se ei johda kummankaan vahingoittamiseen. </b><br>
-<b>5. Se tukee viisautta, on vapaa ahdistuksesta ja johtaa tukahtumiseen.</b><br>
+<b>5. Se tukee viisautta, on vapaa ahdistuksesta ja johtaa kärsimyksen lakkaamiseen.</b><br>
 
 Arvioidessaan ensimmäisen ryhmän ajatuksia Buddha huomasi, että pelkkä ajatuksien haitallisuuden toteaminen sai ne katoamaan.
 
@@ -87,6 +87,8 @@ Vastaavasti positiiviset ajatukset ovat kuin samaiset lehmät silloin, kun sato 
 <figcaption> Buddha ei ryhtynyt sotaan ajatuksiensa kanssa. Kuva: Pande Ketut Bawa</figcaption>
 </figure>
 
+Ajattelun jakaminen kahteen ryhmään säästää aikaa, mutta käytännössä paljon jää harjoittajan omalle vastuulle.
+
 Vaatii henkistä kypsyyttä nähdä, että omat ajatukset ovat haitallisia.
 
 Ei pidä myöskään väheksyä ajatuksien tunnistamisen haasteita. Ei ole nimittäin aina helppoa tunnistaa, kumpaan ryhmään oma ajattelu kuuluu.
@@ -97,9 +99,9 @@ Käytännössä kaikki sellainen ajattelu on aistillista, mikä <a href="https:/
 
 Myös piittaamattomuus tai vihamielisyys voi ilmetä hienovaraisena torjumisena tai pakoiluna, joka ei aina vaikuta haitalliselta.
 
-Ajattelun työstäminen etenee siis vaiheittain, ja joskus vasta pitkä meditointiretriitti tai sitoutunut tarkastelu paljastaa mielen haitalliset taipumukset.
+Ajattelun työstäminen etenee siis vaiheittain. Joskus vasta pitkä meditointiretriitti tai sitoutunut tarkastelu paljastaa mielen haitalliset taipumukset.
 
-Usein vaaditaan paljon <a href="https://meditoikuinbuddha.fi/kukabuddhaoli">Buddhan opetuksien</a> opiskelua ja oman mielen tarkkailua, jotta omien ajatuksien todellinen luonne paljastuu.
+Usein vaaditaan paljon <a href="https://meditoikuinbuddha.fi/kukabuddhaoli">Buddhan opetuksien</a> tutkimista ja oman mielen tarkkailua, jotta omien ajatuksien todellinen luonne paljastuu.
 
 Perusperiaate on kuitenkin yksinkertainen. 
 
@@ -128,17 +130,15 @@ Jos ajattelee usein aistillisia, vihamielisiä ja piittaamattomia ajatuksia, mie
 
 Sama periaate pätee luopumista, ystävällisyyttä ja huomaavaisuutta huokuviin ajatuksiin.
 
-Tämän oletusasetuksen muuttaminen vaatii oikeanlaista ohjelmointia. 
-
-Buddha tarjoaa oivaa ohjelmointiapua, jos mielen haluaa rauhoittuvan.
+Tämän oletusasetuksen muuttaminen vaatii oikeanlaista ohjelmointia. Ja Buddha tarjoaa oivaa ohjelmointiapua, jos mielen haluaa rauhoittuvan.
 
 Toisaalla Buddha vertasi omia opetuksiaan sateeksi, joka valuu alas vuorilta täyttäen purot, joet ja järvet sekä lopulta valtameret<sup>4</sup>. 
 
 Vastaavasti Buddhan opetukset ja oikea ympäristö kyllästävät mielen oikeanlaisilla ajatuksilla, jotka vievät kohti vapautta kärsimyksestä.
 
-Ilman tukea ei voi pärjätä henkisellä polulla. Buddhan mukaan hyvä ystävyys on jopa täydet sata prosenttia hengellisestä polusta<sup>5</sup>. 
+Ilman tukea ei voi pärjätä kukaan. Buddhan mukaan hyvä ystävyys on jopa täydet sata prosenttia hengellisestä polusta<sup>5</sup>. 
 
-Ihminen ei ole autonominen toimija, joka tekee itsenäisiä valintoja muista riippumatta. Ihminen tekee sellaisia valintoja, joita hänet on ohjelmoitu tekemään<sup>6</sup>. 
+Ihminen ei ole autonominen toimija, joka tekee itsenäisiä valintoja muista riippumatta. Päinvastoin. Ihminen tekee sellaisia valintoja, joita hänet on ohjelmoitu tekemään<sup>6</sup>. 
 
 Vanhaa sanontaa lainaten ihminen on ympäristönsä tuote. Meditoinnnista kiinnostuneen on siksi hakeuduttava paikkoihin, jotka tukevat henkistä kasvua. 
 

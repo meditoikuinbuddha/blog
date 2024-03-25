@@ -125,7 +125,7 @@ Tärkeintä on oppia tunnistamaan, minkälainen ajattelu aiheuttaa harmia ja min
 <figcaption> Buddhan opetukset soljuvat kuin vuoristovirta. Kuva: Hendrik Corneliss </figcaption>
 </figure>
 
-Buddhan esimerkki antaa oivat raamit ajatuksen työstämiselle.
+Buddhan esimerkki antaa oivat raamit ajatuksien työstämiselle.
 
 Hänellä oli kuitenkin paljon sanottavaa myös ajattelun yleisestä luonteesta.
 

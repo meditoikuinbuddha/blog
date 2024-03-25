@@ -7,7 +7,7 @@ author: "admin"
 category: "Lukuhetki"
 permalink: ajattelu
 header:  
-       teaser: assets/images/jan-kopriva-do5eC9PNeQ0-unsplash.jpg.jpg
+       teaser: assets/images/jan-kopriva-do5eC9PNeQ0-unsplash.jpg
 
 entries_layout: grid
 

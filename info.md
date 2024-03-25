@@ -10,7 +10,7 @@ excerpt: "Syvenny Buddhan opetuksiin."
 
 sidebar:
   - title: "Ota yhteyttä!"
-    image: "/assets/images/uusilogo.png"
+    image: "/assets/images/uusilogomini.png"
     image_alt: "logo"
     text: "meditoikuinbuddha@gmail.com"
   - title: "Seuraa Facebookissa"
@@ -41,7 +41,7 @@ Meditoikuinbuddha.fi tekee yhteistyötä norjalaisen <a href="https://www.dnbf.o
 
 Jos olet kiinnostunut Suomen paikallistoimintaan osallistumisesta, pistä viestiä osoitteeseen tampere@dnbf.org. 
 
-<center><img src="assets/images/uusilogo.png" alt="meditoikuinbuddha.fi"></center>
+<center><img src="assets/images/uusilogopieni.png" alt="meditoikuinbuddha.fi"></center>
 
 
 

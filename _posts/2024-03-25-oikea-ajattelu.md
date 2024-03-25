@@ -154,6 +154,6 @@ Fiksulle buddhalaiselle harjoittajalle parasta seuraa ovat tietenkin Buddhan ope
 2. Julkaisu pohjaa opetukseen <a href="https://suttacentral.net/mn19/en/sujato">MN 19</a>.
 3. Buddhan mukaan on olemassa kaksi voimaa: reflektointi ja meditointi (<a href="https://suttacentral.net/an2.11-20/en/sujato">AN 2.11</a>). Viisaalla pohdiskelulla on siis tärkeä rooli buddhalaisesa harjoituksessa.
 4. Sadevertaus löytyy muun muassa suttasta <a href="https://suttacentral.net/an10.61/en/">AN 10.61</a>.
-5. <a href="https://suttacentral.net/sn45.2/en/sujato>SN 45.2</sup>.
+5. <a href="https://suttacentral.net/sn45.2/en/sujato">SN 45.2</sup>.
 6. Tähän periaatteeseen viittaa Buddhan opetus minuuden puuttumisesta (paaliksi <i>Anattā</i>, yleisimmin ei-itseys). Kuuluisaa <a href="https://suttacentral.net/sn22.59/en/sujato">Anattalakkhaṇa Suttaa</a> mukaillen ihminen ei voi käskeä omien valintojensa tai ajatuksiensa olevan niin tai näin.
 7. Tämä ohje löytyy usein buddhalaisissa luostareissa lausutusta <a href="https://suttacentral.net/snp2.4/en/sujato">Maṅgalasuttasta</a>.

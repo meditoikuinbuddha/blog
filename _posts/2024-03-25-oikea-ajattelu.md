@@ -33,7 +33,7 @@ Hätäilyyn ei kuitenkaan ole aihetta.
 
 Ajatustottumuksia voi verrata hitaasti kääntyvään jäänmurtajaan, jota ei voi hetkessä heilauttaa oikeaan suuntaan<sup>1</sup>.
 
-Oman jäänmurtajan kääntäminen vaatii siis sinnikkyyttä, myötätuntoa ja lempeyttä.
+Oman jäänmurtajan kääntäminen vaatii kärsivällisyyttä, myötätuntoa ja lempeyttä.
 
 Ajattelun työstäminen ei tietenkään edes ala ilman aikomusta tehdä jotain omalle ajattelulle.
 

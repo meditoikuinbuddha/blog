@@ -25,7 +25,7 @@ author: "Meditoi kuin Buddha"
 
 Buddhalaisessa harjoituksessa ajattelulla ja näkemyksillä on läheinen side.
 
-Mielen harjoittamiseen keskittyminen <a href="https://meditoikuinbuddha.fi/oikeanakemys">on merkki oikeasta näkemyksestä</a>. Ja ajattelun työstäminen on tärkeä osa tätä harjoitusta.
+Mielen harjoittamiseen keskittyminen <a href="https://meditoikuinbuddha.fi/oikeanakemys">on merkki oikeasta näkemyksestä</a>, ja ajattelun työstäminen on tärkeä osa kyseistä harjoitusta.
 
 Ajattelua kannattaa työstää, sillä hyödyllisten näkemyksien tavoin oikeanlainen ajattelu vie mieltä kohti onnea ja rauhaa.
 

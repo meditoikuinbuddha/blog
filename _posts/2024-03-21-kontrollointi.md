@@ -23,9 +23,9 @@ Buddhalainen järjestömme teetätti joitain vuosia sitten t-paitoja sloganilla:
 
 Yleensä ihmiset käskevät olemaan huolehtimatta, koska "homma on hallussa". 
 
-Mutta munkkina en voi valehdella... Homma ei todellakaan ole hallussa, ja eikö se olekin hieno uutinen! Itse asiassa on maailman ihanin juttu, että kaikki on sekaisin.
+Munkkina en kuitenkaan voi valehdella... Homma ei todellakaan ole hallussa, ja eikö se olekin hieno uutinen! Itse asiassa on maailman ihanin juttu, että kaikki on sekaisin.
 
-Se tarkoittaa sitä, että asiat kehittyvät luonnollisesti sen sijaan, että luomistyön takana olisi joku vaikutusvaltainen ja mahtava olento, oli se sitten pomosi, kontrollifriikki puolisosi, vanhempasi tai kuka tahansa.
+Asiat kehittyvät siis luonnollisesti sen sijaan, että luomistyön takana olisi vaikutusvaltainen ja mahtava olento, oli se sitten pomosi, kontrollifriikki puolisosi, vanhempasi tai kuka tahansa.
 
 Elämä kehittyy itsestään ja mitä vähemmän sitä kontrolloi, sitä kiinnostavampaa ja onnellisempaa elämä on.
 
@@ -46,13 +46,13 @@ Kaikilla on kokemusta kontrollifriikeistä, jotka piiskaavat kovempaan tehokkuut
 
 Toisessa päässä ovat pomot, jotka ovat ystävällisiä, välittäviä ja tekevät mukavia asioita alaisilleen. Sellaisten pomojen kanssa tekee enemmän töitä, koska työskentely on nautinnollista. 
 
-Kun on enemmän motivaatiota ja energiaa, on työn jälki myös paljon laadukkaampaa!
+Kun on enemmän motivaatiota ja energiaa, on työn jälki myös paljon laadukkaampaa.
 
-Jokaisella on perhe-elämänsä ja vapaa-aikansa, mutta iso osa ajasta kuluu usein töissä. Jos työkokemus jättää toivomisen varaa, muuttuu iso osa elämästä surkeaksi.
+On perhe-elämää ja vapaa-aikaa, mutta iso osa ajasta kuluu usein töissä. Jos työkokemus jättää toivomisen varaa, muuttuu iso osa elämästä surkeaksi.
 
 Työelämän surkeus aiheuttaa valtavasti stressiä ja ongelmia.
 
-Miltä tuntuu työskennellä pomoille helvetistä? Tuleeko sellaisen työjohdon ohjauksessa laadukasta työnjälkeä? Vai alkaako siinä vain halveksua kaikki tehtäviä, joita pöydältään löytää?
+Miltä tuntuu työskennellä pomoille helvetistä? Onko työnjälki silloin laadukasta? Vai alkaako siinä vain halveksua kaikki tehtäviä, joita pöydältään löytää?
 
 Stressitasot välkkyvät punaisena, terveys heikkenee ja myös perhe-elämä kärsii.
 
@@ -77,13 +77,13 @@ Pelko tekee ihmisistä kontrollifriikkejä. Päällepäsmärit pelkäävät, ett
 
 "Kukaan ei saisi mitään aikaan, jos en kyttäisi heidän peräänsä ja valvoisi työhönsaapumisaikoja. Meillä täytyy olla valvontakamerat toimistossa, muuten ihmiset vetelehtivät jossain muualla..."
 
-Minkälaista kulttuuria tässä luodaan? Pelon ja kontrollin kulttuuria, joka uhkaa saastuttaa perhe-elämän ja jopa uskonnolliset tilat.
+Minkälaista kulttuuria tässä luodaan? Pelon ja kontrollin kulttuuria, joka uhkaa levitä perheisiin, koteihin ja jopa uskonnolliseen elämään.
 
 Mutta buddhalaisuudessa mahtavaa on pelkokertoimen puuttuminen. Ketään ei ole tarkoitus kontrolloida.
 
 Kukaan ei pala helvetissä, jos jättää tulematta buddhalaisen järjestön talkooiltaan. 
 
-Itse asiassa helvetin lieskat kuulostavat melko houkuttelevilta, varsinkin kylmemmissä keleissä...
+Itse asiassa helvetin lieskat kuulostavat melko houkuttelevilta, varsinkin näin kylmemmissä keleissä...
 
 Mutta meiltä ei löydy sellaista pelottelua, koska emme halua ohjailla ihmisiä.
 
@@ -110,10 +110,10 @@ Kun näin, mitä oli tapahtumassa, kerroin muille naisen tilanteesta: hän oli v
 
 Siihen aikaan ei ollut juuri tietoa tai turvaa tarjolla, jotta ihmiset olisivat voineet itse korjata niin vakavia ongelmia. Ja naisparka ei ollut nukkunut päiviin, joten perjantai-illan avoin tilaisuutemme tarjosi hänelle pitkästä aikaa mahdollisuden tuntea olonsa turvalliseksi.
 
-Kun avasin naisen tilannetta muille he ymmärsivät, mikä on tärkein etiketti: myötätunto, ystävällisyys. Eivät kaikenmaailman säännöt ja säädökset, joiden on tarkoitus pitää ihmiset ruodussa.
+Kun avasin naisen tilannetta muille he ymmärsivät, mikä on tärkein osa etikettiä: myötätunto, ystävällisyys. Eivät kaikenmaailman säännöt ja säädökset, joiden on tarkoitus pitää ihmiset ruodussa.
 
 Myötätunto tarkoittaa herkkyyttä ajalle, paikalle ja ympäristölle.
 
 <i>* Jalkojen osoittaminen kohti Buddhaa on ehdoton etikettirikkomus aasialaisissa kulttuureissa.</i>
 
-<i>Kirjoittaja on Bodhinyana-luostarin johtaja ja tunnettu meditointimestari. Teksti on käännösote puheesta, jonka voit kuunnella kokonaisuudessaan <a href="https://www.youtube.com/watch?v=jniaUr_7438&t=2105s">täältä.</a> </i>
+<i>Kirjoittaja on Bodhinyana-luostarin johtaja ja tunnettu meditointimestari. Teksti on käännösote puheesta, jonka voit kuunnella kokonaisuudessaan <a href="https://www.youtube.com/watch?v=zY6Q-OnMTEE&t=959s">täältä.</a> </i>

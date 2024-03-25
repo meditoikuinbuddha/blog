@@ -48,7 +48,7 @@ Mutta mitä tarkemmin ottaen on "oikea" ajattelu tai aikominen? Ja miten sitä v
 <figcaption> Ajatukset ovat kuin lehmiä. Kuva: Jan Kopriva</figcaption>
 </figure>
 
-Buddha itse aloitti ajattelun työstämisen jaottelemalla ajatukset kahteen ryhmään <sup>1</sup>.
+Buddha itse aloitti ajattelun työstämisen jaottelemalla ajatukset kahteen ryhmään <sup>2</sup>.
 
 Ensimmäiseen ryhmään hän asetti aistilliset, vihamieliset ja piittaamattomat ajatukset.
 

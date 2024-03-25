@@ -10,7 +10,7 @@ excerpt: "Syvenny Buddhan opetuksiin."
 
 sidebar:
   - title: "Ota yhteyttä!"
-    image: "/assets/images/uusilogomini.png"
+    image: "/assets/images/uusilogopieni.png"
     image_alt: "logo"
     text: "meditoikuinbuddha@gmail.com"
   - title: "Seuraa Facebookissa"

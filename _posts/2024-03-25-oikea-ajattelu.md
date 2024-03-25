@@ -23,9 +23,13 @@ author: "Meditoi kuin Buddha"
 
 <i>Tämä julkaisu on toinen osa sarjassa, jossa käsitellään <a href="https://meditoikuinbuddha.fi/buddhalainenharjoitus">jalon kahdeksanosaisen polun</a> osia yksitellen.</i>
 
-Buddhalaisessa harjoituksessa oikea näkemys johtaa oikeaan ajatteluun.
+Buddhalaisessa harjoituksessa ajattelulla ja näkemyksillä on läheinen side.
 
-Ajattelua voi ja kannattaa työstää, sillä hyödyllisten näkemyksien tavoin oikeanlainen ajattelu vie mieltä kohti onnea ja rauhaa.
+Mielen harjoittamisen tärkeyden ymmärtäminen <a href="https://meditoikuinbuddha.fi/oikeanakemys>on merkki oikeasta näkemyksestä</a>. Ajattelun työstäminen on tärkeä osa tätä harjoitusta.
+
+Ajattelua kannattaa työstää, sillä hyödyllisten näkemyksien tavoin oikeanlainen ajattelu vie mieltä kohti onnea ja rauhaa.
+
+Hätäilyyn ei kuitenkaan ole aihetta.
 
 Ajatustottumuksia voi verrata hitaasti kääntyvään jäänmurtajaan, jota ei voi hetkessä heilauttaa oikeaan suuntaan.
 
@@ -33,9 +37,7 @@ Oman jäänmurtajan kääntäminen vaatii siis sinnikkyyttä, myötätuntoa ja l
 
 Ajattelun työstäminen ei tietenkään toteudu ilman aikomusta tehdä jotain omalle ajattelulle.
 
-Aikomus ja ajattelu ovatkin käytännössä eri tapoja tarkastella samaa ilmiötä, jota buddhalaisuudessa kutsutaan oikeaksi ajatteluksi.
-
-Aikomusta voi tulkita oikean suunnan ottamiseksi, kun taas oikea ajattelu tukee kyseistä aikomusta.
+Aikomus ja ajattelu ovatkin käytännössä eri termejä samalle ilmiölle, jota buddhalaisuudessa kutsutaan oikeaksi ajatteluksi.
 
 Mutta mitä tarkemmin ottaen on "oikea" ajattelu tai aikominen? Ja miten sitä voi harjoittaa?
 
@@ -46,7 +48,7 @@ Mutta mitä tarkemmin ottaen on "oikea" ajattelu tai aikominen? Ja miten sitä v
 <figcaption> Ajatukset ovat kuin lehmiä. Kuva: Jan Kopriva</figcaption>
 </figure>
 
-Buddha itse aloitti ajattelun työstämisen jaottelemalla ajatukset kahteen ryhmään.
+Buddha itse aloitti ajattelun työstämisen jaottelemalla ajatukset kahteen ryhmään <p>1</p>.
 
 Ensimmäiseen ryhmään hän asetti aistilliset, vihamieliset ja piittaamattomat ajatukset.
 
@@ -137,5 +139,7 @@ Hölmöjen ihmisten välttäminen ja viisaiden ihmisten seuraan hakeutuminen on 
 Ja mitä enemmän viettää aikaa viisaassa seurassa, sitä viisaammaksi myös oma ajattelu muuttuu.
 
 Fiksulle buddhalaiselle harjoittajalle parasta seuraa ovat tietenkin Buddhan opetukset. 
+
+
 
 

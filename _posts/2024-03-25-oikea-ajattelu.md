@@ -95,6 +95,8 @@ Hankaluutta lisää se, että ensimmäisen ryhmän ajatukset voivat olla erityis
 
 Käytännössä kaikki sellainen ajattelu on aistillista, mikä <a href="https://meditoikuinbuddha.fi/nautinto">pitää mielen aistillisessa maailmassa</a> ja estää meditoinnin syvenemisen.
 
+Myös piittaamattomuus tai vihamielisyys voi ilmetä hienovaraisena torjumisena tai pakoiluna, joka ei aina vaikuta haitalliselta.
+
 Ajattelun työstäminen etenee siis vaiheittain, ja joskus vasta pitkä meditointiretriitti tai sitoutunut tarkastelu paljastaa mielen haitalliset taipumukset.
 
 Usein vaaditaan paljon <a href="https://meditoikuinbuddha.fi/kukabuddhaoli">Buddhan opetuksien</a> opiskelua ja oman mielen tarkkailua, jotta omien ajatuksien todellinen luonne paljastuu.
@@ -107,7 +109,7 @@ Buddha käytti viisautta tahdonvoiman sijaan.
 
 Tämä periaate pätee huolimatta siitä, missä ihminen on omalla henkisellä polullaan. Tahdonvoima ei pidemmän päälle palvele tarkoitusperiä ja voi johtaa jopa epäterveeseen tukahduttamiseen.
 
-Tärkeintä on oppia tunnistamaan, minkälainen ajattelu aiheuttaa harmia ja minkälainen ajattelu tukee henkistä kasvua.
+Tärkeintä on oppia tunnistamaan, minkälainen ajattelu aiheuttaa harmia ja minkälainen ajattelu on hyödyllistä.
 
 <h2>Mistä sitä oikeaa ajattelua löytää?</h2>
 
@@ -116,7 +118,9 @@ Tärkeintä on oppia tunnistamaan, minkälainen ajattelu aiheuttaa harmia ja min
 <figcaption> Buddhan opetukset soljuvat kuin vuoristovirta. Kuva: Hendrik Corneliss </figcaption>
 </figure>
 
-Buddhan esimerkki antaa oivat raamit ajatuksen työstämiselle, mutta hänellä oli sanottavaa myös ajattelun luonteesta yleisemmin.
+Buddhan esimerkki antaa oivat raamit ajatuksen työstämiselle.
+
+Hänellä oli kuitenkin paljon sanottavaa myös ajattelun yleisestä luonteesta.
 
 Jäänmurtajavertauksen mukaisesti Buddha kertoi, että usein ajatelluista ajatuksista muodostuu mielen oletusasetus.
 
@@ -124,13 +128,15 @@ Jos ajattelee usein aistillisia, vihamielisiä ja piittaamattomia ajatuksia, mie
 
 Sama periaate pätee luopumista, ystävällisyyttä ja lempeyttä huokuviin ajatuksiin.
 
-Tämän oletusasetuksen muuttaminen vaatii oikeanlaista ohjelmointia. Jos mielen haluaa rauhoittuvan, tarjoaa Buddha oivaa ohjelmointiapua.
+Tämän oletusasetuksen muuttaminen vaatii oikeanlaista ohjelmointia. 
+
+Buddha tarjoaa oivaa ohjelmointiapua, jos mielen haluaa rauhoittuvan.
 
 Toisaalla Buddha vertasi omia opetuksiaan sateeksi, joka valuu alas vuorilta täyttäen purot, joet ja järvet sekä lopulta valtameret<sup>4</sup>. 
 
-Vastaavasti fiksut opetukset ja oikea ympäristö kyllästävät mielen oikeanlaisilla ajatuksilla, jotka vievät kohti vapautta kärsimyksestä.
+Vastaavasti Buddhan opetukset ja oikea ympäristö kyllästävät mielen oikeanlaisilla ajatuksilla, jotka vievät kohti vapautta kärsimyksestä.
 
-Buddhan mukaan hyvä ystävyys on täydet sata prosenttia hengellisestä polusta<sup>5</sup>. 
+Ilman tukea ei voi pärjätä henkisellä polulla. Buddhan mukaan hyvä ystävyys on jopa täydet sata prosenttia hengellisestä polusta<sup>5</sup>. 
 
 Ihminen ei ole autonominen toimija, joka tekee itsenäisiä valintoja muista riippumatta. Ihminen tekee sellaisia valintoja, joita hänet on ohjelmoitu tekemään<sup>6</sup>. 
 
@@ -138,7 +144,7 @@ Vanhaa sanontaa lainaten ympäristö muokkaa ihmistä. Meditoinnnista kiinnostun
 
 Hölmöjen ihmisten välttäminen ja viisaiden ihmisten seura ovat tärkeä osa hengellistä harjoitusta<sup>7</sup>. 
 
-Ja mitä enemmän viettää aikaa viisaassa seurassa, sitä viisaammaksi myös oma ajattelu muuttuu.
+Mitä enemmän viettää aikaa viisaassa seurassa, sitä viisaammaksi myös oma ajattelu muuttuu.
 
 Fiksulle buddhalaiselle harjoittajalle parasta seuraa ovat tietenkin Buddhan opetukset. 
 

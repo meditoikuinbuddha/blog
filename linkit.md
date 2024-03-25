@@ -33,6 +33,10 @@ feature_row:
     alt: "openbuddhistuniversity"
     title: <a href="https://buddhistuniversity.net">Open Buddhist University</a>
     excerpt: "Ilmaisia kursseja ja laaja buddhalainen verkkokirjasto."
+  - image_path: /assets/images/alliance-for-bhikkhunis-logo.png
+    alt: "allianceforbhikkhunis"
+    title: <a href="https://bhikkhuni.net">Alliance for Bhikkhunis</a>
+    excerpt: "Buddhalaisten nunnien tukijärjestö."
   - image_path: /assets/images/anukampa2.jpg
     alt: "anukampa"
     title: <a href="https://anukampaproject.org/">Anukampa Bhikkhunī Project</a>
@@ -44,6 +48,14 @@ feature_row:
     alt: "tilorien"
     title: <a href="https://tilorien.org/en/">Tilorien</a>
     excerpt: "Buddhalainen luostari Belgiassa."
+  - image_path: /assets/images/emptycloud.jpg
+    alt: "emptycloud"
+    title: <a href="https://emptyclouditalia.org/en/">Empty Cloud Italia</a>
+    excerpt: "Luostariprojekti Italiassa."
+  - image_path: /assets/images/sbu2.png
+    alt: "suomenbuddhalainenunioni"
+    title: <a href="https://www.sbu.fi/">Suomen Buddhalainen Unioni</a>
+    excerpt: "Suomen buddhalaisten yhteistyöjärjestö."
 
 
 ---

@@ -37,7 +37,7 @@ Oman jäänmurtajan kääntäminen vaatii siis sinnikkyyttä, myötätuntoa ja l
 
 Ajattelun työstäminen ei tietenkään edes ala ilman aikomusta tehdä jotain omalle ajattelulle.
 
-Aikomus ja ajattelu ovatkin käytännössä eri termejä samalle ilmiölle, jota buddhalaisuudessa kutsutaan oikeaksi ajatteluksi.
+Aikomus ja ajattelu ovatkin käytännössä eri termejä samalle ilmiölle, jota buddhalaisuudessa kutsutaan oikeaksi ajatteluksi (<i>sammāsaṅkappa</i>).
 
 Mutta mitä tarkemmin ottaen on "oikea" ajattelu tai aikominen? Ja miten sitä voi harjoittaa?
 

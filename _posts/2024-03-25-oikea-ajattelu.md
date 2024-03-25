@@ -35,7 +35,7 @@ Ajatustottumuksia voi verrata hitaasti kääntyvään jäänmurtajaan, jota ei v
 
 Oman jäänmurtajan kääntäminen vaatii siis sinnikkyyttä, myötätuntoa ja lempeyttä.
 
-Ajattelun työstäminen ei tietenkään toteudu ilman aikomusta tehdä jotain omalle ajattelulle.
+Ajattelun työstäminen ei tietenkään edes ala ilman aikomusta tehdä jotain omalle ajattelulle.
 
 Aikomus ja ajattelu ovatkin käytännössä eri termejä samalle ilmiölle, jota buddhalaisuudessa kutsutaan oikeaksi ajatteluksi.
 

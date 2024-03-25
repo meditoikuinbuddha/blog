@@ -85,17 +85,19 @@ Vastaavasti positiiviset ajatukset ovat kuin samaiset lehmät silloin, kun sato 
 <figcaption> Buddha ei ryhtynyt sotaan ajatuksiensa kanssa. Kuva: Pande Ketut Bawa</figcaption>
 </figure>
 
-Ei pidä myöskään väheksyä ensimmäistä kohtaa, eli ajatuksen tunnistamista. Aina ei ole helppoa tunnistaa, mihin ryhmään oma ajattelu kuuluu.
+Vaatii henkistä kypsyyttä nähdä, että omat ajatukset ovat haitallisia.
+
+Ei pidä myöskään väheksyä ajatuksien tunnistamisen haasteita. Buddhan jaottelua seuraten ei ole aina helppoa tunnistaa, mihin ryhmään oma ajattelu kuuluu.
 
 Hankaluutta lisää se, että ensimmäisen ryhmän ajatukset voivat olla erityisen hienovaraisia. 
 
 Käytännössä kaikki sellainen ajattelu on aistillista, mikä <a href="https://meditoikuinbuddha.fi/nautinto">pitää mielen aistillisessa maailmassa</a> ja estää meditoinnin syvenemisen.
 
-Ajattelun työstäminen etenee siis vaiheittain, ja joskus vasta pitkä meditointiretriitti voi paljastaa mielen haitalliset taipumukset.
+Ajattelun työstäminen etenee siis vaiheittain, ja joskus vasta pitkä meditointiretriitti tai sitoutunut tarkastelu paljastaa mielen haitalliset taipumukset.
 
 Vaaditaan paljon Buddhan opetuksien opiskelua ja oman mielen tarkkailua, jotta omien ajatuksien todellinen luonne selkiytyy.
 
-Keskeisintä on kuitenkin se, että Buddha ei koittanut väkivalloin päästä eroon ikävistä ajatuksista, vaan sen sijaan arvioi niitä harkitsevaisesti ja viisaasti. 
+Perusperiaate on kuitenkin yksinkertainen. Buddha ei koittanut väkivalloin päästä eroon ikävistä ajatuksista, vaan sen sijaan arvioi niitä harkitsevaisesti ja viisaasti. 
 
 Buddha käytti viisautta tahdonvoiman sijaan. 
 

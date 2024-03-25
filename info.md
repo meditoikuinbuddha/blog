@@ -39,6 +39,8 @@ Meditoikuinbuddha.fi tekee yhteistyötä norjalaisen <a href="https://www.dnbf.o
 
 Jos olet kiinnostunut Suomen paikallistoimintaan osallistumisesta, pistä viestiä osoitteeseen tampere@dnbf.org. 
 
+<center><img>uusilogo.png</img></center>
+
 
 
 

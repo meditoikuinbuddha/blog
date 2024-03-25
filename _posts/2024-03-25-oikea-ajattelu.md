@@ -31,7 +31,7 @@ Ajattelua kannattaa työstää, sillä hyödyllisten näkemyksien tavoin oikeanl
 
 Hätäilyyn ei kuitenkaan ole aihetta.
 
-Ajatustottumuksia voi verrata hitaasti kääntyvään jäänmurtajaan, jota ei voi hetkessä heilauttaa oikeaan suuntaan.
+Ajatustottumuksia voi verrata hitaasti kääntyvään jäänmurtajaan, jota ei voi hetkessä heilauttaa oikeaan suuntaan<sup>1</sup>.
 
 Oman jäänmurtajan kääntäminen vaatii siis sinnikkyyttä, myötätuntoa ja lempeyttä.
 
@@ -48,7 +48,7 @@ Mutta mitä tarkemmin ottaen on "oikea" ajattelu tai aikominen? Ja miten sitä v
 <figcaption> Ajatukset ovat kuin lehmiä. Kuva: Jan Kopriva</figcaption>
 </figure>
 
-Buddha itse aloitti ajattelun työstämisen jaottelemalla ajatukset kahteen ryhmään <p>1</p>.
+Buddha itse aloitti ajattelun työstämisen jaottelemalla ajatukset kahteen ryhmään <sup>1</sup>.
 
 Ensimmäiseen ryhmään hän asetti aistilliset, vihamieliset ja piittaamattomat ajatukset.
 
@@ -89,7 +89,7 @@ Vastaavasti positiiviset ajatukset ovat kuin samaiset lehmät silloin, kun sato 
 
 Vaatii henkistä kypsyyttä nähdä, että omat ajatukset ovat haitallisia.
 
-Ei pidä myöskään väheksyä ajatuksien tunnistamisen haasteita. Buddhan jaottelua seuraten ei ole aina helppoa tunnistaa, mihin ryhmään oma ajattelu kuuluu.
+Ei pidä myöskään väheksyä ajatuksien tunnistamisen haasteita. Ei ole nimittäin aina helppoa tunnistaa, kumpaan ryhmään oma ajattelu kuuluu.
 
 Hankaluutta lisää se, että ensimmäisen ryhmän ajatukset voivat olla erityisen hienovaraisia. 
 
@@ -97,9 +97,11 @@ Käytännössä kaikki sellainen ajattelu on aistillista, mikä <a href="https:/
 
 Ajattelun työstäminen etenee siis vaiheittain, ja joskus vasta pitkä meditointiretriitti tai sitoutunut tarkastelu paljastaa mielen haitalliset taipumukset.
 
-Vaaditaan paljon Buddhan opetuksien opiskelua ja oman mielen tarkkailua, jotta omien ajatuksien todellinen luonne selkiytyy.
+Usein vaaditaan paljon <a href="https://meditoikuinbuddha.fi/kukabuddhaoli">Buddhan opetuksien</a> opiskelua ja oman mielen tarkkailua, jotta omien ajatuksien todellinen luonne paljastuu.
 
-Perusperiaate on kuitenkin yksinkertainen. Buddha ei koittanut väkivalloin päästä eroon ikävistä ajatuksista, vaan sen sijaan arvioi niitä harkitsevaisesti ja viisaasti. 
+Perusperiaate on kuitenkin yksinkertainen. 
+
+Buddha ei koittanut väkivalloin päästä eroon ikävistä ajatuksista, vaan sen sijaan arvioi niitä harkitsevaisesti ja viisaasti<sup>3</sup>. 
 
 Buddha käytti viisautta tahdonvoiman sijaan. 
 
@@ -116,30 +118,36 @@ Tärkeintä on oppia tunnistamaan, minkälainen ajattelu aiheuttaa harmia ja min
 
 Buddhan esimerkki antaa oivat raamit ajatuksen työstämiselle, mutta hänellä oli sanottavaa myös ajattelun luonteesta yleisemmin.
 
-Jäänmurtajavertaukseen sopivasti Buddha kertoi, että usein ajatelluista ajatuksista muodostuu mielen oletusasetus.
+Jäänmurtajavertauksen mukaisesti Buddha kertoi, että usein ajatelluista ajatuksista muodostuu mielen oletusasetus.
 
 Jos ajattelee usein aistillisia, vihamielisiä ja piittaamattomia ajatuksia, mieli taipuu siihen suuntaan. 
 
 Sama periaate pätee luopumista, ystävällisyyttä ja lempeyttä huokuviin ajatuksiin.
 
-Tämän oletusasetuksen muuttaminen vaatii oikeanlaista ohjelmointia. Juuri Buddhan opetukset ohjelmoivat mieltä kohti rauhaa ja onnea.
+Tämän oletusasetuksen muuttaminen vaatii oikeanlaista ohjelmointia. Jos mielen haluaa rauhoittuvan, tarjoaa Buddha oivaa ohjelmointiapua.
 
-Toisaalla Buddha vertasi omia opetuksiaan sateeksi, joka valuu alas vuorilta täyttäen purot, joet ja järvet sekä lopulta valtameret. 
+Toisaalla Buddha vertasi omia opetuksiaan sateeksi, joka valuu alas vuorilta täyttäen purot, joet ja järvet sekä lopulta valtameret<sup>4</sup>. 
 
-Vastaavasti fiksut opetukset ja hyvä seura täyttävät ihmisen mielen oikeanlaisilla ajatuksilla, jotka vievät kohti vapautta kärsimyksestä.
+Vastaavasti fiksut opetukset ja oikea ympäristö kyllästävät mielen oikeanlaisilla ajatuksilla, jotka vievät kohti vapautta kärsimyksestä.
 
-Buddhan mukaan hyvät ystävät ovat sata prosenttia hengellisestä polusta, eikä tässä ole kyse sanaleikistä. 
+Buddhan mukaan hyvä ystävyys on täydet sata prosenttia hengellisestä polusta<sup>5</sup>. 
 
-Ihminen ei ole autonominen toimija, joka tekee itsenäisiä valintoja muista riippumatta. Ihminen tekee sellaisia valintoja, joita hänet on ohjelmoitu tekemään. 
+Ihminen ei ole autonominen toimija, joka tekee itsenäisiä valintoja muista riippumatta. Ihminen tekee sellaisia valintoja, joita hänet on ohjelmoitu tekemään<sup>6</sup>. 
 
-Vanhaa sanontaa lainaten ympäristö muokkaa ihmistä ja meditoinnnista kiinnostuneelle on ensiarvoisen tärkeää hankkia oikeita vaikutteita, jotka tukevat henkistä kasvua. 
+Vanhaa sanontaa lainaten ympäristö muokkaa ihmistä. Meditoinnnista kiinnostuneen on siksi hakeuduttava paikkoihin, jotka tukevat henkistä kasvua. 
 
-Hölmöjen ihmisten välttäminen ja viisaiden ihmisten seuraan hakeutuminen on tärkeä osa hengellistä harjoitusta. 
+Hölmöjen ihmisten välttäminen ja viisaiden ihmisten seura ovat tärkeä osa hengellistä harjoitusta<sup>7</sup>. 
 
 Ja mitä enemmän viettää aikaa viisaassa seurassa, sitä viisaammaksi myös oma ajattelu muuttuu.
 
 Fiksulle buddhalaiselle harjoittajalle parasta seuraa ovat tietenkin Buddhan opetukset. 
 
 
-
-
+<i>Lähteet ja viittaukset:</i>
+1. Buddha ei ymmärrettävästi käyttänyt jäänmurtajavertausta, mutta vertasi ajattelun puhdistamista esimerkiksi kultahipun puhdistamiseen, <a href="https://suttacentral.net/an3.101/en/sujato">AN 3.101</a>.
+2. Julkaisu pohjaa opetukseen <a href="https://suttacentral.net/mn19/en/sujato">MN 19</a>.
+3. Buddhan mukaan on olemassa kaksi voimaa: reflektointi ja meditointi (<a href="https://suttacentral.net/an2.11-20/en/sujato">AN 2.11</a>). Viisaalla pohdiskelulla on siis tärkeä rooli buddhalaisesa harjoituksessa.
+4. Sadevertaus löytyy muun muassa suttasta <a href="https://suttacentral.net/an10.61/en/">AN 10.61</a>.
+5. <a href="https://suttacentral.net/sn45.2/en/sujato>SN 45.2</sup>.
+6. Tähän periaatteeseen viittaa Buddhan opetus minuuden puuttumisesta (paaliksi <i>Anattā</i>, yleisimmin ei-itseys). Kuuluisaa <a href="https://suttacentral.net/sn22.59/en/sujato">Anattalakkhaṇa Suttaa</a> mukaillen ihminen ei voi käskeä omien valintojensa tai ajatuksiensa olevan niin tai näin.
+7. Tämä ohje löytyy usein buddhalaisissa luostareissa lausutusta <a href="https://suttacentral.net/snp2.4/en/sujato">Maṅgalasuttasta</a>.

@@ -10,8 +10,6 @@ excerpt: "Syvenny Buddhan opetuksiin."
 
 sidebar:
   - title: "Ota yhteyttä!"
-    image: "/assets/images/uusilogopieni.png"
-    image_alt: "logo"
     text: "meditoikuinbuddha@gmail.com"
   - title: "Seuraa Facebookissa"
     text: <a href="https://www.facebook.com/profile.php?id=61555870603768">Meditoi kuin Buddha</a>
@@ -40,6 +38,7 @@ Sivusto on täysin ilmainen ja vapaa mainoksista.
 Meditoikuinbuddha.fi tekee yhteistyötä norjalaisen <a href="https://www.dnbf.org/en">The Buddhist Society of Norwayn</a> kanssa, jolla on oma paikallisryhmä Tampereella.
 
 Jos olet kiinnostunut Suomen paikallistoimintaan osallistumisesta, pistä viestiä osoitteeseen tampere@dnbf.org. 
+<center><img src="/assets/images/uusilogomini.png" alt="meditoikuinbuddhalogo"></center>
 
 
 

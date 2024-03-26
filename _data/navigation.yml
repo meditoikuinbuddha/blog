@@ -8,6 +8,9 @@ main:
     url: /tervetuloa
   - title: "Youtube"
     url: https://www.youtube.com/channel/UChhVNQ5q56MAXhrdlKCTo8Q
+  - title: "FB"
+    url: https://www.facebook.com/profile.php?id=61555870603768
+
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/

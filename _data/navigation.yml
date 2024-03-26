@@ -6,6 +6,8 @@ main:
     url: /linkit
   - title: "Info"
     url: /tervetuloa
+  - title: "Youtube"
+    url: https://www.youtube.com/channel/UChhVNQ5q56MAXhrdlKCTo8Q
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/

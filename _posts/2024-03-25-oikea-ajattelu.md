@@ -25,7 +25,7 @@ author: "Meditoi kuin Buddha"
 
 <i>Kuuntele julkaisu luettuna</i>:
 <audio controls>
-  <source src="assets/audio/Recording_9.mp3" type="audio/mp3">
+  <source src="assets/audio/2024-03-25/2024-03-25-finalaudio.mp3" type="audio/mp3">
 </audio>
 
 Buddhalaisessa harjoituksessa ajattelulla ja näkemyksillä on läheinen side.

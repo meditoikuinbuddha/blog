@@ -56,18 +56,6 @@ feature_row:
     alt: "emptycloud"
     title: <a href="https://emptyclouditalia.org/en/">Empty Cloud Italia</a>
     excerpt: "Luostariprojekti Italiassa."
-  - image_path: /assets/images/sbu2.png
-    alt: "suomenbuddhalainenunioni"
-    title: <a href="https://www.sbu.fi/">Suomen Buddhalainen Unioni</a>
-    excerpt: "Suomen buddhalaisten yhteistyöjärjestö."
-  - image_path: /assets/images/bodhidharma.png
-    alt: "bodhidharma"
-    title: <a href="https://www.bodhidharma.fi/">Bodhidharma</a>
-    excerpt: "Suomen vanhin buddhalainen yhdistys, jonka sivuilla on muun muassa sutta-käännöksiä."
-  - image_path: /assets/images/nirodha-logo.jpg
-    alt: "nirodha"
-    title: <a href="https://www.nirodha.fi/">Nirodha</a>
-    excerpt: "Suomalainen meditointiyhteisö, joka järjestää meditointi-iltoja ja retriittejä."
     
 
 

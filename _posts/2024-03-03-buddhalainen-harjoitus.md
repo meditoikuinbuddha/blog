@@ -13,6 +13,15 @@ entries_layout: grid
 
 author: "Meditoi kuin Buddha"
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JP7JRZBH2P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JP7JRZBH2P');
+</script>
 <figure>
 <img src="assets/images/varun-singh-RmWkrjjz2J4-unsplash.jpg" alt="buddhapatsas">
 <figcaption> Buddhapatsas Pohjois-Intiassa. Kuva: Varun Singh</figcaption>

@@ -13,19 +13,7 @@ entries_layout: grid
 
 author: "Meditoi kuin Buddha"
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JP7JRZBH2P"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-JP7JRZBH2P');
-</script>
-<figure>
-<img src="assets/images/varun-singh-RmWkrjjz2J4-unsplash.jpg" alt="buddhapatsas">
-<figcaption> Buddhapatsas Pohjois-Intiassa. Kuva: Varun Singh</figcaption>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_yAsEwcwudQ?si=Q0QmEItmZJijN3pj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <i>Kuuntele julkaisu luettuna</i>:
 <audio controls>
@@ -35,6 +23,11 @@ author: "Meditoi kuin Buddha"
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
 <h2>Buddhalainen harjoitus ei ole vain meditointia</h2>
+
+<figure>
+<img src="assets/images/varun-singh-RmWkrjjz2J4-unsplash.jpg" alt="buddhapatsas">
+<figcaption> Buddhapatsas Pohjois-Intiassa. Kuva: Varun Singh</figcaption>
+</figure>
 
 Buddhan varhaisissa opetuksissa henkinen harjoitus etenee vaiheittain ja suunnitelmallisesti. 
 

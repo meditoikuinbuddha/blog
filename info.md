@@ -14,10 +14,7 @@ sidebar:
   - title: "Seuraa Facebookissa"
     text: <a href="https://www.facebook.com/profile.php?id=61555870603768">Meditoi kuin Buddha</a>
 ---
-<figure>
-<img src="https://readingfaithfully.org/wp-content/uploads/2018/06/AllCovers-STORY-OneLine.jpg" alt="suttas">
-  <figcaption>Kuva: <a href="https://readingfaithfully.org">ReadingFaithfully.org</a></figcaption>
-</figure>
+<center><img src="/assets/images/uusilogomini.png" alt="meditoikuinbuddhalogo"></center>
 
 Kaikki haluavat meditoida, mutta miten se oikein tapahtuu?
 
@@ -26,6 +23,11 @@ Buddhalaisessa harjoituksessa teoria ja käytäntö lyövät kättä. Tällä si
 Sivustolla ääneen pääsevät myös <a href="https://meditoikuinbuddha.fi/categories/puheenvuoro">kokeneet buddhalaiset opettajat</a>, minkä lisäksi kerromme <a href="https://meditoikuinbuddha.fi/categories/ajankohtaista">tulevista tapahtumista</a>, joissa Buddhan opetuksia pistetään käytäntöön.
 
 Sivusto on täysin ilmainen ja vapaa mainoksista.
+
+<figure>
+<img src="https://readingfaithfully.org/wp-content/uploads/2018/06/AllCovers-STORY-OneLine.jpg" alt="suttas">
+  <figcaption>Kuva: <a href="https://readingfaithfully.org">ReadingFaithfully.org</a></figcaption>
+</figure>
 
 <a href="https://www.vecteezy.com/free-vector/lotus">Lotus Vectors by Vecteezy</a>
 
@@ -38,7 +40,6 @@ Sivusto on täysin ilmainen ja vapaa mainoksista.
 Meditoikuinbuddha.fi tekee yhteistyötä norjalaisen <a href="https://www.dnbf.org/en">The Buddhist Society of Norwayn</a> kanssa, jolla on oma paikallisryhmä Tampereella.
 
 Jos olet kiinnostunut Suomen paikallistoimintaan osallistumisesta, pistä viestiä osoitteeseen tampere@dnbf.org. 
-<center><img src="/assets/images/uusilogomini.png" alt="meditoikuinbuddhalogo"></center>
 
 
 

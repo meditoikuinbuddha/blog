@@ -13,6 +13,16 @@ entries_layout: grid
 
 author: "Meditoi kuin Buddha"
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JP7JRZBH2P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JP7JRZBH2P');
+</script>
+
 <figure>
 <img src="assets/images/firstsermon.jpg" alt="Buddhan opetusura alkaa">
 <figcaption> Taiteilijan tulkinta Buddhan ensimmäisestä opetuksesta. Kuva: I Made Ariasa</figcaption>

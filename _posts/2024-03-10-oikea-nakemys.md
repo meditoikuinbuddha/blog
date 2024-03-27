@@ -25,6 +25,8 @@ author: "Meditoi kuin Buddha"
   <source src="assets/audio/2024-03-10/2024-03-10-final.mp3" type="audio/mp3">
 </audio>
 
+<h2>Näkemyksillä on väliä</h2>
+
 </script>
 <figure>
 <img src="assets/images/aaron-burden-NXt5PrOb_7U-unsplash.jpg" alt="kompassi">

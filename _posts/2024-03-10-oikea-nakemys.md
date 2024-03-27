@@ -27,7 +27,6 @@ author: "Meditoi kuin Buddha"
 
 <h2>Näkemyksillä on väliä</h2>
 
-</script>
 <figure>
 <img src="assets/images/aaron-burden-NXt5PrOb_7U-unsplash.jpg" alt="kompassi">
 <figcaption> Elämässä on hyvä valita oikea suunta. Kuva: Aaron Burden</figcaption>

@@ -30,6 +30,11 @@ author: "Meditoi kuin Buddha"
 
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
+<i>Kuuntele julkaisu luettuna</i>:
+<audio controls>
+  <source src="assets/audio/2024-02-16/2024-02-16-final.mp3" type="audio/mp3">
+</audio>
+
 <h2>Kuka Buddha oli?</h2>
 
 Buddha eli noin 2500 vuotta sitten nykyisen Intian ja Nepalin rajan tienoilla.<sup>1</sup> 29-vuotiaana

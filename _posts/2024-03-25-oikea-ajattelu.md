@@ -14,10 +14,9 @@ entries_layout: grid
 author: "Meditoi kuin Buddha"
 ---
 
-<figure>
-<img src="assets/images/noaa-po_CDivElTI-unsplash.jpg" alt="jäänmurtaja">
-<figcaption> Ajattelu kääntyy hitaasti, kuin jäänmurtaja. Kuva: NOAA</figcaption>
-</figure>
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=SWr3ISPucj8&t=25s">
+</iframe>
 
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
@@ -27,6 +26,11 @@ author: "Meditoi kuin Buddha"
 <audio controls>
   <source src="assets/audio/2024-03-25/2024-03-25-finalaudio.mp3" type="audio/mp3">
 </audio>
+
+<figure>
+<img src="assets/images/jan-kopriva-do5eC9PNeQ0-unsplash.jpg" alt="lehmät">
+<figcaption> Ajatukset ovat kuin lehmiä. Kuva: Jan Kopriva</figcaption>
+</figure>
 
 Buddhalaisessa harjoituksessa ajattelulla ja näkemyksillä on läheinen side.
 
@@ -49,8 +53,8 @@ Mutta mitä tarkemmin ottaen on "oikea" ajattelu? Ja miten sitä voi harjoittaa?
 <h2>Viisas arviointi muuttaa ajattelua</h2>
 
 <figure>
-<img src="assets/images/jan-kopriva-do5eC9PNeQ0-unsplash.jpg" alt="lehmät">
-<figcaption> Ajatukset ovat kuin lehmiä. Kuva: Jan Kopriva</figcaption>
+<img src="assets/images/noaa-po_CDivElTI-unsplash.jpg" alt="jäänmurtaja">
+<figcaption> Ajattelu kääntyy hitaasti, kuin jäänmurtaja. Kuva: NOAA</figcaption>
 </figure>
 
 Buddha itse aloitti ajattelun työstämisen jaottelemalla ajatukset kahteen ryhmään <sup>2</sup>.

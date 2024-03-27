@@ -14,20 +14,20 @@ sidebar:
   - title: "Seuraa Facebookissa"
     text: <a href="https://www.facebook.com/profile.php?id=61555870603768">Meditoi kuin Buddha</a>
 ---
-<center><img src="/assets/images/uusilogomini.png" alt="meditoikuinbuddhalogo"></center>
-
-Kaikki haluavat meditoida, mutta miten se oikein tapahtuu?
-
-Buddhalaisessa harjoituksessa teoria ja käytäntö lyövät kättä. Tällä sivustolla tutkitaan <a href="https://meditoikuinbuddha.fi/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a> ystävällisyydestä, rauhasta ja viisaudesta. Päämääränä on oppia meditoimaan kuin Buddha.
-
-Sivustolla ääneen pääsevät myös <a href="https://meditoikuinbuddha.fi/categories/puheenvuoro">kokeneet buddhalaiset opettajat</a>, minkä lisäksi kerromme <a href="https://meditoikuinbuddha.fi/categories/ajankohtaista">tulevista tapahtumista</a>, joissa Buddhan opetuksia pistetään käytäntöön.
-
-Sivusto on täysin ilmainen ja vapaa mainoksista.
-
 <figure>
 <img src="https://readingfaithfully.org/wp-content/uploads/2018/06/AllCovers-STORY-OneLine.jpg" alt="suttas">
   <figcaption>Kuva: <a href="https://readingfaithfully.org">ReadingFaithfully.org</a></figcaption>
 </figure>
+
+Kaikki haluavat meditoida, mutta miten se oikein tapahtuu?
+
+Buddhalaisessa harjoituksessa teoria ja käytäntö lyövät kättä. Tällä sivustolla tutkitaan <a href="https://meditoikuinbuddha.fi/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a> ystävällisyydestä, rauhasta ja viisaudesta. Päämääränä on oppia meditoimaan kuin Buddha.
+<br>
+<center><img src="/assets/images/uusilogomini.png" alt="meditoikuinbuddhalogo"></center>
+<br>
+Sivustolla ääneen pääsevät myös <a href="https://meditoikuinbuddha.fi/categories/puheenvuoro">kokeneet buddhalaiset opettajat</a>, minkä lisäksi kerromme <a href="https://meditoikuinbuddha.fi/categories/ajankohtaista">tulevista tapahtumista</a>, joissa Buddhan opetuksia pistetään käytäntöön.
+
+Sivusto on täysin ilmainen ja vapaa mainoksista.
 
 <a href="https://www.vecteezy.com/free-vector/lotus">Lotus Vectors by Vecteezy</a>
 

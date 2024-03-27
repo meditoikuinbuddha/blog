@@ -13,23 +13,23 @@ entries_layout: grid
 
 author: "Meditoi kuin Buddha"
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JP7JRZBH2P"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-JP7JRZBH2P');
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBs1NC4a_yY?si=GW8LQogykIsW0FKN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
+
+<i>Tämä julkaisu on ensimmäinen osa sarjassa, jossa käsitellään <a href="https://meditoikuinbuddha.fi/buddhalainenharjoitus">jalon kahdeksanosaisen polun</a> osia yksitellen.</i>
+
+<i>Kuuntele julkaisu luettuna</i>:
+<audio controls>
+  <source src="assets/audio/2024-03-25/2024-03-10-final.mp3" type="audio/mp3">
+</audio>
+
 </script>
 <figure>
 <img src="assets/images/aaron-burden-NXt5PrOb_7U-unsplash.jpg" alt="kompassi">
 <figcaption> Elämässä on hyvä valita oikea suunta. Kuva: Aaron Burden</figcaption>
 </figure>
-
-<b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
-
-<i>Tämä julkaisu on ensimmäinen osa sarjassa, jossa käsitellään <a href="https://meditoikuinbuddha.fi/buddhalainenharjoitus">jalon kahdeksanosaisen polun</a> osia yksitellen.</i>
 
 Näkemyksien ja uskomuksien rooli ihmisen elämässä on valtava. 
 

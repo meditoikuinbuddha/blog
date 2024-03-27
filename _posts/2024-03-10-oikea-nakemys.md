@@ -13,6 +13,15 @@ entries_layout: grid
 
 author: "Meditoi kuin Buddha"
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JP7JRZBH2P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JP7JRZBH2P');
+</script>
 <figure>
 <img src="assets/images/aaron-burden-NXt5PrOb_7U-unsplash.jpg" alt="kompassi">
 <figcaption> Elämässä on hyvä valita oikea suunta. Kuva: Aaron Burden</figcaption>

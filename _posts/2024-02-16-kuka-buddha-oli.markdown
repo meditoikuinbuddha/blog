@@ -13,20 +13,7 @@ entries_layout: grid
 
 author: "Meditoi kuin Buddha"
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JP7JRZBH2P"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-JP7JRZBH2P');
-</script>
-
-<figure>
-<img src="assets/images/firstsermon.jpg" alt="Buddhan opetusura alkaa">
-<figcaption> Taiteilijan tulkinta Buddhan ensimmäisestä opetuksesta. Kuva: I Made Ariasa</figcaption>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KvNjudYLk0I?si=BsojV8d0fqukB6Qq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
@@ -36,6 +23,11 @@ author: "Meditoi kuin Buddha"
 </audio>
 
 <h2>Kuka Buddha oli?</h2>
+
+<figure>
+<img src="assets/images/firstsermon.jpg" alt="Buddhan opetusura alkaa">
+<figcaption> Taiteilijan tulkinta Buddhan ensimmäisestä opetuksesta. Kuva: I Made Ariasa</figcaption>
+</figure>
 
 Buddha eli noin 2500 vuotta sitten nykyisen Intian ja Nepalin rajan tienoilla.<sup>1</sup> 29-vuotiaana
 yltäkylläisyydessä elänyt mies jätti perheensä ja rikkautensa löytääkseen vastauksen ikääntymiseen,

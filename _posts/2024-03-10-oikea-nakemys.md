@@ -22,7 +22,7 @@ author: "Meditoi kuin Buddha"
 
 <i>Kuuntele julkaisu luettuna</i>:
 <audio controls>
-  <source src="assets/audio/2024-03-25/2024-03-10-final.mp3" type="audio/mp3">
+  <source src="assets/audio/2024-03-10/2024-03-10-final.mp3" type="audio/mp3">
 </audio>
 
 </script>

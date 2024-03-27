@@ -25,6 +25,8 @@ author: "Meditoi kuin Buddha"
   <source src="assets/audio/2024-03-25/2024-03-25-finalaudio.mp3" type="audio/mp3">
 </audio>
 
+<h2> Ajattelua sopii pohtia </h2>
+
 <figure>
 <img src="assets/images/jan-kopriva-do5eC9PNeQ0-unsplash.jpg" alt="lehmät">
 <figcaption> Ajatukset ovat kuin lehmiä. Kuva: Jan Kopriva</figcaption>

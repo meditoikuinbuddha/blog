@@ -27,6 +27,11 @@ author: "Meditoi kuin Buddha"
 <figcaption> Buddhapatsas Pohjois-Intiassa. Kuva: Varun Singh</figcaption>
 </figure>
 
+<i>Kuuntele julkaisu luettuna</i>:
+<audio controls>
+  <source src="assets/audio/2024-03-25/2024-03-03-final.mp3" type="audio/mp3">
+</audio>
+
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
 <h2>Buddhalainen harjoitus ei ole vain meditointia</h2>

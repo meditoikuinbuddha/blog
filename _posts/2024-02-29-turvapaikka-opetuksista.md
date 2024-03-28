@@ -14,7 +14,6 @@ entries_layout: grid
 author: Ajahn Brahmali
 ---
 
-
 <img src="assets/images/puheenvuorobrahmali.png" alt="ajahnbrahmali">
 
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>

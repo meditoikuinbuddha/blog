@@ -7,25 +7,15 @@ author: "Ajahn Brahmali"
 category: Puheenvuoro
 permalink: turvapaikka
 header: 
-       teaser: assets/images/brahmali.jpg
+       teaser: assets/images/puheenvuorobhrahmali.png
 
 entries_layout: grid
 
 author: Ajahn Brahmali
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JP7JRZBH2P"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-JP7JRZBH2P');
-</script>
-<figure>
-<img src="assets/images/brahmali.jpg" alt="brahmali">
-<figcaption> Ajahn Brahmali opettamassa Norjassa. Kuva: DNBF.org</figcaption>
-</figure>
+
+<img src="assets/images/puheenvuorobrahmali.png" alt="ajahnbrahmali">
 
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 

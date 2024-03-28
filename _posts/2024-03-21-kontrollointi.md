@@ -7,26 +7,14 @@ author: "Ajahn Brahm"
 category: Puheenvuoro
 permalink: kontrollointi
 header: 
-       teaser: assets/images/bodhinyana.jpg
+       teaser: assets/images/puheenvuorobrahm.png
 
 entries_layout: grid
 
 author: Ajahn Brahm
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JP7JRZBH2P"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-JP7JRZBH2P');
-</script>
-<figure>
-<img src="assets/images/bodhinyana.jpg" alt="bodhinyana">
-<figcaption> Ajahn Brahm almukierroksella kotiluostarissaan. Kuva: DNBF.org</figcaption>
-</figure>
-
+<img src="assets/images/puheenvuorobrahm.png" alt="ajahnbrahm">
 
 Buddhalainen järjestömme teetätti joitain vuosia sitten t-paitoja sloganilla: "Älä stressaa, homma ei ole hallussa".
 

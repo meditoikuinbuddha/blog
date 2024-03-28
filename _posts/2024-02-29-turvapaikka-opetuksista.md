@@ -7,7 +7,7 @@ author: "Ajahn Brahmali"
 category: Puheenvuoro
 permalink: turvapaikka
 header: 
-       teaser: assets/images/puheenvuorobhrahmali.png
+       teaser: assets/images/puheenvuorobrahmali.png
 
 entries_layout: grid
 

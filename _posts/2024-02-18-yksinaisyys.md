@@ -13,9 +13,13 @@ entries_layout: grid
 
 author: Ajahn Brahm
 ---
-<img src="assets/images/puheenvuorobrahm.png" alt="ajahnbrahm">
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J8_1950CM3U?si=2QQyxl3e7W__bcmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
+
+<i>Kuuntele julkaisu luettuna</i>:
+<audio controls>
+  <source src="assets/audio/2024-03-25/2024-03-25-finalaudio.mp3" type="audio/mp3">
+</audio>
 
 Munkkina minulta usein kysytään, miltä tuntuu elää ilman puolisoa tai lapsia. Tunnenko itseni yksinäiseksi? Joskus olen viettänyt kuukausia hiljaa puhumatta kenellekään. Alkaako silloin yksinolo kaihertaa?
 

@@ -13,23 +13,17 @@ entries_layout: grid
 
 author: "Meditoi kuin Buddha"
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JP7JRZBH2P"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-JP7JRZBH2P');
-</script>
-<figure>
-<img src="assets/images/aron-visuals.jpg" alt="Tiimalasi">
-<figcaption> Ihmiselämää ei kannata hukata. Kuva: Aron Visuals</figcaption>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSNgIf4lKIE?si=-G5RxI4xcLc-w5Wk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
-Kaikki lähtee tosiasioiden tunnustamisesta, myös buddhalaisuudessa.
+<i>Kuuntele julkaisu luettuna:</i>
+<audio controls>
+  <source src="assets/audio/2024-02-21/2024-02-21-final.mp3" type="audio/mp3">
+</audio>
+
+<h2>Kaikki lähtee tosiasioiden tunnustamisesta, myös buddhalaisuudessa</h2>
 
 Elämän realistinen tarkastelu sekä parantaa elämänlaatua että mahdollistaa meditoinnin onnistumisen. 
 

@@ -18,7 +18,7 @@ author: Ajahn Brahm
 
 <i>Kuuntele julkaisu luettuna</i>:
 <audio controls>
-  <source src="assets/audio/2024-03-25/2024-03-25-finalaudio.mp3" type="audio/mp3">
+  <source src="assets/audio/2024-02-18/2024-02-18-final.mp3" type="audio/mp3">
 </audio>
 
 Munkkina minulta usein kysytään, miltä tuntuu elää ilman puolisoa tai lapsia. Tunnenko itseni yksinäiseksi? Joskus olen viettänyt kuukausia hiljaa puhumatta kenellekään. Alkaako silloin yksinolo kaihertaa?

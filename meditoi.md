@@ -8,14 +8,14 @@ header:
   caption: "Kuva: [**DNBF**]"
 excerpt: "Tule mukaan meditoimaan!"
 ---
-Haluatko meditoida hyvässä seurassa?
-
-Meditoikuinbuddha.fi tekee yhteistyötä norjalaisen <a href="https://www.dnbf.org/en">The Buddhist Society of Norwayn</a> kanssa, jolla on oma paikallisryhmä Tampereella.
+<h2>Haluatko meditoida hyvässä seurassa?</h2>
 
 <figure>
 <img src="assets/images/jyrki-nieminen-5zLhWqntDQA-unsplash.jpg" alt="tampere">
   <figcaption>Tampere. Kuva: Jyrki Nieminen</figcaption>
 </figure>
+
+Meditoikuinbuddha.fi tekee yhteistyötä norjalaisen <a href="https://www.dnbf.org/en">The Buddhist Society of Norwayn</a> kanssa, jolla on oma paikallisryhmä Tampereella.
 
 Tarkasta tulevat tai menneet tapahtumat <a href="https://meditoikuinbuddha.fi/categories/ajankohtaista/">täältä</a>.
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Meditoi"
+title: "Meditoi!"
 permalink: meditoi
 
 header:

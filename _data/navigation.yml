@@ -2,6 +2,8 @@
 main:
   - title: "Julkaisut"
     url: /julkaisut
+  - title: "Meditoi!"
+    url: /meditoi 
   - title: "Linkit"
     url: /linkit
   - title: "Info"

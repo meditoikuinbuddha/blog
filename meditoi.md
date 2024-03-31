@@ -1,16 +1,21 @@
 ---
 layout: single
-title: "Meditoi!"
+title: "Meditoi"
 permalink: meditoi
 
 header:
-  overlay_image: assets/images/meditoikuinbuddhabanner.jpg
-  caption: ""
+  overlay_image: assets/images/dnbf-tromso-1-1200x676.jpg
+  caption: "Kuva: [**DNBF**]"
 excerpt: "Tule mukaan meditoimaan!"
 ---
 Haluatko meditoida hyvässä seurassa?
 
 Meditoikuinbuddha.fi tekee yhteistyötä norjalaisen <a href="https://www.dnbf.org/en">The Buddhist Society of Norwayn</a> kanssa, jolla on oma paikallisryhmä Tampereella.
+
+<figure>
+<img src="assets/images/jyrki-nieminen-5zLhWqntDQA-unsplash.jpg" alt="tampere">
+  <figcaption>Tampere. Kuva: Jyrki Nieminen</figcaption>
+</figure>
 
 Tarkasta tulevat tai menneet tapahtumat <a href="https://meditoikuinbuddha.fi/categories/ajankohtaista/">täältä</a>.
 

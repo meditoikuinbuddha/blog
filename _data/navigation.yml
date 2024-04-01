@@ -2,7 +2,7 @@
 main:
   - title: "Julkaisut"
     url: /julkaisut
-  - title: "Meditoi!"
+  - title: "Meditoi"
     url: /meditoi 
   - title: "Info"
     url: /tervetuloa

@@ -19,13 +19,17 @@ sidebar:
   <figcaption>Kuva: <a href="https://readingfaithfully.org">ReadingFaithfully.org</a></figcaption>
 </figure>
 
-Kaikki haluavat meditoida, mutta miten se oikein tapahtuu?
+Jos haluat oppia meditoimaan, olet tullut oikeaan paikkaan!
 
-Buddhalaisessa harjoituksessa teoria ja käytäntö lyövät kättä. Tällä sivustolla tutkitaan <a href="https://meditoikuinbuddha.fi/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a> ystävällisyydestä, rauhasta ja viisaudesta. Päämääränä on oppia meditoimaan kuin Buddha.
+<a href="https://meditoikuinbuddha.fi/categories/ajankohtaista">Meditointi-iltojen ja retriittien</a> lisäksi tarjoamme <a href="https://meditoikuinbuddha.fi/categories/meditointihetki">ohjattuja meditointihetkiä</a> ja <a href="https://meditoikuinbuddha.fi/cateories/inspiraatiota">inspiroivia tarinoita buddhalaisesta maailmasta</a>.
+
+Buddhalaisessa harjoituksessa teoria ja käytäntö lyövät kättä, joten tutkimme myös<a href="https://meditoikuinbuddha.fi/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a> ystävällisyydestä, rauhasta ja viisaudesta. 
+
+Päämäärämme on oppia meditoimaan kuin Buddha. Tule mukaan!
+
 <br>
 <center><img src="/assets/images/uusilogomini.png" alt="meditoikuinbuddhalogo"></center>
 <br>
-Sivustolla ääneen pääsevät myös <a href="https://meditoikuinbuddha.fi/categories/puheenvuoro">kokeneet buddhalaiset opettajat</a>, minkä lisäksi kerromme <a href="https://meditoikuinbuddha.fi/categories/ajankohtaista">tulevista tapahtumista</a>, joissa Buddhan opetuksia pistetään käytäntöön.
 
 Sivusto on täysin ilmainen ja vapaa mainoksista.
 

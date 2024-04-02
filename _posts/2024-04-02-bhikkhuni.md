@@ -1,6 +1,6 @@
 ---
 layout: "posts"
-title: Buddhalainen maailma tarvitsee täysvihittyjä nunnia
+title: Täysivihittyjä nunnia on tuettava
 excerpt: "Lue inspiroiva tarina naisen matkasta Laosista britteihin."
 date: 2024-04-02 09:00:00 +0200
 author: "Meditoi kuin Buddha"

@@ -4,7 +4,7 @@ title: "Oikea näkemys vie vapauteen"
 excerpt: "<h3>Viisaat oletukset ovat tärkeä osa buddhalaista polkua.</h3>"
 date: 2024-03-10 12:00:00 +0200
 author: "Meditoi kuin Buddha"
-category: "Lukuhetki"
+category: "Sutta-tuokio"
 permalink: oikeanakemys
 header: 
        teaser: assets/images/aaron-burden-NXt5PrOb_7U-unsplash.jpg

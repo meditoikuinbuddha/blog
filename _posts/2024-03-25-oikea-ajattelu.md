@@ -4,7 +4,7 @@ title: "Voiko omaa ajattelua muuttaa?"
 excerpt: "<h3>Buddha ei tapellut ajatuksiensa kanssa, vaan sovelsi niihin viisautta.</h3>"
 date: 2024-03-25 10:00:00 +0200
 author: "admin"
-category: "Lukuhetki"
+category: "Sutta-tuokio"
 permalink: oikeaajattelu
 header:  
        teaser: assets/images/jan-kopriva-do5eC9PNeQ0-unsplash.jpg

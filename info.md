@@ -23,7 +23,7 @@ Jos haluat oppia meditoimaan, olet tullut oikeaan paikkaan!
 
 <a href="https://meditoikuinbuddha.fi/categories/ajankohtaista">Meditointi-iltojen ja retriittien</a> lisäksi tarjoamme <a href="https://meditoikuinbuddha.fi/categories/meditointihetki">ohjattuja meditointihetkiä</a> ja <a href="https://meditoikuinbuddha.fi/cateories/inspiraatiota">inspiroivia tarinoita buddhalaisesta maailmasta</a>.
 
-Buddhalaisessa harjoituksessa teoria ja käytäntö lyövät kättä, joten tutkimme myös<a href="https://meditoikuinbuddha.fi/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a> ystävällisyydestä, rauhasta ja viisaudesta. 
+Buddhalaisessa harjoituksessa teoria ja käytäntö lyövät kättä, joten tutkimme myös <a href="https://meditoikuinbuddha.fi/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a> ystävällisyydestä, rauhasta ja viisaudesta. 
 
 Päämäärämme on oppia meditoimaan kuin Buddha. Tule mukaan!
 

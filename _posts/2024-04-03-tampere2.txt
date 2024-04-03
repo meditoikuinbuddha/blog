@@ -1,0 +1,42 @@
+---
+layout: "posts"
+title: "Meditointi-ilta Tampereella 11.4. kello 18-20"
+excerpt: "<h3>Jälleen meditoidaan yhdessä Tampereella.</h3>"
+date: 2024-04-3 09:00:00 +0200
+author: "Meditoi kuin Buddha"
+category: "Ajankohtaista"
+permalink: tampere2
+header: 
+       teaser: assets/images/15b696_70f0de5eeb954be3a4cb03d1cd150520~mv2_d_6000_4000_s_4_2.jpg
+
+entries_layout: grid
+
+author: "Meditoi kuin Buddha"
+---
+
+<figure>
+<img src="assets/images/jyrki-nieminen-5zLhWqntDQA-unsplash.jpg" alt="tampere">
+<figcaption> Mansesteri. Kuva: Jyrki Nieminen</figcaption>
+</figure>
+
+<h2>Meditointia Tampereella su 31.3. kello 14-16</h2>
+
+Meditoikuinbuddha.fi järjestää meditointi-illan Tampereen Pispalassa ensi torstaina 11.4. kello 18 lähtien.
+
+Luvassa on ohjattu meditaatio ja halukkaille rentoa jutustelua tee- tai kahvikupposen äärellä.
+
+Paikka: Mahdollisuuksien tila, Selininkatu 5, Tampere.
+Aika: 18.00 - 20.00
+
+Tapahtumaan ei tarvitse ilmoittautua, mutta tulethan paikalle ennen kello 18.15, jolloin meditointi alkaa.
+
+<figure>
+<img src="assets/images/15b696_70f0de5eeb954be3a4cb03d1cd150520~mv2_d_6000_4000_s_4_2.jpg.jpg" alt="tampere">
+<figcaption> Mahdollisuuksien tila Pispalassa</figcaption>
+</figure>
+
+Tulevista meditointi-illoista Tampereella ja Helsingissä ilmoitetaan myös Facebook-ryhmässä:<br> <a href="https://www.facebook.com/groups/416251517754820">Meditointiryhmä Helsinki&Tampere</a>.<br>
+
+Käy tykkäämässä sivustamme:<br> <a href="https://www.facebook.com/profile.php?id=61555870603768">Meditoi kuin Buddha - Facebook</a>
+
+Tervetuloa mukaan!

@@ -51,3 +51,16 @@ Ven. Canda:
     - label: "Info"
       icon: ""
       url: "https://anukampaproject.org/about/#director"
+
+Ajahn Mudito:
+  name        : "Ajahn Mudito"
+  bio         : "Suomalainen munkki ja opettaja."
+  avatar      : "/assets/images/avatarmudito.jpg"
+  location    : Suomi
+  links:
+    - label: "Opetuksia"
+      icon: ""
+      url: "https://www.bodhidharma.fi/?p=1815"
+    - label: "Info"
+      icon: ""
+      url: "https://www.bsv.net.au/bhante-mudito/"

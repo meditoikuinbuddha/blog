@@ -19,11 +19,9 @@ sidebar:
   <figcaption>Kuva: <a href="https://readingfaithfully.org">ReadingFaithfully.org</a></figcaption>
 </figure>
 
-Jos haluat oppia meditoimaan, olet tullut oikeaan paikkaan!
+Kaikki haluavat oppia meditoimaan, mutta miten se oikein tapahtuu?
 
-<a href="https://meditoikuinbuddha.fi/categories/ajankohtaista">Meditointi-iltojen ja retriittien</a> lisäksi tarjoamme <a href="https://meditoikuinbuddha.fi/categories/meditointihetki">ohjattuja meditointihetkiä</a> ja <a href="https://meditoikuinbuddha.fi/cateories/inspiraatiota">inspiroivia tarinoita buddhalaisesta maailmasta</a>.
-
-Buddhalaisessa harjoituksessa teoria ja käytäntö lyövät kättä, joten tutkimme myös <a href="https://meditoikuinbuddha.fi/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a> ystävällisyydestä, rauhasta ja viisaudesta. 
+Buddhalaisessa harjoituksessa teoria ja käytäntö lyövät kättä, joten tällä sivustolla tutkimme <a href="https://meditoikuinbuddha.fi/kukabuddhaoli">Buddhan alkuperäisiä opetuksia</a> ystävällisyydestä, rauhasta ja viisaudesta. 
 
 Päämäärämme on oppia meditoimaan kuin Buddha. Tule mukaan!
 
@@ -37,13 +35,11 @@ Sivusto on täysin ilmainen ja vapaa mainoksista.
 
 <hr>
 
-<a href="https://dnbf.org/en">
-<img src="assets/images/buddhistsocietyofnorway.png" alt="buddhistsocietyofnorway">
+<a href="https://dhamma.fi">
+<img src="assets/images/bannertransparent.png" alt="dhammary">
 </a>
 
-Meditoikuinbuddha.fi tekee yhteistyötä norjalaisen <a href="https://www.dnbf.org/en">The Buddhist Society of Norwayn</a> kanssa, jolla on oma paikallisryhmä Tampereella.
-
-Jos olet kiinnostunut Suomen paikallistoimintaan osallistumisesta, pistä viestiä osoitteeseen tampere@dnbf.org. 
+Meditoikuinbuddha.fi on Buddhalainen yhdistys Dhamma Ry:n pyörittämä sivusto. Tutustu nuoreen yhdistykseen <a href="https://dhamma.fi>täällä</a>. 
 
 
 

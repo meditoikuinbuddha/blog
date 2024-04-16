@@ -4,7 +4,7 @@ title: "Ajahn Mudito ja Buddhalaisuuden perusteet I"
 excerpt: "<h3>Kokenut suomalainen munkki opettaa buddhalaisuuden perusteita.</h3>"
 date: 2024-04-04 09:00:00 +0200
 author: "Ajahn Mudito"
-category: "Ajankohtaista"
+category: "Puheenvuoro"
 permalink: mudito
 header: 
        teaser: assets/images/mudito.jpg

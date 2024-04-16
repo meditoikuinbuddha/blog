@@ -4,7 +4,7 @@ title: "Mitä on buddhalainen harjoitus?"
 excerpt: "<h3>Buddhalainen harjoitus pähkinänkuoressa.</h3>"
 date: 2024-03-03 12:00:00 +0200
 author: "Meditoi kuin Buddha"
-category: "Sutta-tuokio"
+category: "Tietoisku"
 permalink: buddhalainenharjoitus
 header: 
        teaser: assets/images/varun-singh-RmWkrjjz2J4-unsplash.jpg

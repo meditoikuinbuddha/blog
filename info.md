@@ -39,7 +39,7 @@ Sivusto on täysin ilmainen ja vapaa mainoksista.
 <img src="assets/images/bannertransparent.png" alt="dhammary">
 </a>
 
-Meditoikuinbuddha.fi on Buddhalainen yhdistys Dhamma Ry:n pyörittämä sivusto. Tutustu nuoreen yhdistykseen <a href="https://dhamma.fi>täällä</a>. 
+Meditoikuinbuddha.fi on Buddhalainen yhdistys Dhamma Ry:n pyörittämä sivusto. Tutustu nuoreen yhdistykseen <a href="https://dhamma.fi">täällä</a>. 
 
 
 

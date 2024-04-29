@@ -16,7 +16,7 @@ sidebar:
 ---
 
 <a href="https://dhamma.fi">
-<img src="assets/images/bannertransparent.png" alt="dhammary">
+<img src="assets/images/dhammarybannerfinal.png" alt="dhammary">
 </a>
 
 Meditoikuinbuddha.fi on Dhamma Ry:n pyörittämä sivusto. Tutustu yhdistykseen <a href="https://dhamma.fi">täällä</a>.

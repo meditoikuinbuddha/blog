@@ -148,9 +148,9 @@ Usein puheen sijaan paras lahja voi kuitenkin olla hiljaisuus.
 1. Mm. <a href="https://suttacentral.net/snp4.3/en/mills">Snp 4.3</a>
 2. <a href="https://suttacentral.net/an10.89/en/sujato">AN 10.89</a>
 3. <a href="https://suttacentral.net/an4.233/en/sujato">AN 4.233</a>, suttassa luetellaan myös neljännet teot, eli teot, jotka eivät ole synkkiä tai valoisia. Tällaiset teot viittaavat valaistuneeseen olentoon, jonka teot eivät enää aiheuta uutta syntymää.
-4. Mm. <href="https://suttacentral.net/mn41/en/sujato"MN 41</a>
-5.<href="https://suttacentral.net/mn62/en/sujato"MN 61</a>
+4. Mm. <href="https://suttacentral.net/mn41/en/sujato">MN 41</a>
+5.<href="https://suttacentral.net/mn62/en/sujato">MN 61</a>
 6. Kriteerit muiden kritisoimiselle ovat äärimmäisen korkeat buddhalaisuudessa, mm. <a href="https://suttacentral.net/an10.44/en/sujato">AN 10.44</a>
 7. <a href="https://suttacentral.net/mn58/en/sujato">MN 58</a>
 8. Sananlasku löytyy muun muassa Ajahn Brahmin <a href="https://www.bps.lk/olib/bp/bp619s_Brahm_Opening-The-Doors-Of-Your-Heart.pdf">kirjasta</a> "Opening the Door of Your Heart.
-9. <a href="https://suttacentral.net/an4.233/en/sujato">AN 5.214</a></i>
+9. <a href="https://suttacentral.net/an4.233/en/sujato">AN 5.214</a>

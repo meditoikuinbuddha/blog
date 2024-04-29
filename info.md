@@ -14,6 +14,13 @@ sidebar:
   - title: "Seuraa Facebookissa"
     text: <a href="https://www.facebook.com/profile.php?id=61555870603768">Meditoi kuin Buddha</a>
 ---
+
+<a href="https://dhamma.fi">
+<img src="assets/images/bannertransparent.png" alt="dhammary">
+</a>
+
+Meditoikuinbuddha.fi on Dhamma Ry:n pyörittämä sivusto. Tutustu yhdistykseen <a href="https://dhamma.fi">täällä</a>.
+
 <figure>
 <img src="https://readingfaithfully.org/wp-content/uploads/2018/06/AllCovers-STORY-OneLine.jpg" alt="suttas">
   <figcaption>Kuva: <a href="https://readingfaithfully.org">ReadingFaithfully.org</a></figcaption>
@@ -33,13 +40,7 @@ Sivusto on täysin ilmainen ja vapaa mainoksista.
 
 <a href="https://www.vecteezy.com/free-vector/lotus">Lotus Vectors by Vecteezy</a>
 
-<hr>
-
-<a href="https://dhamma.fi">
-<img src="assets/images/bannertransparent.png" alt="dhammary">
-</a>
-
-Meditoikuinbuddha.fi on Buddhalainen yhdistys Dhamma Ry:n pyörittämä sivusto. Tutustu nuoreen yhdistykseen <a href="https://dhamma.fi">täällä</a>. 
+<hr> 
 
 
 

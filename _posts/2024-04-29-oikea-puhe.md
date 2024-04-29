@@ -21,6 +21,8 @@ author: "Meditoi kuin Buddha"
 
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
+<i>Tämä julkaisu on kolmas osa sarjassa, jossa käsitellään <a href="https://meditoikuinbuddha.fi/buddhalainenharjoitus">jalon kahdeksanosaisen polun</a> osia yksitellen.</i>
+
 Buddhalaisuudessa puhutaan usein kunnioittavaan sävyyn "hiljaisista pyhimyksistä"<sup>1</sup>. 
 
 Ylevästä sanaparista huolimatta Buddhalla oli myös paljon sanottavaa puheesta.

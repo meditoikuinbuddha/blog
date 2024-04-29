@@ -63,7 +63,7 @@ Jalo kahdeksanosainen polku (<i>ariyaaṭṭhaṅgikamagga</i>) koostuu seuraavi
 Neljän jalon totuuden ymmärtäminen.<br>
 <b>2. <a href="https://meditoikuinbuddha.fi/oikeaajattelu">Oikea aikomus</a> (<i>sammāsaṅkappa</i>)</b><br>
 Aikomukset ja ideat, jotka pohjaavat luopumiseen, ystävällisyyteen ja huomaavaisuuteen.<br>
-<b>3. Oikea puhe (<i>sammāvācā</i>)</b><br>
+<b>3. <a href="https://meditoikuinbuddha.fi/oikeapuhe">Oikea puhe</a> (<i>sammāvācā</i>)</b><br>
 Puhe, joka on totta, sopusointuista, lempeää ja merkityksellistä.<br>
 <b>4. Oikea toiminta (<i>sammākammanta</i>)</b><br>
 Pidättäytyminen tappamisesta, varastamisesta ja seksuaalisista väärinkäytöksistä.<br>

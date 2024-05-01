@@ -70,7 +70,7 @@ Buddhalaisuudessa puhutaan usein pidättäytymisestä, mikä onkin tärkeä osa 
 Puheen kohdalla Buddha kannusti välttämään neljän tyyppistä puhetta<sup>4</sup>:
 
 <b>1. Valehtelu</b><br>
-<b>2. Hajottava puhe</b><br>
+<b>2. Riidanhaluinen puhe</b><br>
 <b>3. Tyly puhe</b><br>
 <b>4. Tyhjänpäiväinen puhe</b><br>
 

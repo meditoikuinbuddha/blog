@@ -137,9 +137,9 @@ Meille suurelle enemmistölle ohjesäännöt tarjoavat oivallisen tuen ja turvap
 
 <i>Viitteet:</i>
 1. Kolme toiminnan muotoa mainitaan suttissa yhtenään, esim. <a href="https://suttacentral.net/an3.109/en/sujato">AN 3.109</a>, <a href="https://suttacentral.net/mn129/en/sujato">MN 129</a>, <a href="https://suttacentral.net/an3.23/en">AN 3.23</a>.
-2.Kuinka Jalo kahdeksanosainen polku toimii kausaalisesti: <a href="https://suttacentral.net/an10.103/en/sujato">AN 10.103</a>. (Polkua voi tarkastella myös joustavammin, esim. <a href="https://suttacentral.net/mn117/en/sujato>MN 117</a>.)
+2.Kuinka Jalo kahdeksanosainen polku toimii kausaalisesti: <a href="https://suttacentral.net/an10.103/en/sujato">AN 10.103</a>. (Polkua voi tarkastella myös joustavammin, esim. <a href="https://suttacentral.net/mn117/en/sujato">MN 117</a>.)
 3. Jos ajattelu, puhe ja toiminta on mallillaan, meditointi tapahtuu ilman tahtomista: <a href="https://suttacentral.net/an10.2/en/sujato">AN 10.2</a>.
-4. Standardiversio "oikeasta käytöksestä" usein puhuukin pidättäytymisestä "seksuaalisesta toiminnasta": <a href="https://suttacentral.net/ansn43.8/en/sujato>SN 43.8</a>.
+4. Standardiversio "oikeasta käytöksestä" usein puhuukin pidättäytymisestä "seksuaalisesta toiminnasta": <a href="https://suttacentral.net/ansn43.8/en/sujato">SN 43.8</a>.
 5. Viittä harjoitussääntöä noudattavaa kutsutaan "eettiseksi":
 <a href="https://suttacentral.net/sn55.37/en/sujato">SN 55.37</a>.
 6. Esim. <a href="https://suttacentral.net/an10.217/en/sujato">AN 10.217</a>.

@@ -7,7 +7,7 @@ author: "admin"
 category: "Sutta-tuokio"
 permalink: oikeapuhe
 header:  
-       teaser: assets/images/munkkimikki.jpg
+       teaser: assets/images/jonathan-daniels-CdVG9f96kyg-unsplash.jpg
 
 entries_layout: grid
 

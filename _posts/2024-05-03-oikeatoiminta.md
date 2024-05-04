@@ -27,11 +27,11 @@ Ystävällinen toiminta on buddhalaisen harjoituksen perusta.
 
 Buddhalaisuudessa on kolmenlaista toimintaa, jotka ovat erottamattomasti nivoutuneet toisiinsa. Nämä ovat ajattelu, puhe ja fyysinen toiminta<sup>1</sup>. 
 
-Perimmiltään kaikki toiminta pohjaa ihmisen tapaan katsoa maailmaa.
+Perimmiltään kaikki toiminta kumpuaa ihmisen tavasta katsoa maailmaa.
 
-Buddhan mukaan oikea ajattelu kumpuaa siis oikeasta näkemyksestä. Ajattelu puolestaan johtaa oikeaan puheeseen ja puhe tekoihin<sup>2</sup>.
+Tämä tarkoittaa sitä, että oikea ajattelu pohjaa oikeaa näkemykseen. Oikea ajattelu puolestaan johtaa oikeaan puheeseen ja puhe tekoihin<sup>2</sup>.
 
-Kaikkien kolmen osa-alueen pitkäjänteinen työstäminen tekee elämästä mukavampaa ja takaa onnistumisen meditoinnissa.
+Jokaisen osa-alueen pitkäjänteinen työstäminen tekee elämästä mukavampaa ja takaa onnistumisen meditoinnissa.
 
 Jos oma henkinen, verbaalinen ja fyysinen toiminta on linjassa Buddhan opetuksien kanssa, pitäisi meditoinnin onnistua kuin itsestään<sup>3</sup>. 
 
@@ -48,23 +48,23 @@ Ajattelu siis johtaa puheeseen ja puhe tekoihin, mutta miten oikea fyysinen toim
 
 Buddhan mukaan oikea toiminta tarkoittaa yksinkertaisuudessaan pidättäytymistä tappamisesta, varastamisesta ja seksuaalisista väärinkäytöksistä. 
 
-Nunnien ja munkkien kohdalla jälkimmäinen kohta viittaa pidättäytymiseen kaikesta seksuaalisesta toiminnasta<sup>4</sup>.
+Nunnien ja munkkien kohdalla jälkimmäinen kohta vaihtuu pidättäytymiseen kaikesta seksuaalisesta toiminnasta<sup>4</sup>.
 
 Tämän lisäksi buddhalaisen harjoittajan tulisi välttää valehtelua ja mieltä sekoittavia päihteitä. 
 
 Näitä eettisiä periaatteita kutsutaan buddhalaisuudessa viideksi ohjesäännöksi, jotka ovat kaiken buddhalaisen harjoituksen perusta<sup>5</sup>.
 
-Ohjesäännöt ovat kuitenkin vain kolikon toinen puoli. Tärkeintä on tarkastella omaa motiivia.
+Ohjesäännöt ovat kuitenkin vain kolikon toinen puoli. Tärkeintä on tarkastella ja puhdistaa omaa motiivia.
 
 Esimerkiksi tappamisen kohdalla Buddha ei ainoastaan kehottanut pidättäytymään haitallisesta toiminnasta, vaan kannusti elämään "tunnollisesti ja ystävällisesti, sydän täynnä myötätuntoa kaikkia eläviä olentoja kohtaan"<sup>6</sup>.
 
-Sama periaate pätee kaikkiin eettisiin ohjeisiin. Tärkeintä on motiivi. Jos oma toiminta kumpuaa oikeasta paikasta, on toimintakin oikeaa. 
+Sama periaate pätee kaikkiin eettisiin ohjeisiin.
 
 Buddhalaisuudessa oikeat perusmotiivit ovat anteliaisuus (<i>alobha</i>), ystävällisyys (<i>adosa</i>) ja ymmärrys (<i>amoha</i>). Väärät motiivit ovat puolestaan ahneus (<i>lobha</i>), inho (<i>dosa</i>) ja harhaisuus (<i>moha</i>)<sup>7</sup>. 
 
 Kuten <a href="https://meditoikuinbuddha.fi/oikeapuhe">aiemmassa tekstissä kerrottiin</a>, suurin osa inhimillisestä toiminnasta on jossain määrin harmaata. 
 
-Tämä tarkoittaa sitä, että seassa saattaa olla positiivisia motiiveja, mutta myös esimerkiksi ahneutta tai inhoa. 
+Tämä tarkoittaa sitä, että toiminnan taustalla on yleensä vaihtelevasti sekä kauniita että ei-niin-kauniita motiiveja. 
 
 Usein siis puhe "hyvästä" tai "huonosta" karmasta on liian mustavalkoista. Monesti toiminta on jotain siltä väliltä ja seuraukset ovat sen mukaisia<sup>8</sup>. 
 
@@ -75,7 +75,7 @@ Usein siis puhe "hyvästä" tai "huonosta" karmasta on liian mustavalkoista. Mon
 <figcaption> Joskus elämässä tulee eteen vaikeita valintoja. Kuva: Taras Chuiko</figcaption>
 </figure>
 
-Oman mielen ja motiivien tarkastelu antaa tietyssä mielessä parhaan kuvan buddhalaisesta asenteesta.
+Oman mielen ja motiivien tarkastelu on siis tärkeämpää kuin sokea sääntöuskovaisuus.
 
 Buddhalaisesta näkökulmasta ei voi usein suorilta käsin sanoa, onko jokin toiminta "oikein" tai "väärin". 
 
@@ -83,13 +83,13 @@ Tämä pätee vaikeisiin eettisiin kysymyksiin kuten aborttiin tai avustettuun k
 
 Myös tällaisissa tilanteissa teko voi olla kaikkea synkän ja valoisamman väliltä riippuen siitä, mikä on aito motiivi tekojen taustalla. 
 
-Pattitilanteissa ei siis aina voi sanoa, mitä ihmisen "pitäisi tehdä". Ihmisiä voi vain kannustaa tutkimaan omaa mieltään ja miettimään, mistä teot kumpuavat. 
+Pattitilanteissa ei siis aina voi sanoa, mitä ihmisen "pitäisi tehdä". Ihmisiä voi vain kannustaa tutkimaan huolelisesti omaa mieltään ja miettimään, mistä teot kumpuavat. 
 
 Useaan kertaan mainittu buddhalainen jaottelu synkkiin, valoisiin ja harmaisiin tekoihin on paikallaan myös tässä tilanteessa.
 
-Usein suhtautuminen esimerkiksi tappamiseen on liian mustavalkoista. Buddha ei koskaan sinänsä oikeuttanut tappamista <sup>9</sup>, mutta on selvää, että eettinen lataus teon taustalla vaihtelee tilanteen mukaan.
+Buddha ei esimerkiksi oikeuttanut tappamista missään tilanteessa<sup>9</sup>, mutta on selvää, että eettinen lataus teon taustalla vaihtelee tilanteen mukaan.
 
-Jos esimerkiksi vallanhimoinen diktaattori hyökkää valloitusaikein naapurimaahan, on teon lataus olennaisesti erilainen kuin ihmisellä, joka pyrkii vain ja ainoastaan puolustamaan omaa maataan, viimeiseen asti välttäen ihmisten turhaa vahingoittamista.
+Jos esimerkiksi vallanhimoinen diktaattori hyökkää valloitusaikein naapurimaahan, on teon lataus täysin erilainen kuin ihmisellä, joka pyrkii vain ja ainoastaan puolustamaan omaa maataan, viimeiseen asti välttäen ihmisten turhaa vahingoittamista.
 
 Motiivien tarkastelu ja jatkuva pohdikselu antavat tällaisessakin tilanteessa mahdollisuuden lähestyä omaa elämää buddhalaisten periaatteiden mukaisesti.
  
@@ -100,13 +100,13 @@ Motiivien tarkastelu ja jatkuva pohdikselu antavat tällaisessakin tilanteessa m
 <figcaption> Buddhalaisuudessa ihmisen on opittava tuntemaan itsensä. Kuva: Rishabh Dharmani</figcaption>
 </figure>
 
-Joskus uskonnoissa törmää eettisiin ohjeisiin, jotka ovat kiveenhakattuja absoluuttisia käskyjä.
+Joskus uskonnoissa törmää eettisiin ohjeisiin, jotka ovat kiveenhakattuja käskyjä.
 
 Buddhalaisuus toimii hieman toisin.
 
 Esimerkiksi viisi harjoituohjetta ovat nimenomaan ohjeita, jotka antavat selkänojan harjoitukselle. 
 
-Ne eivät ole ylemmän auktoriteetin julkilausumia käskyjä, vaan periaatteita, jotka tekevät elämästä mielekästä ja ruokkivat rauhaa sekä viisautta.
+Ne eivät ole ylemmän auktoriteetin julkilausumia absoluuttisia lakeja, vaan periaatteita, jotka tekevät elämästä mielekästä ja ruokkivat rauhaa sekä viisautta.
 
 Lisäksi niiden seuraukset ovat äärimmäisen positiiviset, jos tarkasteluun otetaan jälleensyntymä<sup>10</sup>.
 

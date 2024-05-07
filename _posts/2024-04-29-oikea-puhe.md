@@ -16,6 +16,11 @@ author: "Meditoi kuin Buddha"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bk_AXvwY5Mk?si=OGOgvi2uXo1N77zK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<i>Kuuntele julkaisu luettuna</i>:
+<audio controls>
+  <source src="assets/audio/2024-04-30/2024-04-30-final.mp3" type="audio/mp3">
+</audio>
+
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 
 <i>Tämä julkaisu on kolmas osa sarjassa, jossa käsitellään <a href="https://meditoikuinbuddha.fi/buddhalainenharjoitus">jalon kahdeksanosaisen polun</a> osia yksitellen.</i>

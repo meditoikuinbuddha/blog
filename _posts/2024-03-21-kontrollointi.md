@@ -7,14 +7,14 @@ author: "Ajahn Brahm"
 category: Puheenvuoro
 permalink: kontrollointi
 header: 
-       teaser: assets/images/puheenvuorobrahm.png
+       teaser: assets/images/brahmpv2.png
 
 entries_layout: grid
 
 author: Ajahn Brahm
 ---
 
-<img src="assets/images/puheenvuorobrahm.png" alt="ajahnbrahm">
+<img src="assets/images/brahmpv2.png" alt="ajahnbrahm">
 
 Buddhalainen järjestömme teetätti joitain vuosia sitten t-paitoja sloganilla: "Älä stressaa, homma ei ole hallussa".
 

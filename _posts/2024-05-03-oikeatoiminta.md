@@ -1,6 +1,6 @@
 ---
 layout: "posts"
-title: "Ystävällinen toiminta takaa onnen"
+title: "Löydä onni ystävällisestä toiminnasta"
 excerpt: "<h3>Buddhalaisuudessa ei seurata käskyjä, vaan tärkeintä on oppia lukemaan omaa mieltään.</h3>"
 date: 2024-05-03 10:00:00 +0200
 author: "admin"

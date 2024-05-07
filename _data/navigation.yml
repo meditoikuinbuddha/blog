@@ -10,8 +10,6 @@ main:
     url: https://www.youtube.com/channel/UChhVNQ5q56MAXhrdlKCTo8Q
   - title: "Linkit"
     url: /linkit
-  - title: "In English"
-    url: https://nordicbuddhism.fi
 
 
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

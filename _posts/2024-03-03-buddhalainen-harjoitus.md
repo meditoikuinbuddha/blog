@@ -65,7 +65,7 @@ Neljän jalon totuuden ymmärtäminen.<br>
 Aikomukset ja ideat, jotka pohjaavat luopumiseen, ystävällisyyteen ja huomaavaisuuteen.<br>
 <b>3. <a href="https://meditoikuinbuddha.fi/oikeapuhe">Oikea puhe</a> (<i>sammāvācā</i>)</b><br>
 Puhe, joka on totta, sopusointuista, lempeää ja merkityksellistä.<br>
-<b>4. Oikea toiminta (<i>sammākammanta</i>)</b><br>
+<b>4.  <a href="https://meditoikuinbuddha.fi/oikeatoiminta">Oikea toiminta</a>(<i>sammākammanta</i>)</b><br>
 Pidättäytyminen tappamisesta, varastamisesta ja seksuaalisista väärinkäytöksistä.<br>
 <b>5. Oikea elämäntapa (<i>sammāājīva</i>)</b><br>
 Vahingoittavan työn välttäminen.<br>

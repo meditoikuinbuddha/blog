@@ -1,6 +1,6 @@
 ---
 layout: "posts"
-title: "Oikea näkemys vie vapauteen"
+title: "Ota suunnaksi onni ja vapaus"
 excerpt: "<h3>Viisaat oletukset ovat tärkeä osa buddhalaista polkua.</h3>"
 date: 2024-03-10 12:00:00 +0200
 author: "Meditoi kuin Buddha"

@@ -1,6 +1,6 @@
 ---
 layout: "posts"
-title: "Voiko omaa ajattelua muuttaa?"
+title: "Muuta ajattelusi viisaammaksi"
 excerpt: "<h3>Buddha ei tapellut ajatuksiensa kanssa, vaan sovelsi niihin viisautta.</h3>"
 date: 2024-03-25 10:00:00 +0200
 author: "admin"

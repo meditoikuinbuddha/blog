@@ -7,7 +7,7 @@ author: "Ajahn Brahm"
 category: Puheenvuoro
 permalink: munkkiyksin
 header: 
-       teaser: assets/images/puheenvuorobrahm.png
+       teaser: assets/images/brahmtitle.png
 
 entries_layout: grid
 

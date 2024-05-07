@@ -7,14 +7,14 @@ author: "Ajahn Brahmali"
 category: Puheenvuoro
 permalink: turvapaikka
 header: 
-       teaser: assets/images/puheenvuorobrahmali.png
+       teaser: assets/images/brahmalititle.png
 
 entries_layout: grid
 
 author: Ajahn Brahmali
 ---
 
-<img src="assets/images/puheenvuorobrahmali.png" alt="ajahnbrahmali">
+<img src="assets/images/brahmalititle.png" alt="ajahnbrahmali">
 
 <b> Anna palautetta: meditoikuinbuddha@gmail.com</b>
 

@@ -1,6 +1,6 @@
 ---
 layout: "posts"
-title: "Kaunis puhe voi olla ihana lahja"
+title: "Työstä puheestasi arvokas lahja"
 excerpt: "<h3>Hiljaisuus on kultaa, mutta myös kaunis puhe voi olla lahja.</h3>"
 date: 2024-04-29 10:00:00 +0200
 author: "admin"
